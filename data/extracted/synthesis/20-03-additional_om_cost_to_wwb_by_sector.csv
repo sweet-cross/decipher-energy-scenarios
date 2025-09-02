@@ -1,0 +1,2925 @@
+sector,year,value,scenario,variant,unit
+Verkehr,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2021,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2022,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2023,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2024,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2025,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2026,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2027,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2028,-0.02,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2029,-0.02,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2030,-0.02,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2031,-0.03,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2032,-0.03,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2033,-0.03,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2034,-0.04,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2035,-0.05,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2036,-0.06,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2037,-0.06,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2038,-0.07,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2039,-0.08,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2040,-0.09,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2041,-0.11,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2042,-0.12,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2043,-0.13,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2044,-0.14,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2045,-0.16,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2046,-0.18,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2047,-0.2,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2048,-0.22,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2049,-0.24,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2050,-0.27,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2051,-0.29,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2052,-0.32,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2053,-0.34,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2054,-0.36,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2055,-0.38,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2056,-0.4,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2057,-0.42,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2058,-0.44,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2059,-0.46,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2060,-0.47,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,kumuliert 2020-50,-2.42,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,kumuliert 2020-60,-6.3,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2021,0.0,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2022,0.0,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2023,0.0,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2024,0.0,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2025,0.0,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2026,0.0,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2027,0.0,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2028,0.0,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2029,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2030,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2031,-0.02,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2032,-0.03,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2033,-0.03,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2034,-0.05,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2035,-0.06,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2036,-0.08,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2037,-0.09,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2038,-0.11,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2039,-0.13,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2040,-0.15,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2041,-0.17,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2042,-0.19,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2043,-0.21,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2044,-0.23,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2045,-0.24,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2046,-0.26,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2047,-0.28,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2048,-0.29,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2049,-0.31,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2050,-0.32,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2051,-0.33,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2052,-0.34,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2053,-0.34,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2054,-0.35,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2055,-0.35,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2056,-0.35,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2057,-0.35,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2058,-0.35,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2059,-0.34,ZERO-Basis,KKW50,Mrd. CHF
+PkW,2060,-0.33,ZERO-Basis,KKW50,Mrd. CHF
+PkW,kumuliert 2020-50,-3.27,ZERO-Basis,KKW50,Mrd. CHF
+PkW,kumuliert 2020-60,-6.7,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2021,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2022,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2023,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2024,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2025,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2026,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2027,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2028,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2029,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2030,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2031,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2032,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2033,0.04,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2034,0.05,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2035,0.06,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2036,0.07,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2037,0.09,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2038,0.1,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2039,0.12,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2040,0.13,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2041,0.15,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2042,0.16,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2043,0.17,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2044,0.18,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2045,0.19,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2046,0.2,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2047,0.21,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2048,0.21,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2049,0.21,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2050,0.21,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2051,0.21,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2052,0.2,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2053,0.2,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2054,0.19,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2055,0.18,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2056,0.17,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2057,0.16,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2058,0.15,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2059,0.13,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2060,0.12,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,kumuliert 2020-50,2.63,ZERO-Basis,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,kumuliert 2020-60,4.33,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2021,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2022,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2023,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2024,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2025,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2026,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2027,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2028,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2029,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2030,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2031,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2032,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2033,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2034,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2035,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2036,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2037,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2038,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2039,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2040,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2041,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2042,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2043,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2044,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2045,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2046,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2047,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2048,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2049,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2050,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2051,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2052,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2053,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2054,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2055,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2056,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2057,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2058,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2059,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2060,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,kumuliert 2020-50,0.4,ZERO-Basis,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,kumuliert 2020-60,0.48,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2021,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2022,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2023,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2024,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2025,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2026,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2027,-0.02,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2028,-0.02,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2029,-0.03,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2030,-0.03,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2031,-0.04,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2032,-0.04,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2033,-0.05,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2034,-0.05,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2035,-0.06,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2036,-0.07,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2037,-0.07,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2038,-0.08,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2039,-0.09,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2040,-0.1,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2041,-0.1,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2042,-0.11,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2043,-0.12,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2044,-0.13,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2045,-0.14,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2046,-0.15,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2047,-0.15,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2048,-0.16,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2049,-0.17,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2050,-0.18,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2051,-0.19,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2052,-0.2,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2053,-0.21,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2054,-0.21,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2055,-0.22,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2056,-0.23,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2057,-0.23,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2058,-0.24,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2059,-0.24,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,2060,-0.25,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,kumuliert 2020-50,-2.19,ZERO-Basis,KKW50,Mrd. CHF
+übrige Fahrzeuge,kumuliert 2020-60,-4.41,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2021,0.0,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2022,0.0,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2023,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2024,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2025,-0.02,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2026,-0.02,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2027,-0.03,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2028,-0.04,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2029,-0.04,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2030,-0.05,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2031,-0.06,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2032,-0.06,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2033,-0.07,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2034,-0.07,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2035,-0.08,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2036,-0.08,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2037,-0.09,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2038,-0.09,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2039,-0.1,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2040,-0.1,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2041,-0.11,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2042,-0.11,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2043,-0.12,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2044,-0.12,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2045,-0.13,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2046,-0.13,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2047,-0.14,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2048,-0.14,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2049,-0.14,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2050,-0.14,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2051,-0.14,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2052,-0.14,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2053,-0.14,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2054,-0.14,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2055,-0.13,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2056,-0.13,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2057,-0.13,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2058,-0.13,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2059,-0.13,ZERO-Basis,KKW50,Mrd. CHF
+PHH,2060,-0.13,ZERO-Basis,KKW50,Mrd. CHF
+PHH,kumuliert 2020-50,-2.31,ZERO-Basis,KKW50,Mrd. CHF
+PHH,kumuliert 2020-60,-3.646,ZERO-Basis,KKW50,Mrd. CHF
+DL,2020,0.01,ZERO-Basis,KKW50,Mrd. CHF
+DL,2021,0.01,ZERO-Basis,KKW50,Mrd. CHF
+DL,2022,0.02,ZERO-Basis,KKW50,Mrd. CHF
+DL,2023,0.03,ZERO-Basis,KKW50,Mrd. CHF
+DL,2024,0.03,ZERO-Basis,KKW50,Mrd. CHF
+DL,2025,0.04,ZERO-Basis,KKW50,Mrd. CHF
+DL,2026,0.04,ZERO-Basis,KKW50,Mrd. CHF
+DL,2027,0.05,ZERO-Basis,KKW50,Mrd. CHF
+DL,2028,0.05,ZERO-Basis,KKW50,Mrd. CHF
+DL,2029,0.06,ZERO-Basis,KKW50,Mrd. CHF
+DL,2030,0.06,ZERO-Basis,KKW50,Mrd. CHF
+DL,2031,0.07,ZERO-Basis,KKW50,Mrd. CHF
+DL,2032,0.07,ZERO-Basis,KKW50,Mrd. CHF
+DL,2033,0.08,ZERO-Basis,KKW50,Mrd. CHF
+DL,2034,0.08,ZERO-Basis,KKW50,Mrd. CHF
+DL,2035,0.09,ZERO-Basis,KKW50,Mrd. CHF
+DL,2036,0.1,ZERO-Basis,KKW50,Mrd. CHF
+DL,2037,0.1,ZERO-Basis,KKW50,Mrd. CHF
+DL,2038,0.11,ZERO-Basis,KKW50,Mrd. CHF
+DL,2039,0.11,ZERO-Basis,KKW50,Mrd. CHF
+DL,2040,0.11,ZERO-Basis,KKW50,Mrd. CHF
+DL,2041,0.12,ZERO-Basis,KKW50,Mrd. CHF
+DL,2042,0.12,ZERO-Basis,KKW50,Mrd. CHF
+DL,2043,0.12,ZERO-Basis,KKW50,Mrd. CHF
+DL,2044,0.12,ZERO-Basis,KKW50,Mrd. CHF
+DL,2045,0.12,ZERO-Basis,KKW50,Mrd. CHF
+DL,2046,0.12,ZERO-Basis,KKW50,Mrd. CHF
+DL,2047,0.12,ZERO-Basis,KKW50,Mrd. CHF
+DL,2048,0.12,ZERO-Basis,KKW50,Mrd. CHF
+DL,2049,0.12,ZERO-Basis,KKW50,Mrd. CHF
+DL,2050,0.12,ZERO-Basis,KKW50,Mrd. CHF
+DL,2051,0.12,ZERO-Basis,KKW50,Mrd. CHF
+DL,2052,0.12,ZERO-Basis,KKW50,Mrd. CHF
+DL,2053,0.12,ZERO-Basis,KKW50,Mrd. CHF
+DL,2054,0.12,ZERO-Basis,KKW50,Mrd. CHF
+DL,2055,0.13,ZERO-Basis,KKW50,Mrd. CHF
+DL,2056,0.13,ZERO-Basis,KKW50,Mrd. CHF
+DL,2057,0.13,ZERO-Basis,KKW50,Mrd. CHF
+DL,2058,0.13,ZERO-Basis,KKW50,Mrd. CHF
+DL,2059,0.13,ZERO-Basis,KKW50,Mrd. CHF
+DL,2060,0.13,ZERO-Basis,KKW50,Mrd. CHF
+DL,kumuliert 2020-50,2.52,ZERO-Basis,KKW50,Mrd. CHF
+DL,kumuliert 2020-60,3.79,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2021,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2022,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2023,-0.02,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2024,-0.02,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2025,-0.04,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2026,-0.02,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2027,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2028,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2029,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2030,0.04,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2031,0.07,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2032,0.13,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2033,0.19,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2034,0.25,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2035,0.32,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2036,0.39,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2037,0.45,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2038,0.52,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2039,0.57,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2040,0.65,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2041,0.7,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2042,0.76,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2043,0.81,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2044,0.85,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2045,0.89,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2046,0.94,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2047,0.99,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2048,1.04,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2049,1.07,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2050,1.1,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2051,1.11,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2052,1.11,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2053,1.09,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2054,1.07,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2055,1.03,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2056,0.98,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2057,0.94,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2058,0.88,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2059,0.85,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,2060,0.82,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,kumuliert 2020-50,12.63,ZERO-Basis,KKW50,Mrd. CHF
+Stromerzeugung,kumuliert 2020-60,22.52,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2021,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2022,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2023,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2024,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2025,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2026,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2027,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2028,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2029,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2030,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2031,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2032,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2033,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2034,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2035,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2036,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2037,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2038,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2039,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2040,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2041,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2042,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2043,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2044,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2045,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2046,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2047,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2048,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2049,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2050,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2051,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2052,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2053,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2054,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2055,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2056,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2057,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2058,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2059,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,2060,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,kumuliert 2020-50,0.35,ZERO-Basis,KKW50,Mrd. CHF
+Wasserkraft,kumuliert 2020-60,0.62,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2021,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2022,-0.02,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2023,-0.02,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2024,-0.03,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2025,-0.04,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2026,-0.03,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2027,-0.02,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2028,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2029,0.01,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2030,0.03,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2031,0.07,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2032,0.12,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2033,0.18,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2034,0.24,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2035,0.31,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2036,0.38,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2037,0.44,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2038,0.51,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2039,0.56,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2040,0.64,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2041,0.69,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2042,0.75,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2043,0.79,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2044,0.83,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2045,0.87,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2046,0.93,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2047,0.98,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2048,1.02,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2049,1.05,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2050,1.08,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2051,1.09,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2052,1.09,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2053,1.07,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2054,1.05,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2055,1.01,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2056,0.96,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2057,0.91,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2058,0.86,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2059,0.83,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,2060,0.8,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,kumuliert 2020-50,12.34,ZERO-Basis,KKW50,Mrd. CHF
+übrige Erneuerbare,kumuliert 2020-60,22.02,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2021,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2022,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2023,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2024,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2025,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2026,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2027,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2028,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2029,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2030,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2031,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2032,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2033,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2034,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2035,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2036,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2037,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2038,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2039,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2040,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2041,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2042,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2043,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2044,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2045,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2046,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2047,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2048,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2049,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2050,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2051,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2052,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2053,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2054,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2055,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2056,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2057,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2058,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2059,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,2060,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,kumuliert 2020-50,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Kernkraft,kumuliert 2020-60,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2021,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2022,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2023,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2024,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2025,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2026,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2027,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2028,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2029,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2030,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2031,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2032,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2033,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2034,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2035,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2036,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2037,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2038,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2039,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2040,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2041,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2042,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2043,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2044,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2045,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2046,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2047,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2048,0.0,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2049,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2050,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2051,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2052,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2053,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2054,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2055,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2056,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2057,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2058,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2059,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,2060,-0.01,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,kumuliert 2020-50,-0.06,ZERO-Basis,KKW50,Mrd. CHF
+konventionelle,kumuliert 2020-60,-0.12,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2021,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2022,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2023,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2024,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2025,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2026,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2027,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2028,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2029,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2030,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2031,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2032,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2033,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2034,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2035,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2036,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2037,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2038,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2039,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2040,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2041,0.04,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2042,0.04,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2043,0.04,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2044,0.04,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2045,0.05,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2046,0.05,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2047,0.05,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2048,0.05,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2049,0.06,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2050,0.06,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2051,0.06,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2052,0.06,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2053,0.06,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2054,0.05,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2055,0.05,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2056,0.05,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2057,0.04,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2058,0.04,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2059,0.04,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,2060,0.04,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,kumuliert 2020-50,0.64,ZERO-Basis,KKW50,Mrd. CHF
+Stromnetze,kumuliert 2020-60,1.12,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2021,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2022,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2023,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2024,0.04,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2025,0.06,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2026,0.07,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2027,0.07,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2028,0.08,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2029,0.08,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2030,0.09,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2031,0.09,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2032,0.09,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2033,0.09,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2034,0.09,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2035,0.09,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2036,0.09,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2037,0.1,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2038,0.11,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2039,0.13,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2040,0.14,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2041,0.14,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2042,0.14,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2043,0.14,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2044,0.15,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2045,0.16,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2046,0.16,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2047,0.16,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2048,0.17,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2049,0.18,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2050,0.2,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2051,0.21,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2052,0.2,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2053,0.21,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2054,0.2,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2055,0.2,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2056,0.2,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2057,0.2,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2058,0.2,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2059,0.19,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2060,0.19,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,kumuliert 2020-50,3.15,ZERO-Basis,KKW50,Mrd. CHF
+Erzeugung Fernwärme,kumuliert 2020-60,5.148,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2021,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2022,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2023,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2024,0.04,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2025,0.06,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2026,0.06,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2027,0.07,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2028,0.08,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2029,0.08,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2030,0.08,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2031,0.09,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2032,0.08,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2033,0.08,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2034,0.08,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2035,0.08,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2036,0.08,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2037,0.09,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2038,0.09,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2039,0.11,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2040,0.11,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2041,0.11,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2042,0.11,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2043,0.11,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2044,0.11,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2045,0.12,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2046,0.12,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2047,0.12,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2048,0.12,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2049,0.13,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2050,0.14,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2051,0.14,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2052,0.14,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2053,0.14,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2054,0.14,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2055,0.14,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2056,0.14,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2057,0.13,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2058,0.13,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2059,0.13,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2060,0.13,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,kumuliert 2020-50,2.58,ZERO-Basis,KKW50,Mrd. CHF
+Erneuerbare mit WKK,kumuliert 2020-60,3.95,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2021,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2022,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2023,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2024,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2025,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2026,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2027,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2028,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2029,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2030,0.01,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2031,0.0,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2032,0.01,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2033,0.01,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2034,0.01,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2035,0.01,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2036,0.01,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2037,0.01,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2038,0.02,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2039,0.02,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2040,0.04,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2041,0.03,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2042,0.03,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2043,0.04,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2044,0.04,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2045,0.04,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2046,0.04,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2047,0.04,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2048,0.04,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2049,0.04,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2050,0.06,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2051,0.06,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2052,0.06,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2053,0.06,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2054,0.06,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2055,0.06,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2056,0.06,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2057,0.06,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2058,0.06,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2059,0.06,ZERO-Basis,KKW50,Mrd. CHF
+übrige,2060,0.07,ZERO-Basis,KKW50,Mrd. CHF
+übrige,kumuliert 2020-50,0.57,ZERO-Basis,KKW50,Mrd. CHF
+übrige,kumuliert 2020-60,1.2,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2020,0.0,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2021,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2022,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2023,0.02,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2024,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2025,0.03,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2026,0.05,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2027,0.06,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2028,0.08,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2029,0.1,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2030,0.12,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2031,0.15,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2032,0.2,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2033,0.26,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2034,0.32,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2035,0.39,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2036,0.45,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2037,0.52,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2038,0.6,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2039,0.66,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2040,0.74,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2041,0.78,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2042,0.83,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2043,0.86,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2044,0.89,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2045,0.92,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2046,0.96,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2047,0.99,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2048,1.02,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2049,1.04,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2050,1.07,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2051,1.07,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2052,1.04,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2053,1.0,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2054,0.95,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2055,0.89,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2056,0.82,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2057,0.75,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2058,0.68,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2059,0.63,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2060,0.59,ZERO-Basis,KKW50,Mrd. CHF
+Summe,kumuliert 2020-50,14.2,ZERO-Basis,KKW50,Mrd. CHF
+Summe,kumuliert 2020-60,22.63,ZERO-Basis,KKW50,Mrd. CHF
+Verkehr,2020,0.0,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2021,0.0,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2022,0.0,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2023,-0.01,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2024,-0.01,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2025,-0.01,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2026,-0.01,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2027,-0.02,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2028,-0.02,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2029,-0.02,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2030,-0.03,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2031,-0.03,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2032,-0.04,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2033,-0.05,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2034,-0.06,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2035,-0.07,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2036,-0.08,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2037,-0.09,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2038,-0.1,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2039,-0.11,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2040,-0.13,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2041,-0.14,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2042,-0.16,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2043,-0.18,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2044,-0.2,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2045,-0.23,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2046,-0.26,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2047,-0.29,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2048,-0.32,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2049,-0.36,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2050,-0.39,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2051,-0.43,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2052,-0.47,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2053,-0.5,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2054,-0.53,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2055,-0.56,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2056,-0.59,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2057,-0.62,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2058,-0.64,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2059,-0.66,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2060,-0.68,ZERO-A,KKW50,Mrd. CHF
+Verkehr,kumuliert 2020-50,-3.42,ZERO-A,KKW50,Mrd. CHF
+Verkehr,kumuliert 2020-60,-9.11,ZERO-A,KKW50,Mrd. CHF
+PkW,2020,0.0,ZERO-A,KKW50,Mrd. CHF
+PkW,2021,0.0,ZERO-A,KKW50,Mrd. CHF
+PkW,2022,0.0,ZERO-A,KKW50,Mrd. CHF
+PkW,2023,0.0,ZERO-A,KKW50,Mrd. CHF
+PkW,2024,0.0,ZERO-A,KKW50,Mrd. CHF
+PkW,2025,0.0,ZERO-A,KKW50,Mrd. CHF
+PkW,2026,0.0,ZERO-A,KKW50,Mrd. CHF
+PkW,2027,0.0,ZERO-A,KKW50,Mrd. CHF
+PkW,2028,0.0,ZERO-A,KKW50,Mrd. CHF
+PkW,2029,-0.01,ZERO-A,KKW50,Mrd. CHF
+PkW,2030,-0.01,ZERO-A,KKW50,Mrd. CHF
+PkW,2031,-0.02,ZERO-A,KKW50,Mrd. CHF
+PkW,2032,-0.03,ZERO-A,KKW50,Mrd. CHF
+PkW,2033,-0.03,ZERO-A,KKW50,Mrd. CHF
+PkW,2034,-0.05,ZERO-A,KKW50,Mrd. CHF
+PkW,2035,-0.06,ZERO-A,KKW50,Mrd. CHF
+PkW,2036,-0.08,ZERO-A,KKW50,Mrd. CHF
+PkW,2037,-0.09,ZERO-A,KKW50,Mrd. CHF
+PkW,2038,-0.11,ZERO-A,KKW50,Mrd. CHF
+PkW,2039,-0.13,ZERO-A,KKW50,Mrd. CHF
+PkW,2040,-0.15,ZERO-A,KKW50,Mrd. CHF
+PkW,2041,-0.17,ZERO-A,KKW50,Mrd. CHF
+PkW,2042,-0.19,ZERO-A,KKW50,Mrd. CHF
+PkW,2043,-0.21,ZERO-A,KKW50,Mrd. CHF
+PkW,2044,-0.23,ZERO-A,KKW50,Mrd. CHF
+PkW,2045,-0.24,ZERO-A,KKW50,Mrd. CHF
+PkW,2046,-0.26,ZERO-A,KKW50,Mrd. CHF
+PkW,2047,-0.28,ZERO-A,KKW50,Mrd. CHF
+PkW,2048,-0.29,ZERO-A,KKW50,Mrd. CHF
+PkW,2049,-0.31,ZERO-A,KKW50,Mrd. CHF
+PkW,2050,-0.32,ZERO-A,KKW50,Mrd. CHF
+PkW,2051,-0.33,ZERO-A,KKW50,Mrd. CHF
+PkW,2052,-0.34,ZERO-A,KKW50,Mrd. CHF
+PkW,2053,-0.34,ZERO-A,KKW50,Mrd. CHF
+PkW,2054,-0.35,ZERO-A,KKW50,Mrd. CHF
+PkW,2055,-0.35,ZERO-A,KKW50,Mrd. CHF
+PkW,2056,-0.35,ZERO-A,KKW50,Mrd. CHF
+PkW,2057,-0.35,ZERO-A,KKW50,Mrd. CHF
+PkW,2058,-0.35,ZERO-A,KKW50,Mrd. CHF
+PkW,2059,-0.34,ZERO-A,KKW50,Mrd. CHF
+PkW,2060,-0.33,ZERO-A,KKW50,Mrd. CHF
+PkW,kumuliert 2020-50,-3.27,ZERO-A,KKW50,Mrd. CHF
+PkW,kumuliert 2020-60,-6.7,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2020,0.0,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2021,0.0,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2022,0.0,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2023,0.0,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2024,0.0,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2025,0.0,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2026,0.0,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2027,0.0,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2028,0.01,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2029,0.01,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2030,0.01,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2031,0.02,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2032,0.03,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2033,0.04,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2034,0.05,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2035,0.06,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2036,0.07,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2037,0.09,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2038,0.1,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2039,0.12,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2040,0.13,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2041,0.15,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2042,0.16,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2043,0.17,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2044,0.18,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2045,0.19,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2046,0.2,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2047,0.21,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2048,0.21,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2049,0.21,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2050,0.21,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2051,0.21,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2052,0.2,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2053,0.2,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2054,0.19,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2055,0.18,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2056,0.17,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2057,0.16,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2058,0.15,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2059,0.13,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2060,0.12,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,kumuliert 2020-50,2.63,ZERO-A,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,kumuliert 2020-60,4.33,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2020,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2021,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2022,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2023,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2024,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2025,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2026,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2027,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2028,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2029,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2030,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2031,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2032,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2033,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2034,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2035,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2036,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2037,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2038,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2039,0.0,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2040,-0.01,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2041,-0.01,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2042,-0.01,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2043,-0.02,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2044,-0.02,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2045,-0.03,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2046,-0.04,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2047,-0.05,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2048,-0.06,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2049,-0.07,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2050,-0.09,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2051,-0.1,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2052,-0.11,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2053,-0.13,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2054,-0.14,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2055,-0.15,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2056,-0.16,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2057,-0.18,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2058,-0.19,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2059,-0.19,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2060,-0.2,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,kumuliert 2020-50,-0.41,ZERO-A,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,kumuliert 2020-60,-1.96,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2020,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2021,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2022,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2023,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2024,-0.01,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2025,-0.01,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2026,-0.01,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2027,-0.02,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2028,-0.02,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2029,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2030,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2031,-0.04,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2032,-0.04,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2033,-0.05,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2034,-0.06,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2035,-0.06,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2036,-0.07,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2037,-0.08,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2038,-0.09,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2039,-0.1,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2040,-0.1,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2041,-0.11,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2042,-0.12,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2043,-0.13,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2044,-0.14,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2045,-0.15,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2046,-0.16,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2047,-0.17,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2048,-0.18,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2049,-0.19,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2050,-0.2,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2051,-0.21,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2052,-0.22,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2053,-0.22,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2054,-0.23,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2055,-0.24,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2056,-0.24,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2057,-0.25,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2058,-0.26,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2059,-0.26,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,2060,-0.27,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,kumuliert 2020-50,-2.37,ZERO-A,KKW50,Mrd. CHF
+übrige Fahrzeuge,kumuliert 2020-60,-4.77,ZERO-A,KKW50,Mrd. CHF
+PHH,2020,0.0,ZERO-A,KKW50,Mrd. CHF
+PHH,2021,0.0,ZERO-A,KKW50,Mrd. CHF
+PHH,2022,0.0,ZERO-A,KKW50,Mrd. CHF
+PHH,2023,-0.01,ZERO-A,KKW50,Mrd. CHF
+PHH,2024,-0.01,ZERO-A,KKW50,Mrd. CHF
+PHH,2025,-0.01,ZERO-A,KKW50,Mrd. CHF
+PHH,2026,-0.02,ZERO-A,KKW50,Mrd. CHF
+PHH,2027,-0.03,ZERO-A,KKW50,Mrd. CHF
+PHH,2028,-0.03,ZERO-A,KKW50,Mrd. CHF
+PHH,2029,-0.04,ZERO-A,KKW50,Mrd. CHF
+PHH,2030,-0.04,ZERO-A,KKW50,Mrd. CHF
+PHH,2031,-0.05,ZERO-A,KKW50,Mrd. CHF
+PHH,2032,-0.05,ZERO-A,KKW50,Mrd. CHF
+PHH,2033,-0.06,ZERO-A,KKW50,Mrd. CHF
+PHH,2034,-0.06,ZERO-A,KKW50,Mrd. CHF
+PHH,2035,-0.07,ZERO-A,KKW50,Mrd. CHF
+PHH,2036,-0.07,ZERO-A,KKW50,Mrd. CHF
+PHH,2037,-0.08,ZERO-A,KKW50,Mrd. CHF
+PHH,2038,-0.08,ZERO-A,KKW50,Mrd. CHF
+PHH,2039,-0.09,ZERO-A,KKW50,Mrd. CHF
+PHH,2040,-0.09,ZERO-A,KKW50,Mrd. CHF
+PHH,2041,-0.1,ZERO-A,KKW50,Mrd. CHF
+PHH,2042,-0.1,ZERO-A,KKW50,Mrd. CHF
+PHH,2043,-0.1,ZERO-A,KKW50,Mrd. CHF
+PHH,2044,-0.11,ZERO-A,KKW50,Mrd. CHF
+PHH,2045,-0.11,ZERO-A,KKW50,Mrd. CHF
+PHH,2046,-0.12,ZERO-A,KKW50,Mrd. CHF
+PHH,2047,-0.12,ZERO-A,KKW50,Mrd. CHF
+PHH,2048,-0.13,ZERO-A,KKW50,Mrd. CHF
+PHH,2049,-0.13,ZERO-A,KKW50,Mrd. CHF
+PHH,2050,-0.13,ZERO-A,KKW50,Mrd. CHF
+PHH,2051,-0.13,ZERO-A,KKW50,Mrd. CHF
+PHH,2052,-0.13,ZERO-A,KKW50,Mrd. CHF
+PHH,2053,-0.13,ZERO-A,KKW50,Mrd. CHF
+PHH,2054,-0.13,ZERO-A,KKW50,Mrd. CHF
+PHH,2055,-0.12,ZERO-A,KKW50,Mrd. CHF
+PHH,2056,-0.12,ZERO-A,KKW50,Mrd. CHF
+PHH,2057,-0.12,ZERO-A,KKW50,Mrd. CHF
+PHH,2058,-0.12,ZERO-A,KKW50,Mrd. CHF
+PHH,2059,-0.12,ZERO-A,KKW50,Mrd. CHF
+PHH,2060,-0.12,ZERO-A,KKW50,Mrd. CHF
+PHH,kumuliert 2020-50,-2.04,ZERO-A,KKW50,Mrd. CHF
+PHH,kumuliert 2020-60,-3.275,ZERO-A,KKW50,Mrd. CHF
+DL,2020,0.0,ZERO-A,KKW50,Mrd. CHF
+DL,2021,0.01,ZERO-A,KKW50,Mrd. CHF
+DL,2022,0.02,ZERO-A,KKW50,Mrd. CHF
+DL,2023,0.03,ZERO-A,KKW50,Mrd. CHF
+DL,2024,0.03,ZERO-A,KKW50,Mrd. CHF
+DL,2025,0.04,ZERO-A,KKW50,Mrd. CHF
+DL,2026,0.05,ZERO-A,KKW50,Mrd. CHF
+DL,2027,0.05,ZERO-A,KKW50,Mrd. CHF
+DL,2028,0.06,ZERO-A,KKW50,Mrd. CHF
+DL,2029,0.06,ZERO-A,KKW50,Mrd. CHF
+DL,2030,0.07,ZERO-A,KKW50,Mrd. CHF
+DL,2031,0.07,ZERO-A,KKW50,Mrd. CHF
+DL,2032,0.08,ZERO-A,KKW50,Mrd. CHF
+DL,2033,0.08,ZERO-A,KKW50,Mrd. CHF
+DL,2034,0.09,ZERO-A,KKW50,Mrd. CHF
+DL,2035,0.1,ZERO-A,KKW50,Mrd. CHF
+DL,2036,0.1,ZERO-A,KKW50,Mrd. CHF
+DL,2037,0.11,ZERO-A,KKW50,Mrd. CHF
+DL,2038,0.11,ZERO-A,KKW50,Mrd. CHF
+DL,2039,0.12,ZERO-A,KKW50,Mrd. CHF
+DL,2040,0.12,ZERO-A,KKW50,Mrd. CHF
+DL,2041,0.12,ZERO-A,KKW50,Mrd. CHF
+DL,2042,0.12,ZERO-A,KKW50,Mrd. CHF
+DL,2043,0.12,ZERO-A,KKW50,Mrd. CHF
+DL,2044,0.12,ZERO-A,KKW50,Mrd. CHF
+DL,2045,0.12,ZERO-A,KKW50,Mrd. CHF
+DL,2046,0.12,ZERO-A,KKW50,Mrd. CHF
+DL,2047,0.12,ZERO-A,KKW50,Mrd. CHF
+DL,2048,0.12,ZERO-A,KKW50,Mrd. CHF
+DL,2049,0.12,ZERO-A,KKW50,Mrd. CHF
+DL,2050,0.13,ZERO-A,KKW50,Mrd. CHF
+DL,2051,0.13,ZERO-A,KKW50,Mrd. CHF
+DL,2052,0.13,ZERO-A,KKW50,Mrd. CHF
+DL,2053,0.13,ZERO-A,KKW50,Mrd. CHF
+DL,2054,0.13,ZERO-A,KKW50,Mrd. CHF
+DL,2055,0.13,ZERO-A,KKW50,Mrd. CHF
+DL,2056,0.13,ZERO-A,KKW50,Mrd. CHF
+DL,2057,0.13,ZERO-A,KKW50,Mrd. CHF
+DL,2058,0.13,ZERO-A,KKW50,Mrd. CHF
+DL,2059,0.13,ZERO-A,KKW50,Mrd. CHF
+DL,2060,0.13,ZERO-A,KKW50,Mrd. CHF
+DL,kumuliert 2020-50,2.62,ZERO-A,KKW50,Mrd. CHF
+DL,kumuliert 2020-60,3.9,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2020,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2021,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2022,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2023,0.01,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2024,0.01,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2025,0.02,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2026,0.04,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2027,0.06,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2028,0.08,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2029,0.1,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2030,0.13,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2031,0.14,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2032,0.18,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2033,0.23,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2034,0.29,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2035,0.35,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2036,0.42,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2037,0.48,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2038,0.55,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2039,0.6,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2040,0.67,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2041,0.73,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2042,0.8,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2043,0.86,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2044,0.92,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2045,0.99,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2046,1.06,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2047,1.13,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2048,1.22,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2049,1.29,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2050,1.36,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2051,1.39,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2052,1.4,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2053,1.39,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2054,1.37,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2055,1.34,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2056,1.29,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2057,1.25,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2058,1.2,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2059,1.17,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,2060,1.15,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,kumuliert 2020-50,14.746,ZERO-A,KKW50,Mrd. CHF
+Stromerzeugung,kumuliert 2020-60,27.69,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2020,0.0,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2021,0.0,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2022,0.0,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2023,0.0,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2024,0.0,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2025,0.0,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2026,0.0,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2027,0.0,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2028,0.01,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2029,0.01,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2030,0.01,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2031,0.01,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2032,0.01,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2033,0.01,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2034,0.01,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2035,0.01,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2036,0.01,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2037,0.01,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2038,0.01,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2039,0.01,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2040,0.01,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2041,0.01,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2042,0.02,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2043,0.02,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2044,0.02,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2045,0.02,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2046,0.02,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2047,0.02,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2048,0.02,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2049,0.02,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2050,0.03,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2051,0.03,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2052,0.03,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2053,0.03,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2054,0.03,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2055,0.03,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2056,0.03,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2057,0.03,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2058,0.03,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2059,0.03,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,2060,0.03,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,kumuliert 2020-50,0.35,ZERO-A,KKW50,Mrd. CHF
+Wasserkraft,kumuliert 2020-60,0.62,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2020,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2021,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2022,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2023,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2024,0.01,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2025,0.02,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2026,0.03,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2027,0.05,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2028,0.08,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2029,0.1,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2030,0.12,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2031,0.13,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2032,0.18,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2033,0.22,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2034,0.28,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2035,0.35,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2036,0.41,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2037,0.47,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2038,0.54,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2039,0.59,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2040,0.66,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2041,0.72,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2042,0.79,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2043,0.85,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2044,0.91,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2045,0.97,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2046,1.04,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2047,1.11,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2048,1.2,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2049,1.27,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2050,1.34,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2051,1.36,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2052,1.38,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2053,1.37,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2054,1.34,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2055,1.32,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2056,1.27,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2057,1.23,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2058,1.18,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2059,1.15,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,2060,1.13,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,kumuliert 2020-50,14.44,ZERO-A,KKW50,Mrd. CHF
+übrige Erneuerbare,kumuliert 2020-60,27.17,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2020,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2021,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2022,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2023,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2024,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2025,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2026,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2027,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2028,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2029,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2030,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2031,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2032,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2033,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2034,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2035,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2036,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2037,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2038,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2039,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2040,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2041,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2042,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2043,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2044,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2045,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2046,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2047,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2048,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2049,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2050,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2051,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2052,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2053,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2054,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2055,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2056,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2057,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2058,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2059,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,2060,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,kumuliert 2020-50,0.0,ZERO-A,KKW50,Mrd. CHF
+Kernkraft,kumuliert 2020-60,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2020,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2021,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2022,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2023,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2024,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2025,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2026,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2027,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2028,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2029,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2030,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2031,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2032,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2033,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2034,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2035,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2036,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2037,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2038,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2039,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2040,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2041,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2042,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2043,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2044,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2045,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2046,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2047,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2048,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2049,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2050,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2051,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2052,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2053,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2054,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2055,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2056,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2057,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2058,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2059,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,2060,0.0,ZERO-A,KKW50,Mrd. CHF
+konventionelle,kumuliert 2020-50,-0.05,ZERO-A,KKW50,Mrd. CHF
+konventionelle,kumuliert 2020-60,-0.1,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2020,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2021,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2022,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2023,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2024,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2025,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2026,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2027,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2028,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2029,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2030,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2031,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2032,0.0,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2033,0.01,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2034,0.01,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2035,0.01,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2036,0.02,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2037,0.02,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2038,0.02,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2039,0.03,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2040,0.03,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2041,0.03,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2042,0.04,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2043,0.04,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2044,0.05,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2045,0.05,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2046,0.05,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2047,0.06,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2048,0.06,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2049,0.07,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2050,0.07,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2051,0.07,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2052,0.07,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2053,0.07,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2054,0.07,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2055,0.06,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2056,0.06,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2057,0.06,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2058,0.05,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2059,0.05,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,2060,0.05,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,kumuliert 2020-50,0.66,ZERO-A,KKW50,Mrd. CHF
+Stromnetze,kumuliert 2020-60,1.28,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2020,0.01,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2021,0.01,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2022,0.01,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2023,0.01,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2024,0.01,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2025,0.01,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2026,0.01,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2027,0.01,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2028,0.01,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2029,0.01,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2030,0.02,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2031,0.04,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2032,0.05,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2033,0.06,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2034,0.07,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2035,0.07,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2036,0.07,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2037,0.08,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2038,0.08,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2039,0.1,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2040,0.13,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2041,0.11,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2042,0.11,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2043,0.12,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2044,0.12,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2045,0.12,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2046,0.12,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2047,0.12,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2048,0.12,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2049,0.12,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2050,0.16,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2051,0.16,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2052,0.15,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2053,0.15,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2054,0.15,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2055,0.14,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2056,0.14,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2057,0.13,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2058,0.13,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2059,0.13,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2060,0.13,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,kumuliert 2020-50,2.049,ZERO-A,KKW50,Mrd. CHF
+Erzeugung Fernwärme,kumuliert 2020-60,3.456,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2020,0.01,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2021,0.0,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2022,0.01,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2023,0.01,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2024,0.01,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2025,0.01,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2026,0.01,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2027,0.01,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2028,0.01,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2029,0.01,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2030,0.03,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2031,0.04,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2032,0.06,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2033,0.07,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2034,0.08,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2035,0.08,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2036,0.08,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2037,0.1,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2038,0.1,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2039,0.12,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2040,0.15,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2041,0.13,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2042,0.14,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2043,0.14,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2044,0.14,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2045,0.14,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2046,0.14,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2047,0.15,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2048,0.15,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2049,0.15,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2050,0.19,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2051,0.19,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2052,0.18,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2053,0.18,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2054,0.18,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2055,0.17,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2056,0.17,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2057,0.17,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2058,0.16,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2059,0.16,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2060,0.16,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,kumuliert 2020-50,2.47,ZERO-A,KKW50,Mrd. CHF
+Erneuerbare mit WKK,kumuliert 2020-60,4.18,ZERO-A,KKW50,Mrd. CHF
+übrige,2020,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige,2021,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige,2022,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige,2023,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige,2024,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige,2025,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige,2026,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige,2027,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige,2028,0.0,ZERO-A,KKW50,Mrd. CHF
+übrige,2029,-0.01,ZERO-A,KKW50,Mrd. CHF
+übrige,2030,-0.01,ZERO-A,KKW50,Mrd. CHF
+übrige,2031,-0.01,ZERO-A,KKW50,Mrd. CHF
+übrige,2032,-0.01,ZERO-A,KKW50,Mrd. CHF
+übrige,2033,-0.01,ZERO-A,KKW50,Mrd. CHF
+übrige,2034,-0.01,ZERO-A,KKW50,Mrd. CHF
+übrige,2035,-0.02,ZERO-A,KKW50,Mrd. CHF
+übrige,2036,-0.02,ZERO-A,KKW50,Mrd. CHF
+übrige,2037,-0.02,ZERO-A,KKW50,Mrd. CHF
+übrige,2038,-0.02,ZERO-A,KKW50,Mrd. CHF
+übrige,2039,-0.02,ZERO-A,KKW50,Mrd. CHF
+übrige,2040,-0.02,ZERO-A,KKW50,Mrd. CHF
+übrige,2041,-0.02,ZERO-A,KKW50,Mrd. CHF
+übrige,2042,-0.02,ZERO-A,KKW50,Mrd. CHF
+übrige,2043,-0.02,ZERO-A,KKW50,Mrd. CHF
+übrige,2044,-0.02,ZERO-A,KKW50,Mrd. CHF
+übrige,2045,-0.02,ZERO-A,KKW50,Mrd. CHF
+übrige,2046,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige,2047,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige,2048,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige,2049,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige,2050,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige,2051,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige,2052,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige,2053,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige,2054,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige,2055,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige,2056,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige,2057,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige,2058,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige,2059,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige,2060,-0.03,ZERO-A,KKW50,Mrd. CHF
+übrige,kumuliert 2020-50,-0.42,ZERO-A,KKW50,Mrd. CHF
+übrige,kumuliert 2020-60,-0.73,ZERO-A,KKW50,Mrd. CHF
+Summe,2020,0.01,ZERO-A,KKW50,Mrd. CHF
+Summe,2021,0.01,ZERO-A,KKW50,Mrd. CHF
+Summe,2022,0.02,ZERO-A,KKW50,Mrd. CHF
+Summe,2023,0.03,ZERO-A,KKW50,Mrd. CHF
+Summe,2024,0.04,ZERO-A,KKW50,Mrd. CHF
+Summe,2025,0.04,ZERO-A,KKW50,Mrd. CHF
+Summe,2026,0.06,ZERO-A,KKW50,Mrd. CHF
+Summe,2027,0.08,ZERO-A,KKW50,Mrd. CHF
+Summe,2028,0.09,ZERO-A,KKW50,Mrd. CHF
+Summe,2029,0.11,ZERO-A,KKW50,Mrd. CHF
+Summe,2030,0.14,ZERO-A,KKW50,Mrd. CHF
+Summe,2031,0.16,ZERO-A,KKW50,Mrd. CHF
+Summe,2032,0.21,ZERO-A,KKW50,Mrd. CHF
+Summe,2033,0.27,ZERO-A,KKW50,Mrd. CHF
+Summe,2034,0.33,ZERO-A,KKW50,Mrd. CHF
+Summe,2035,0.4,ZERO-A,KKW50,Mrd. CHF
+Summe,2036,0.46,ZERO-A,KKW50,Mrd. CHF
+Summe,2037,0.52,ZERO-A,KKW50,Mrd. CHF
+Summe,2038,0.59,ZERO-A,KKW50,Mrd. CHF
+Summe,2039,0.64,ZERO-A,KKW50,Mrd. CHF
+Summe,2040,0.73,ZERO-A,KKW50,Mrd. CHF
+Summe,2041,0.76,ZERO-A,KKW50,Mrd. CHF
+Summe,2042,0.82,ZERO-A,KKW50,Mrd. CHF
+Summe,2043,0.86,ZERO-A,KKW50,Mrd. CHF
+Summe,2044,0.9,ZERO-A,KKW50,Mrd. CHF
+Summe,2045,0.94,ZERO-A,KKW50,Mrd. CHF
+Summe,2046,0.98,ZERO-A,KKW50,Mrd. CHF
+Summe,2047,1.02,ZERO-A,KKW50,Mrd. CHF
+Summe,2048,1.08,ZERO-A,KKW50,Mrd. CHF
+Summe,2049,1.12,ZERO-A,KKW50,Mrd. CHF
+Summe,2050,1.19,ZERO-A,KKW50,Mrd. CHF
+Summe,2051,1.18,ZERO-A,KKW50,Mrd. CHF
+Summe,2052,1.16,ZERO-A,KKW50,Mrd. CHF
+Summe,2053,1.11,ZERO-A,KKW50,Mrd. CHF
+Summe,2054,1.05,ZERO-A,KKW50,Mrd. CHF
+Summe,2055,0.98,ZERO-A,KKW50,Mrd. CHF
+Summe,2056,0.9,ZERO-A,KKW50,Mrd. CHF
+Summe,2057,0.83,ZERO-A,KKW50,Mrd. CHF
+Summe,2058,0.76,ZERO-A,KKW50,Mrd. CHF
+Summe,2059,0.7,ZERO-A,KKW50,Mrd. CHF
+Summe,2060,0.67,ZERO-A,KKW50,Mrd. CHF
+Summe,kumuliert 2020-50,14.61,ZERO-A,KKW50,Mrd. CHF
+Summe,kumuliert 2020-60,23.95,ZERO-A,KKW50,Mrd. CHF
+Verkehr,2020,0.0,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2021,0.0,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2022,-0.01,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2023,-0.01,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2024,-0.01,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2025,-0.01,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2026,-0.02,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2027,-0.02,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2028,-0.03,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2029,-0.03,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2030,-0.03,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2031,-0.04,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2032,-0.04,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2033,-0.05,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2034,-0.05,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2035,-0.06,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2036,-0.06,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2037,-0.07,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2038,-0.08,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2039,-0.08,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2040,-0.09,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2041,-0.1,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2042,-0.11,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2043,-0.12,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2044,-0.13,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2045,-0.14,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2046,-0.15,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2047,-0.17,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2048,-0.18,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2049,-0.2,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2050,-0.22,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2051,-0.23,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2052,-0.25,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2053,-0.26,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2054,-0.28,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2055,-0.29,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2056,-0.3,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2057,-0.32,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2058,-0.33,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2059,-0.34,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2060,-0.34,ZERO-B,KKW50,Mrd. CHF
+Verkehr,kumuliert 2020-50,-2.29,ZERO-B,KKW50,Mrd. CHF
+Verkehr,kumuliert 2020-60,-5.23,ZERO-B,KKW50,Mrd. CHF
+PkW,2020,0.0,ZERO-B,KKW50,Mrd. CHF
+PkW,2021,0.0,ZERO-B,KKW50,Mrd. CHF
+PkW,2022,0.0,ZERO-B,KKW50,Mrd. CHF
+PkW,2023,0.0,ZERO-B,KKW50,Mrd. CHF
+PkW,2024,0.0,ZERO-B,KKW50,Mrd. CHF
+PkW,2025,0.0,ZERO-B,KKW50,Mrd. CHF
+PkW,2026,0.0,ZERO-B,KKW50,Mrd. CHF
+PkW,2027,0.0,ZERO-B,KKW50,Mrd. CHF
+PkW,2028,0.0,ZERO-B,KKW50,Mrd. CHF
+PkW,2029,0.0,ZERO-B,KKW50,Mrd. CHF
+PkW,2030,0.0,ZERO-B,KKW50,Mrd. CHF
+PkW,2031,-0.01,ZERO-B,KKW50,Mrd. CHF
+PkW,2032,-0.01,ZERO-B,KKW50,Mrd. CHF
+PkW,2033,-0.01,ZERO-B,KKW50,Mrd. CHF
+PkW,2034,-0.02,ZERO-B,KKW50,Mrd. CHF
+PkW,2035,-0.03,ZERO-B,KKW50,Mrd. CHF
+PkW,2036,-0.04,ZERO-B,KKW50,Mrd. CHF
+PkW,2037,-0.05,ZERO-B,KKW50,Mrd. CHF
+PkW,2038,-0.06,ZERO-B,KKW50,Mrd. CHF
+PkW,2039,-0.07,ZERO-B,KKW50,Mrd. CHF
+PkW,2040,-0.08,ZERO-B,KKW50,Mrd. CHF
+PkW,2041,-0.09,ZERO-B,KKW50,Mrd. CHF
+PkW,2042,-0.1,ZERO-B,KKW50,Mrd. CHF
+PkW,2043,-0.11,ZERO-B,KKW50,Mrd. CHF
+PkW,2044,-0.12,ZERO-B,KKW50,Mrd. CHF
+PkW,2045,-0.13,ZERO-B,KKW50,Mrd. CHF
+PkW,2046,-0.14,ZERO-B,KKW50,Mrd. CHF
+PkW,2047,-0.15,ZERO-B,KKW50,Mrd. CHF
+PkW,2048,-0.16,ZERO-B,KKW50,Mrd. CHF
+PkW,2049,-0.16,ZERO-B,KKW50,Mrd. CHF
+PkW,2050,-0.17,ZERO-B,KKW50,Mrd. CHF
+PkW,2051,-0.17,ZERO-B,KKW50,Mrd. CHF
+PkW,2052,-0.17,ZERO-B,KKW50,Mrd. CHF
+PkW,2053,-0.17,ZERO-B,KKW50,Mrd. CHF
+PkW,2054,-0.17,ZERO-B,KKW50,Mrd. CHF
+PkW,2055,-0.16,ZERO-B,KKW50,Mrd. CHF
+PkW,2056,-0.16,ZERO-B,KKW50,Mrd. CHF
+PkW,2057,-0.15,ZERO-B,KKW50,Mrd. CHF
+PkW,2058,-0.14,ZERO-B,KKW50,Mrd. CHF
+PkW,2059,-0.13,ZERO-B,KKW50,Mrd. CHF
+PkW,2060,-0.12,ZERO-B,KKW50,Mrd. CHF
+PkW,kumuliert 2020-50,-1.73,ZERO-B,KKW50,Mrd. CHF
+PkW,kumuliert 2020-60,-3.28,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2020,0.0,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2021,0.0,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2022,0.0,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2023,0.0,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2024,-0.01,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2025,-0.01,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2026,-0.01,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2027,-0.01,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2028,-0.01,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2029,-0.01,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2030,-0.01,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2031,-0.01,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2032,0.0,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2033,0.0,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2034,0.01,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2035,0.01,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2036,0.02,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2037,0.03,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2038,0.04,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2039,0.05,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2040,0.06,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2041,0.07,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2042,0.08,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2043,0.09,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2044,0.09,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2045,0.1,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2046,0.1,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2047,0.1,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2048,0.1,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2049,0.1,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2050,0.09,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2051,0.09,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2052,0.08,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2053,0.07,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2054,0.07,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2055,0.05,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2056,0.04,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2057,0.03,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2058,0.02,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2059,0.01,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2060,-0.01,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,kumuliert 2020-50,1.05,ZERO-B,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,kumuliert 2020-60,1.51,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2020,0.0,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2021,0.0,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2022,0.0,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2023,0.0,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2024,0.0,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2025,0.0,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2026,0.0,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2027,0.0,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2028,0.0,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2029,0.0,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2030,0.01,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2031,0.01,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2032,0.01,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2033,0.01,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2034,0.01,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2035,0.01,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2036,0.01,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2037,0.02,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2038,0.02,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2039,0.02,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2040,0.02,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2041,0.02,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2042,0.02,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2043,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2044,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2045,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2046,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2047,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2048,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2049,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2050,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2051,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2052,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2053,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2054,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2055,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2056,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2057,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2058,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2059,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2060,0.03,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,kumuliert 2020-50,0.45,ZERO-B,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,kumuliert 2020-60,0.74,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2020,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2021,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2022,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2023,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2024,-0.01,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2025,-0.01,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2026,-0.01,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2027,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2028,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2029,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2030,-0.03,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2031,-0.03,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2032,-0.04,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2033,-0.04,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2034,-0.05,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2035,-0.05,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2036,-0.06,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2037,-0.07,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2038,-0.07,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2039,-0.08,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2040,-0.09,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2041,-0.1,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2042,-0.1,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2043,-0.11,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2044,-0.12,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2045,-0.13,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2046,-0.14,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2047,-0.15,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2048,-0.16,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2049,-0.16,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2050,-0.17,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2051,-0.18,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2052,-0.19,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2053,-0.2,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2054,-0.21,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2055,-0.21,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2056,-0.22,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2057,-0.22,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2058,-0.23,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2059,-0.24,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,2060,-0.24,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,kumuliert 2020-50,-2.06,ZERO-B,KKW50,Mrd. CHF
+übrige Fahrzeuge,kumuliert 2020-60,-4.2,ZERO-B,KKW50,Mrd. CHF
+PHH,2020,0.0,ZERO-B,KKW50,Mrd. CHF
+PHH,2021,0.0,ZERO-B,KKW50,Mrd. CHF
+PHH,2022,0.0,ZERO-B,KKW50,Mrd. CHF
+PHH,2023,-0.01,ZERO-B,KKW50,Mrd. CHF
+PHH,2024,-0.01,ZERO-B,KKW50,Mrd. CHF
+PHH,2025,-0.01,ZERO-B,KKW50,Mrd. CHF
+PHH,2026,-0.02,ZERO-B,KKW50,Mrd. CHF
+PHH,2027,-0.02,ZERO-B,KKW50,Mrd. CHF
+PHH,2028,-0.03,ZERO-B,KKW50,Mrd. CHF
+PHH,2029,-0.03,ZERO-B,KKW50,Mrd. CHF
+PHH,2030,-0.04,ZERO-B,KKW50,Mrd. CHF
+PHH,2031,-0.04,ZERO-B,KKW50,Mrd. CHF
+PHH,2032,-0.04,ZERO-B,KKW50,Mrd. CHF
+PHH,2033,-0.05,ZERO-B,KKW50,Mrd. CHF
+PHH,2034,-0.05,ZERO-B,KKW50,Mrd. CHF
+PHH,2035,-0.05,ZERO-B,KKW50,Mrd. CHF
+PHH,2036,-0.06,ZERO-B,KKW50,Mrd. CHF
+PHH,2037,-0.06,ZERO-B,KKW50,Mrd. CHF
+PHH,2038,-0.06,ZERO-B,KKW50,Mrd. CHF
+PHH,2039,-0.06,ZERO-B,KKW50,Mrd. CHF
+PHH,2040,-0.06,ZERO-B,KKW50,Mrd. CHF
+PHH,2041,-0.07,ZERO-B,KKW50,Mrd. CHF
+PHH,2042,-0.07,ZERO-B,KKW50,Mrd. CHF
+PHH,2043,-0.07,ZERO-B,KKW50,Mrd. CHF
+PHH,2044,-0.07,ZERO-B,KKW50,Mrd. CHF
+PHH,2045,-0.08,ZERO-B,KKW50,Mrd. CHF
+PHH,2046,-0.08,ZERO-B,KKW50,Mrd. CHF
+PHH,2047,-0.08,ZERO-B,KKW50,Mrd. CHF
+PHH,2048,-0.08,ZERO-B,KKW50,Mrd. CHF
+PHH,2049,-0.08,ZERO-B,KKW50,Mrd. CHF
+PHH,2050,-0.08,ZERO-B,KKW50,Mrd. CHF
+PHH,2051,-0.07,ZERO-B,KKW50,Mrd. CHF
+PHH,2052,-0.07,ZERO-B,KKW50,Mrd. CHF
+PHH,2053,-0.07,ZERO-B,KKW50,Mrd. CHF
+PHH,2054,-0.07,ZERO-B,KKW50,Mrd. CHF
+PHH,2055,-0.06,ZERO-B,KKW50,Mrd. CHF
+PHH,2056,-0.06,ZERO-B,KKW50,Mrd. CHF
+PHH,2057,-0.06,ZERO-B,KKW50,Mrd. CHF
+PHH,2058,-0.06,ZERO-B,KKW50,Mrd. CHF
+PHH,2059,-0.06,ZERO-B,KKW50,Mrd. CHF
+PHH,2060,-0.06,ZERO-B,KKW50,Mrd. CHF
+PHH,kumuliert 2020-50,-1.449,ZERO-B,KKW50,Mrd. CHF
+PHH,kumuliert 2020-60,-2.09,ZERO-B,KKW50,Mrd. CHF
+DL,2020,0.0,ZERO-B,KKW50,Mrd. CHF
+DL,2021,0.01,ZERO-B,KKW50,Mrd. CHF
+DL,2022,0.02,ZERO-B,KKW50,Mrd. CHF
+DL,2023,0.03,ZERO-B,KKW50,Mrd. CHF
+DL,2024,0.03,ZERO-B,KKW50,Mrd. CHF
+DL,2025,0.04,ZERO-B,KKW50,Mrd. CHF
+DL,2026,0.05,ZERO-B,KKW50,Mrd. CHF
+DL,2027,0.05,ZERO-B,KKW50,Mrd. CHF
+DL,2028,0.06,ZERO-B,KKW50,Mrd. CHF
+DL,2029,0.06,ZERO-B,KKW50,Mrd. CHF
+DL,2030,0.07,ZERO-B,KKW50,Mrd. CHF
+DL,2031,0.07,ZERO-B,KKW50,Mrd. CHF
+DL,2032,0.08,ZERO-B,KKW50,Mrd. CHF
+DL,2033,0.08,ZERO-B,KKW50,Mrd. CHF
+DL,2034,0.09,ZERO-B,KKW50,Mrd. CHF
+DL,2035,0.1,ZERO-B,KKW50,Mrd. CHF
+DL,2036,0.1,ZERO-B,KKW50,Mrd. CHF
+DL,2037,0.11,ZERO-B,KKW50,Mrd. CHF
+DL,2038,0.11,ZERO-B,KKW50,Mrd. CHF
+DL,2039,0.12,ZERO-B,KKW50,Mrd. CHF
+DL,2040,0.12,ZERO-B,KKW50,Mrd. CHF
+DL,2041,0.12,ZERO-B,KKW50,Mrd. CHF
+DL,2042,0.12,ZERO-B,KKW50,Mrd. CHF
+DL,2043,0.13,ZERO-B,KKW50,Mrd. CHF
+DL,2044,0.13,ZERO-B,KKW50,Mrd. CHF
+DL,2045,0.13,ZERO-B,KKW50,Mrd. CHF
+DL,2046,0.13,ZERO-B,KKW50,Mrd. CHF
+DL,2047,0.13,ZERO-B,KKW50,Mrd. CHF
+DL,2048,0.13,ZERO-B,KKW50,Mrd. CHF
+DL,2049,0.13,ZERO-B,KKW50,Mrd. CHF
+DL,2050,0.13,ZERO-B,KKW50,Mrd. CHF
+DL,2051,0.13,ZERO-B,KKW50,Mrd. CHF
+DL,2052,0.13,ZERO-B,KKW50,Mrd. CHF
+DL,2053,0.13,ZERO-B,KKW50,Mrd. CHF
+DL,2054,0.14,ZERO-B,KKW50,Mrd. CHF
+DL,2055,0.14,ZERO-B,KKW50,Mrd. CHF
+DL,2056,0.14,ZERO-B,KKW50,Mrd. CHF
+DL,2057,0.14,ZERO-B,KKW50,Mrd. CHF
+DL,2058,0.14,ZERO-B,KKW50,Mrd. CHF
+DL,2059,0.14,ZERO-B,KKW50,Mrd. CHF
+DL,2060,0.14,ZERO-B,KKW50,Mrd. CHF
+DL,kumuliert 2020-50,2.68,ZERO-B,KKW50,Mrd. CHF
+DL,kumuliert 2020-60,4.05,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2020,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2021,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2022,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2023,-0.01,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2024,-0.03,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2025,-0.04,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2026,-0.04,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2027,-0.02,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2028,-0.01,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2029,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2030,0.04,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2031,0.08,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2032,0.15,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2033,0.22,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2034,0.27,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2035,0.34,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2036,0.39,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2037,0.44,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2038,0.46,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2039,0.46,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2040,0.47,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2041,0.48,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2042,0.49,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2043,0.5,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2044,0.5,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2045,0.51,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2046,0.52,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2047,0.54,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2048,0.55,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2049,0.56,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2050,0.57,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2051,0.56,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2052,0.55,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2053,0.53,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2054,0.51,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2055,0.48,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2056,0.43,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2057,0.39,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2058,0.34,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2059,0.3,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,2060,0.27,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,kumuliert 2020-50,8.389,ZERO-B,KKW50,Mrd. CHF
+Stromerzeugung,kumuliert 2020-60,12.74,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2020,0.0,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2021,0.0,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2022,0.0,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2023,0.0,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2024,0.0,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2025,0.0,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2026,0.0,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2027,0.0,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2028,0.01,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2029,0.01,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2030,0.01,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2031,0.01,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2032,0.01,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2033,0.01,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2034,0.01,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2035,0.01,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2036,0.01,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2037,0.01,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2038,0.01,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2039,0.01,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2040,0.01,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2041,0.01,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2042,0.02,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2043,0.02,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2044,0.02,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2045,0.02,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2046,0.02,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2047,0.02,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2048,0.02,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2049,0.02,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2050,0.03,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2051,0.03,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2052,0.03,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2053,0.03,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2054,0.03,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2055,0.03,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2056,0.03,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2057,0.03,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2058,0.03,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2059,0.03,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,2060,0.03,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,kumuliert 2020-50,0.35,ZERO-B,KKW50,Mrd. CHF
+Wasserkraft,kumuliert 2020-60,0.62,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2020,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2021,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2022,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2023,-0.01,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2024,-0.03,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2025,-0.05,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2026,-0.04,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2027,-0.03,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2028,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2029,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2030,0.02,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2031,0.06,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2032,0.11,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2033,0.17,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2034,0.2,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2035,0.25,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2036,0.29,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2037,0.33,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2038,0.34,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2039,0.34,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2040,0.35,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2041,0.36,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2042,0.37,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2043,0.37,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2044,0.37,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2045,0.38,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2046,0.39,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2047,0.41,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2048,0.42,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2049,0.43,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2050,0.43,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2051,0.43,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2052,0.41,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2053,0.4,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2054,0.37,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2055,0.34,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2056,0.29,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2057,0.25,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2058,0.2,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2059,0.16,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,2060,0.14,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,kumuliert 2020-50,6.22,ZERO-B,KKW50,Mrd. CHF
+übrige Erneuerbare,kumuliert 2020-60,9.21,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2020,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2021,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2022,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2023,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2024,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2025,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2026,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2027,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2028,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2029,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2030,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2031,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2032,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2033,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2034,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2035,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2036,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2037,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2038,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2039,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2040,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2041,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2042,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2043,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2044,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2045,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2046,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2047,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2048,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2049,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2050,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2051,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2052,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2053,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2054,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2055,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2056,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2057,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2058,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2059,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,2060,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,kumuliert 2020-50,0.0,ZERO-B,KKW50,Mrd. CHF
+Kernkraft,kumuliert 2020-60,0.0,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2020,0.0,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2021,0.0,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2022,0.0,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2023,0.0,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2024,0.0,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2025,0.0,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2026,0.0,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2027,0.0,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2028,0.0,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2029,0.0,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2030,0.01,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2031,0.02,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2032,0.03,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2033,0.04,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2034,0.06,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2035,0.07,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2036,0.08,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2037,0.1,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2038,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2039,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2040,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2041,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2042,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2043,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2044,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2045,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2046,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2047,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2048,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2049,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2050,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2051,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2052,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2053,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2054,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2055,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2056,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2057,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2058,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2059,0.11,ZERO-B,KKW50,Mrd. CHF
+konventionelle,2060,0.1,ZERO-B,KKW50,Mrd. CHF
+konventionelle,kumuliert 2020-50,1.82,ZERO-B,KKW50,Mrd. CHF
+konventionelle,kumuliert 2020-60,2.9,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2020,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2021,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2022,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2023,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2024,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2025,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2026,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2027,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2028,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2029,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2030,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2031,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2032,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2033,0.01,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2034,0.01,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2035,0.01,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2036,0.01,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2037,0.02,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2038,0.02,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2039,0.02,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2040,0.02,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2041,0.02,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2042,0.02,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2043,0.02,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2044,0.02,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2045,0.02,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2046,0.02,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2047,0.02,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2048,0.02,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2049,0.02,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2050,0.01,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2051,0.01,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2052,0.01,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2053,0.01,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2054,0.01,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2055,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2056,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2057,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2058,0.0,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2059,-0.01,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,2060,-0.01,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,kumuliert 2020-50,0.27,ZERO-B,KKW50,Mrd. CHF
+Stromnetze,kumuliert 2020-60,0.29,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2020,0.01,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2021,0.01,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2022,0.01,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2023,0.02,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2024,0.04,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2025,0.07,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2026,0.08,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2027,0.09,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2028,0.1,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2029,0.1,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2030,0.1,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2031,0.1,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2032,0.1,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2033,0.1,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2034,0.1,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2035,0.1,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2036,0.1,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2037,0.1,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2038,0.1,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2039,0.12,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2040,0.12,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2041,0.11,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2042,0.11,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2043,0.11,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2044,0.1,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2045,0.1,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2046,0.09,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2047,0.09,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2048,0.08,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2049,0.08,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2050,0.08,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2051,0.08,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2052,0.08,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2053,0.08,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2054,0.08,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2055,0.08,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2056,0.08,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2057,0.08,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2058,0.08,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2059,0.08,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2060,0.08,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,kumuliert 2020-50,2.641,ZERO-B,KKW50,Mrd. CHF
+Erzeugung Fernwärme,kumuliert 2020-60,3.423,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2020,0.01,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2021,0.0,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2022,0.01,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2023,0.02,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2024,0.04,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2025,0.07,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2026,0.08,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2027,0.09,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2028,0.1,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2029,0.1,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2030,0.11,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2031,0.11,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2032,0.11,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2033,0.12,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2034,0.12,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2035,0.11,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2036,0.11,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2037,0.12,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2038,0.12,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2039,0.14,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2040,0.14,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2041,0.13,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2042,0.13,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2043,0.13,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2044,0.12,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2045,0.12,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2046,0.12,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2047,0.11,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2048,0.11,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2049,0.1,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2050,0.11,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2051,0.11,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2052,0.11,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2053,0.11,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2054,0.11,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2055,0.1,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2056,0.1,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2057,0.1,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2058,0.1,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2059,0.1,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2060,0.1,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,kumuliert 2020-50,3.01,ZERO-B,KKW50,Mrd. CHF
+Erneuerbare mit WKK,kumuliert 2020-60,4.05,ZERO-B,KKW50,Mrd. CHF
+übrige,2020,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige,2021,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige,2022,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige,2023,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige,2024,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige,2025,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige,2026,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige,2027,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige,2028,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige,2029,0.0,ZERO-B,KKW50,Mrd. CHF
+übrige,2030,-0.01,ZERO-B,KKW50,Mrd. CHF
+übrige,2031,-0.01,ZERO-B,KKW50,Mrd. CHF
+übrige,2032,-0.01,ZERO-B,KKW50,Mrd. CHF
+übrige,2033,-0.01,ZERO-B,KKW50,Mrd. CHF
+übrige,2034,-0.01,ZERO-B,KKW50,Mrd. CHF
+übrige,2035,-0.01,ZERO-B,KKW50,Mrd. CHF
+übrige,2036,-0.01,ZERO-B,KKW50,Mrd. CHF
+übrige,2037,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige,2038,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige,2039,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige,2040,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige,2041,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige,2042,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige,2043,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige,2044,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige,2045,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige,2046,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige,2047,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige,2048,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige,2049,-0.02,ZERO-B,KKW50,Mrd. CHF
+übrige,2050,-0.03,ZERO-B,KKW50,Mrd. CHF
+übrige,2051,-0.03,ZERO-B,KKW50,Mrd. CHF
+übrige,2052,-0.03,ZERO-B,KKW50,Mrd. CHF
+übrige,2053,-0.03,ZERO-B,KKW50,Mrd. CHF
+übrige,2054,-0.03,ZERO-B,KKW50,Mrd. CHF
+übrige,2055,-0.03,ZERO-B,KKW50,Mrd. CHF
+übrige,2056,-0.03,ZERO-B,KKW50,Mrd. CHF
+übrige,2057,-0.03,ZERO-B,KKW50,Mrd. CHF
+übrige,2058,-0.03,ZERO-B,KKW50,Mrd. CHF
+übrige,2059,-0.03,ZERO-B,KKW50,Mrd. CHF
+übrige,2060,-0.03,ZERO-B,KKW50,Mrd. CHF
+übrige,kumuliert 2020-50,-0.37,ZERO-B,KKW50,Mrd. CHF
+übrige,kumuliert 2020-60,-0.63,ZERO-B,KKW50,Mrd. CHF
+Summe,2020,0.01,ZERO-B,KKW50,Mrd. CHF
+Summe,2021,0.01,ZERO-B,KKW50,Mrd. CHF
+Summe,2022,0.02,ZERO-B,KKW50,Mrd. CHF
+Summe,2023,0.02,ZERO-B,KKW50,Mrd. CHF
+Summe,2024,0.03,ZERO-B,KKW50,Mrd. CHF
+Summe,2025,0.04,ZERO-B,KKW50,Mrd. CHF
+Summe,2026,0.05,ZERO-B,KKW50,Mrd. CHF
+Summe,2027,0.07,ZERO-B,KKW50,Mrd. CHF
+Summe,2028,0.09,ZERO-B,KKW50,Mrd. CHF
+Summe,2029,0.1,ZERO-B,KKW50,Mrd. CHF
+Summe,2030,0.14,ZERO-B,KKW50,Mrd. CHF
+Summe,2031,0.18,ZERO-B,KKW50,Mrd. CHF
+Summe,2032,0.24,ZERO-B,KKW50,Mrd. CHF
+Summe,2033,0.31,ZERO-B,KKW50,Mrd. CHF
+Summe,2034,0.37,ZERO-B,KKW50,Mrd. CHF
+Summe,2035,0.43,ZERO-B,KKW50,Mrd. CHF
+Summe,2036,0.49,ZERO-B,KKW50,Mrd. CHF
+Summe,2037,0.54,ZERO-B,KKW50,Mrd. CHF
+Summe,2038,0.56,ZERO-B,KKW50,Mrd. CHF
+Summe,2039,0.57,ZERO-B,KKW50,Mrd. CHF
+Summe,2040,0.58,ZERO-B,KKW50,Mrd. CHF
+Summe,2041,0.57,ZERO-B,KKW50,Mrd. CHF
+Summe,2042,0.57,ZERO-B,KKW50,Mrd. CHF
+Summe,2043,0.56,ZERO-B,KKW50,Mrd. CHF
+Summe,2044,0.55,ZERO-B,KKW50,Mrd. CHF
+Summe,2045,0.54,ZERO-B,KKW50,Mrd. CHF
+Summe,2046,0.53,ZERO-B,KKW50,Mrd. CHF
+Summe,2047,0.53,ZERO-B,KKW50,Mrd. CHF
+Summe,2048,0.52,ZERO-B,KKW50,Mrd. CHF
+Summe,2049,0.51,ZERO-B,KKW50,Mrd. CHF
+Summe,2050,0.5,ZERO-B,KKW50,Mrd. CHF
+Summe,2051,0.48,ZERO-B,KKW50,Mrd. CHF
+Summe,2052,0.45,ZERO-B,KKW50,Mrd. CHF
+Summe,2053,0.42,ZERO-B,KKW50,Mrd. CHF
+Summe,2054,0.38,ZERO-B,KKW50,Mrd. CHF
+Summe,2055,0.34,ZERO-B,KKW50,Mrd. CHF
+Summe,2056,0.28,ZERO-B,KKW50,Mrd. CHF
+Summe,2057,0.22,ZERO-B,KKW50,Mrd. CHF
+Summe,2058,0.16,ZERO-B,KKW50,Mrd. CHF
+Summe,2059,0.12,ZERO-B,KKW50,Mrd. CHF
+Summe,2060,0.08,ZERO-B,KKW50,Mrd. CHF
+Summe,kumuliert 2020-50,10.24,ZERO-B,KKW50,Mrd. CHF
+Summe,kumuliert 2020-60,13.19,ZERO-B,KKW50,Mrd. CHF
+Verkehr,2020,0.0,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2021,0.0,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2022,-0.01,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2023,-0.01,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2024,-0.01,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2025,-0.01,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2026,-0.02,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2027,-0.02,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2028,-0.02,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2029,-0.03,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2030,-0.03,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2031,-0.03,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2032,-0.03,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2033,-0.03,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2034,-0.04,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2035,-0.04,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2036,-0.04,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2037,-0.04,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2038,-0.04,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2039,-0.05,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2040,-0.05,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2041,-0.05,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2042,-0.05,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2043,-0.06,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2044,-0.06,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2045,-0.07,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2046,-0.08,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2047,-0.09,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2048,-0.1,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2049,-0.11,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2050,-0.12,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2051,-0.14,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2052,-0.15,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2053,-0.16,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2054,-0.18,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2055,-0.19,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2056,-0.21,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2057,-0.22,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2058,-0.23,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2059,-0.25,ZERO-C,KKW50,Mrd. CHF
+Verkehr,2060,-0.26,ZERO-C,KKW50,Mrd. CHF
+Verkehr,kumuliert 2020-50,-1.33,ZERO-C,KKW50,Mrd. CHF
+Verkehr,kumuliert 2020-60,-3.31,ZERO-C,KKW50,Mrd. CHF
+PkW,2020,0.0,ZERO-C,KKW50,Mrd. CHF
+PkW,2021,0.0,ZERO-C,KKW50,Mrd. CHF
+PkW,2022,0.0,ZERO-C,KKW50,Mrd. CHF
+PkW,2023,0.0,ZERO-C,KKW50,Mrd. CHF
+PkW,2024,0.0,ZERO-C,KKW50,Mrd. CHF
+PkW,2025,0.0,ZERO-C,KKW50,Mrd. CHF
+PkW,2026,0.0,ZERO-C,KKW50,Mrd. CHF
+PkW,2027,0.0,ZERO-C,KKW50,Mrd. CHF
+PkW,2028,0.0,ZERO-C,KKW50,Mrd. CHF
+PkW,2029,0.0,ZERO-C,KKW50,Mrd. CHF
+PkW,2030,0.0,ZERO-C,KKW50,Mrd. CHF
+PkW,2031,0.0,ZERO-C,KKW50,Mrd. CHF
+PkW,2032,0.0,ZERO-C,KKW50,Mrd. CHF
+PkW,2033,-0.01,ZERO-C,KKW50,Mrd. CHF
+PkW,2034,-0.01,ZERO-C,KKW50,Mrd. CHF
+PkW,2035,-0.02,ZERO-C,KKW50,Mrd. CHF
+PkW,2036,-0.02,ZERO-C,KKW50,Mrd. CHF
+PkW,2037,-0.03,ZERO-C,KKW50,Mrd. CHF
+PkW,2038,-0.03,ZERO-C,KKW50,Mrd. CHF
+PkW,2039,-0.04,ZERO-C,KKW50,Mrd. CHF
+PkW,2040,-0.05,ZERO-C,KKW50,Mrd. CHF
+PkW,2041,-0.05,ZERO-C,KKW50,Mrd. CHF
+PkW,2042,-0.06,ZERO-C,KKW50,Mrd. CHF
+PkW,2043,-0.06,ZERO-C,KKW50,Mrd. CHF
+PkW,2044,-0.06,ZERO-C,KKW50,Mrd. CHF
+PkW,2045,-0.07,ZERO-C,KKW50,Mrd. CHF
+PkW,2046,-0.07,ZERO-C,KKW50,Mrd. CHF
+PkW,2047,-0.07,ZERO-C,KKW50,Mrd. CHF
+PkW,2048,-0.07,ZERO-C,KKW50,Mrd. CHF
+PkW,2049,-0.07,ZERO-C,KKW50,Mrd. CHF
+PkW,2050,-0.07,ZERO-C,KKW50,Mrd. CHF
+PkW,2051,-0.07,ZERO-C,KKW50,Mrd. CHF
+PkW,2052,-0.06,ZERO-C,KKW50,Mrd. CHF
+PkW,2053,-0.06,ZERO-C,KKW50,Mrd. CHF
+PkW,2054,-0.05,ZERO-C,KKW50,Mrd. CHF
+PkW,2055,-0.04,ZERO-C,KKW50,Mrd. CHF
+PkW,2056,-0.03,ZERO-C,KKW50,Mrd. CHF
+PkW,2057,-0.02,ZERO-C,KKW50,Mrd. CHF
+PkW,2058,-0.01,ZERO-C,KKW50,Mrd. CHF
+PkW,2059,0.0,ZERO-C,KKW50,Mrd. CHF
+PkW,2060,0.01,ZERO-C,KKW50,Mrd. CHF
+PkW,kumuliert 2020-50,-0.86,ZERO-C,KKW50,Mrd. CHF
+PkW,kumuliert 2020-60,-1.21,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2020,0.0,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2021,0.0,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2022,0.0,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2023,0.0,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2024,0.0,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2025,-0.01,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2026,-0.01,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2027,-0.01,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2028,-0.01,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2029,0.0,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2030,0.0,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2031,0.0,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2032,0.0,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2033,0.01,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2034,0.02,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2035,0.02,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2036,0.03,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2037,0.04,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2038,0.05,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2039,0.06,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2040,0.08,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2041,0.09,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2042,0.1,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2043,0.11,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2044,0.11,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2045,0.12,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2046,0.12,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2047,0.13,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2048,0.13,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2049,0.13,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2050,0.13,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2051,0.12,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2052,0.12,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2053,0.11,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2054,0.1,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2055,0.09,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2056,0.08,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2057,0.07,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2058,0.06,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2059,0.05,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,2060,0.04,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,kumuliert 2020-50,1.44,ZERO-C,KKW50,Mrd. CHF
+Leichte Nutzfahrzeuge,kumuliert 2020-60,2.3,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2020,0.0,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2021,0.0,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2022,0.0,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2023,0.0,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2024,0.0,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2025,0.0,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2026,0.0,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2027,0.0,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2028,0.0,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2029,0.0,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2030,0.0,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2031,0.0,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2032,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2033,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2034,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2035,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2036,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2037,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2038,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2039,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2040,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2041,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2042,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2043,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2044,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2045,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2046,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2047,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2048,0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2049,0.0,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2050,0.0,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2051,0.0,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2052,-0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2053,-0.01,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2054,-0.02,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2055,-0.02,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2056,-0.03,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2057,-0.04,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2058,-0.04,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2059,-0.05,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,2060,-0.06,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,kumuliert 2020-50,0.21,ZERO-C,KKW50,Mrd. CHF
+Schwere Nutzfahrzeuge,kumuliert 2020-60,-0.08,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2020,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2021,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2022,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2023,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2024,-0.01,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2025,-0.01,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2026,-0.01,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2027,-0.02,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2028,-0.02,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2029,-0.02,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2030,-0.03,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2031,-0.03,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2032,-0.04,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2033,-0.04,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2034,-0.05,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2035,-0.06,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2036,-0.06,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2037,-0.07,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2038,-0.08,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2039,-0.08,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2040,-0.09,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2041,-0.1,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2042,-0.11,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2043,-0.12,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2044,-0.12,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2045,-0.13,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2046,-0.14,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2047,-0.15,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2048,-0.16,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2049,-0.17,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2050,-0.18,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2051,-0.19,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2052,-0.2,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2053,-0.2,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2054,-0.21,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2055,-0.22,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2056,-0.22,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2057,-0.23,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2058,-0.24,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2059,-0.24,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,2060,-0.25,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,kumuliert 2020-50,-2.12,ZERO-C,KKW50,Mrd. CHF
+übrige Fahrzeuge,kumuliert 2020-60,-4.32,ZERO-C,KKW50,Mrd. CHF
+PHH,2020,0.0,ZERO-C,KKW50,Mrd. CHF
+PHH,2021,0.0,ZERO-C,KKW50,Mrd. CHF
+PHH,2022,0.0,ZERO-C,KKW50,Mrd. CHF
+PHH,2023,-0.01,ZERO-C,KKW50,Mrd. CHF
+PHH,2024,-0.01,ZERO-C,KKW50,Mrd. CHF
+PHH,2025,-0.01,ZERO-C,KKW50,Mrd. CHF
+PHH,2026,-0.02,ZERO-C,KKW50,Mrd. CHF
+PHH,2027,-0.02,ZERO-C,KKW50,Mrd. CHF
+PHH,2028,-0.03,ZERO-C,KKW50,Mrd. CHF
+PHH,2029,-0.03,ZERO-C,KKW50,Mrd. CHF
+PHH,2030,-0.03,ZERO-C,KKW50,Mrd. CHF
+PHH,2031,-0.04,ZERO-C,KKW50,Mrd. CHF
+PHH,2032,-0.04,ZERO-C,KKW50,Mrd. CHF
+PHH,2033,-0.05,ZERO-C,KKW50,Mrd. CHF
+PHH,2034,-0.05,ZERO-C,KKW50,Mrd. CHF
+PHH,2035,-0.05,ZERO-C,KKW50,Mrd. CHF
+PHH,2036,-0.06,ZERO-C,KKW50,Mrd. CHF
+PHH,2037,-0.06,ZERO-C,KKW50,Mrd. CHF
+PHH,2038,-0.06,ZERO-C,KKW50,Mrd. CHF
+PHH,2039,-0.07,ZERO-C,KKW50,Mrd. CHF
+PHH,2040,-0.07,ZERO-C,KKW50,Mrd. CHF
+PHH,2041,-0.08,ZERO-C,KKW50,Mrd. CHF
+PHH,2042,-0.08,ZERO-C,KKW50,Mrd. CHF
+PHH,2043,-0.08,ZERO-C,KKW50,Mrd. CHF
+PHH,2044,-0.09,ZERO-C,KKW50,Mrd. CHF
+PHH,2045,-0.09,ZERO-C,KKW50,Mrd. CHF
+PHH,2046,-0.1,ZERO-C,KKW50,Mrd. CHF
+PHH,2047,-0.1,ZERO-C,KKW50,Mrd. CHF
+PHH,2048,-0.1,ZERO-C,KKW50,Mrd. CHF
+PHH,2049,-0.1,ZERO-C,KKW50,Mrd. CHF
+PHH,2050,-0.1,ZERO-C,KKW50,Mrd. CHF
+PHH,2051,-0.1,ZERO-C,KKW50,Mrd. CHF
+PHH,2052,-0.1,ZERO-C,KKW50,Mrd. CHF
+PHH,2053,-0.1,ZERO-C,KKW50,Mrd. CHF
+PHH,2054,-0.1,ZERO-C,KKW50,Mrd. CHF
+PHH,2055,-0.1,ZERO-C,KKW50,Mrd. CHF
+PHH,2056,-0.1,ZERO-C,KKW50,Mrd. CHF
+PHH,2057,-0.1,ZERO-C,KKW50,Mrd. CHF
+PHH,2058,-0.1,ZERO-C,KKW50,Mrd. CHF
+PHH,2059,-0.1,ZERO-C,KKW50,Mrd. CHF
+PHH,2060,-0.1,ZERO-C,KKW50,Mrd. CHF
+PHH,kumuliert 2020-50,-1.628,ZERO-C,KKW50,Mrd. CHF
+PHH,kumuliert 2020-60,-2.663,ZERO-C,KKW50,Mrd. CHF
+DL,2020,0.0,ZERO-C,KKW50,Mrd. CHF
+DL,2021,0.01,ZERO-C,KKW50,Mrd. CHF
+DL,2022,0.02,ZERO-C,KKW50,Mrd. CHF
+DL,2023,0.03,ZERO-C,KKW50,Mrd. CHF
+DL,2024,0.03,ZERO-C,KKW50,Mrd. CHF
+DL,2025,0.04,ZERO-C,KKW50,Mrd. CHF
+DL,2026,0.05,ZERO-C,KKW50,Mrd. CHF
+DL,2027,0.05,ZERO-C,KKW50,Mrd. CHF
+DL,2028,0.06,ZERO-C,KKW50,Mrd. CHF
+DL,2029,0.06,ZERO-C,KKW50,Mrd. CHF
+DL,2030,0.07,ZERO-C,KKW50,Mrd. CHF
+DL,2031,0.07,ZERO-C,KKW50,Mrd. CHF
+DL,2032,0.08,ZERO-C,KKW50,Mrd. CHF
+DL,2033,0.08,ZERO-C,KKW50,Mrd. CHF
+DL,2034,0.09,ZERO-C,KKW50,Mrd. CHF
+DL,2035,0.1,ZERO-C,KKW50,Mrd. CHF
+DL,2036,0.1,ZERO-C,KKW50,Mrd. CHF
+DL,2037,0.11,ZERO-C,KKW50,Mrd. CHF
+DL,2038,0.11,ZERO-C,KKW50,Mrd. CHF
+DL,2039,0.12,ZERO-C,KKW50,Mrd. CHF
+DL,2040,0.12,ZERO-C,KKW50,Mrd. CHF
+DL,2041,0.12,ZERO-C,KKW50,Mrd. CHF
+DL,2042,0.12,ZERO-C,KKW50,Mrd. CHF
+DL,2043,0.12,ZERO-C,KKW50,Mrd. CHF
+DL,2044,0.12,ZERO-C,KKW50,Mrd. CHF
+DL,2045,0.12,ZERO-C,KKW50,Mrd. CHF
+DL,2046,0.13,ZERO-C,KKW50,Mrd. CHF
+DL,2047,0.13,ZERO-C,KKW50,Mrd. CHF
+DL,2048,0.13,ZERO-C,KKW50,Mrd. CHF
+DL,2049,0.13,ZERO-C,KKW50,Mrd. CHF
+DL,2050,0.13,ZERO-C,KKW50,Mrd. CHF
+DL,2051,0.13,ZERO-C,KKW50,Mrd. CHF
+DL,2052,0.13,ZERO-C,KKW50,Mrd. CHF
+DL,2053,0.13,ZERO-C,KKW50,Mrd. CHF
+DL,2054,0.13,ZERO-C,KKW50,Mrd. CHF
+DL,2055,0.13,ZERO-C,KKW50,Mrd. CHF
+DL,2056,0.13,ZERO-C,KKW50,Mrd. CHF
+DL,2057,0.13,ZERO-C,KKW50,Mrd. CHF
+DL,2058,0.14,ZERO-C,KKW50,Mrd. CHF
+DL,2059,0.14,ZERO-C,KKW50,Mrd. CHF
+DL,2060,0.14,ZERO-C,KKW50,Mrd. CHF
+DL,kumuliert 2020-50,2.646,ZERO-C,KKW50,Mrd. CHF
+DL,kumuliert 2020-60,3.98,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2020,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2021,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2022,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2023,-0.01,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2024,-0.02,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2025,-0.04,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2026,-0.04,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2027,-0.02,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2028,-0.01,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2029,0.01,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2030,0.03,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2031,0.06,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2032,0.12,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2033,0.17,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2034,0.23,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2035,0.3,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2036,0.36,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2037,0.41,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2038,0.48,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2039,0.52,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2040,0.58,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2041,0.64,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2042,0.69,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2043,0.71,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2044,0.73,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2045,0.74,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2046,0.75,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2047,0.77,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2048,0.78,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2049,0.79,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2050,0.79,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2051,0.79,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2052,0.78,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2053,0.77,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2054,0.75,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2055,0.72,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2056,0.68,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2057,0.64,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2058,0.59,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2059,0.56,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,2060,0.55,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,kumuliert 2020-50,10.498,ZERO-C,KKW50,Mrd. CHF
+Stromerzeugung,kumuliert 2020-60,17.33,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2020,0.0,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2021,0.0,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2022,0.0,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2023,0.0,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2024,0.0,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2025,0.0,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2026,0.0,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2027,0.0,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2028,0.01,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2029,0.01,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2030,0.01,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2031,0.01,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2032,0.01,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2033,0.01,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2034,0.01,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2035,0.01,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2036,0.01,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2037,0.01,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2038,0.01,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2039,0.01,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2040,0.01,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2041,0.01,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2042,0.02,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2043,0.02,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2044,0.02,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2045,0.02,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2046,0.02,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2047,0.02,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2048,0.02,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2049,0.02,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2050,0.03,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2051,0.03,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2052,0.03,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2053,0.03,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2054,0.03,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2055,0.03,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2056,0.03,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2057,0.03,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2058,0.03,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2059,0.03,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,2060,0.03,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,kumuliert 2020-50,0.35,ZERO-C,KKW50,Mrd. CHF
+Wasserkraft,kumuliert 2020-60,0.62,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2020,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2021,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2022,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2023,-0.01,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2024,-0.03,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2025,-0.05,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2026,-0.04,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2027,-0.02,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2028,-0.02,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2029,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2030,0.02,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2031,0.05,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2032,0.11,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2033,0.16,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2034,0.22,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2035,0.29,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2036,0.35,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2037,0.41,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2038,0.47,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2039,0.51,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2040,0.57,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2041,0.63,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2042,0.67,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2043,0.69,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2044,0.72,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2045,0.72,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2046,0.73,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2047,0.75,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2048,0.76,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2049,0.77,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2050,0.77,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2051,0.77,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2052,0.76,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2053,0.75,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2054,0.73,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2055,0.7,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2056,0.66,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2057,0.62,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2058,0.57,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2059,0.54,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,2060,0.53,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,kumuliert 2020-50,10.21,ZERO-C,KKW50,Mrd. CHF
+übrige Erneuerbare,kumuliert 2020-60,16.84,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2020,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2021,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2022,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2023,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2024,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2025,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2026,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2027,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2028,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2029,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2030,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2031,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2032,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2033,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2034,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2035,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2036,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2037,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2038,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2039,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2040,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2041,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2042,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2043,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2044,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2045,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2046,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2047,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2048,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2049,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2050,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2051,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2052,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2053,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2054,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2055,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2056,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2057,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2058,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2059,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,2060,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,kumuliert 2020-50,0.0,ZERO-C,KKW50,Mrd. CHF
+Kernkraft,kumuliert 2020-60,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2020,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2021,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2022,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2023,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2024,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2025,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2026,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2027,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2028,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2029,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2030,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2031,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2032,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2033,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2034,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2035,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2036,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2037,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2038,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2039,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2040,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2041,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2042,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2043,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2044,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2045,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2046,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2047,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2048,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2049,0.0,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2050,-0.01,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2051,-0.01,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2052,-0.01,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2053,-0.01,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2054,-0.01,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2055,-0.01,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2056,-0.01,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2057,-0.01,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2058,-0.01,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2059,-0.01,ZERO-C,KKW50,Mrd. CHF
+konventionelle,2060,-0.01,ZERO-C,KKW50,Mrd. CHF
+konventionelle,kumuliert 2020-50,-0.07,ZERO-C,KKW50,Mrd. CHF
+konventionelle,kumuliert 2020-60,-0.13,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2020,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2021,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2022,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2023,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2024,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2025,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2026,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2027,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2028,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2029,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2030,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2031,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2032,0.0,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2033,0.01,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2034,0.01,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2035,0.01,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2036,0.02,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2037,0.02,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2038,0.03,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2039,0.03,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2040,0.03,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2041,0.04,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2042,0.04,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2043,0.04,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2044,0.04,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2045,0.04,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2046,0.04,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2047,0.05,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2048,0.05,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2049,0.05,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2050,0.04,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2051,0.04,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2052,0.04,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2053,0.04,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2054,0.04,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2055,0.04,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2056,0.03,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2057,0.03,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2058,0.03,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2059,0.03,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,2060,0.03,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,kumuliert 2020-50,0.58,ZERO-C,KKW50,Mrd. CHF
+Stromnetze,kumuliert 2020-60,0.93,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2020,0.01,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2021,0.0,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2022,0.01,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2023,0.03,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2024,0.05,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2025,0.07,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2026,0.08,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2027,0.09,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2028,0.1,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2029,0.11,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2030,0.12,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2031,0.12,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2032,0.11,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2033,0.12,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2034,0.13,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2035,0.13,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2036,0.13,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2037,0.15,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2038,0.15,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2039,0.18,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2040,0.21,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2041,0.19,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2042,0.2,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2043,0.21,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2044,0.22,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2045,0.22,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2046,0.23,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2047,0.23,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2048,0.23,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2049,0.23,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2050,0.27,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2051,0.27,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2052,0.27,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2053,0.27,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2054,0.27,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2055,0.26,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2056,0.26,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2057,0.26,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2058,0.26,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2059,0.26,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,2060,0.26,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,kumuliert 2020-50,4.321,ZERO-C,KKW50,Mrd. CHF
+Erzeugung Fernwärme,kumuliert 2020-60,6.977,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2020,0.01,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2021,0.0,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2022,0.01,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2023,0.03,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2024,0.05,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2025,0.07,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2026,0.09,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2027,0.09,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2028,0.1,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2029,0.11,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2030,0.13,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2031,0.12,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2032,0.12,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2033,0.12,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2034,0.13,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2035,0.13,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2036,0.13,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2037,0.15,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2038,0.15,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2039,0.18,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2040,0.21,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2041,0.19,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2042,0.2,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2043,0.21,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2044,0.22,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2045,0.22,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2046,0.23,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2047,0.23,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2048,0.23,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2049,0.24,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2050,0.27,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2051,0.27,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2052,0.27,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2053,0.27,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2054,0.27,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2055,0.26,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2056,0.26,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2057,0.26,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2058,0.26,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2059,0.26,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,2060,0.26,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,kumuliert 2020-50,4.35,ZERO-C,KKW50,Mrd. CHF
+Erneuerbare mit WKK,kumuliert 2020-60,7.01,ZERO-C,KKW50,Mrd. CHF
+übrige,2020,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2021,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2022,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2023,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2024,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2025,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2026,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2027,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2028,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2029,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2030,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2031,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2032,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2033,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2034,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2035,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2036,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2037,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2038,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2039,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2040,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2041,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2042,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2043,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2044,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2045,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2046,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2047,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2048,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2049,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2050,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2051,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2052,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2053,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2054,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2055,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2056,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2057,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2058,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2059,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,2060,0.0,ZERO-C,KKW50,Mrd. CHF
+übrige,kumuliert 2020-50,-0.03,ZERO-C,KKW50,Mrd. CHF
+übrige,kumuliert 2020-60,-0.03,ZERO-C,KKW50,Mrd. CHF
+Summe,2020,0.01,ZERO-C,KKW50,Mrd. CHF
+Summe,2021,0.01,ZERO-C,KKW50,Mrd. CHF
+Summe,2022,0.02,ZERO-C,KKW50,Mrd. CHF
+Summe,2023,0.03,ZERO-C,KKW50,Mrd. CHF
+Summe,2024,0.03,ZERO-C,KKW50,Mrd. CHF
+Summe,2025,0.04,ZERO-C,KKW50,Mrd. CHF
+Summe,2026,0.06,ZERO-C,KKW50,Mrd. CHF
+Summe,2027,0.08,ZERO-C,KKW50,Mrd. CHF
+Summe,2028,0.1,ZERO-C,KKW50,Mrd. CHF
+Summe,2029,0.12,ZERO-C,KKW50,Mrd. CHF
+Summe,2030,0.15,ZERO-C,KKW50,Mrd. CHF
+Summe,2031,0.18,ZERO-C,KKW50,Mrd. CHF
+Summe,2032,0.24,ZERO-C,KKW50,Mrd. CHF
+Summe,2033,0.3,ZERO-C,KKW50,Mrd. CHF
+Summe,2034,0.37,ZERO-C,KKW50,Mrd. CHF
+Summe,2035,0.44,ZERO-C,KKW50,Mrd. CHF
+Summe,2036,0.51,ZERO-C,KKW50,Mrd. CHF
+Summe,2037,0.59,ZERO-C,KKW50,Mrd. CHF
+Summe,2038,0.66,ZERO-C,KKW50,Mrd. CHF
+Summe,2039,0.73,ZERO-C,KKW50,Mrd. CHF
+Summe,2040,0.83,ZERO-C,KKW50,Mrd. CHF
+Summe,2041,0.86,ZERO-C,KKW50,Mrd. CHF
+Summe,2042,0.92,ZERO-C,KKW50,Mrd. CHF
+Summe,2043,0.94,ZERO-C,KKW50,Mrd. CHF
+Summe,2044,0.97,ZERO-C,KKW50,Mrd. CHF
+Summe,2045,0.97,ZERO-C,KKW50,Mrd. CHF
+Summe,2046,0.97,ZERO-C,KKW50,Mrd. CHF
+Summe,2047,0.98,ZERO-C,KKW50,Mrd. CHF
+Summe,2048,0.99,ZERO-C,KKW50,Mrd. CHF
+Summe,2049,0.99,ZERO-C,KKW50,Mrd. CHF
+Summe,2050,1.01,ZERO-C,KKW50,Mrd. CHF
+Summe,2051,0.99,ZERO-C,KKW50,Mrd. CHF
+Summe,2052,0.97,ZERO-C,KKW50,Mrd. CHF
+Summe,2053,0.94,ZERO-C,KKW50,Mrd. CHF
+Summe,2054,0.9,ZERO-C,KKW50,Mrd. CHF
+Summe,2055,0.86,ZERO-C,KKW50,Mrd. CHF
+Summe,2056,0.8,ZERO-C,KKW50,Mrd. CHF
+Summe,2057,0.74,ZERO-C,KKW50,Mrd. CHF
+Summe,2058,0.69,ZERO-C,KKW50,Mrd. CHF
+Summe,2059,0.64,ZERO-C,KKW50,Mrd. CHF
+Summe,2060,0.62,ZERO-C,KKW50,Mrd. CHF
+Summe,kumuliert 2020-50,15.09,ZERO-C,KKW50,Mrd. CHF
+Summe,kumuliert 2020-60,23.249,ZERO-C,KKW50,Mrd. CHF

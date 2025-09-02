@@ -1,0 +1,3356 @@
+technology,year,value,scenario,variant,unit
+Kernkraftwerke,2000,1.1,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2001,1.1799999999999997,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2002,1.07,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2003,1.12,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2004,1.1500000000000001,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2005,1.1000000000000003,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2006,1.286978408417172,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2007,1.263840286856507,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2008,1.3477476060594518,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2009,1.4411825024266522,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2010,1.444513612953424,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2011,1.4117442871935528,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2012,1.533731989057011,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2013,1.383976899622627,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2014,1.3022196943078053,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2015,1.1942065641042785,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2016,1.4316821137940108,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2017,1.4149355573636229,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2018,1.3726984808631701,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2019,1.4263956830904228,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2020,1.296,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2021,1.296,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2022,0.666,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2023,0.666,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2024,0.666,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2025,0.666,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2026,0.666,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2027,0.666,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2028,0.666,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2029,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2030,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2031,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2032,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2033,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2034,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2035,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2036,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2037,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2038,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2039,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2040,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2041,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2042,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2043,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2044,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2045,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2046,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2047,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2048,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2049,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2050,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2051,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2052,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2053,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2054,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2055,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2056,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2057,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2058,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2059,0.0,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2060,0.0,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2000,13.14,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2001,14.119999999999997,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2002,13.870000000000001,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2003,14.84,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2004,15.35,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2005,15.550000000000004,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2006,15.623319283575901,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2007,14.977004974165695,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2008,15.403635325131344,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2009,15.191038248477401,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2010,17.05848877948918,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2011,15.502624258191165,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2012,16.33175311244264,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2013,17.722612074077166,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2014,15.926568806052677,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2015,18.355399374280605,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2016,19.309187625754877,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2017,19.77754999270931,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2018,10.489399180489201,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2019,12.326119051221273,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2020,13.197312,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2021,14.109912000000001,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2022,14.348833181758403,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2023,14.506908931327466,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2024,14.452448466830246,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2025,14.286939415097002,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2026,14.543840953164427,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2027,14.05061654530234,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2028,14.60399806999655,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2029,14.352661299375153,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2030,14.47139580698413,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2031,14.52876692366198,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2032,13.529515877173958,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2033,13.384300751482883,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2034,13.520890726494404,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2035,13.33342367885026,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2036,13.242354269449534,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2037,13.845503270866317,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2038,13.6610247207398,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2039,13.646567053600318,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2040,13.668051115603708,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2041,13.543305745719213,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2042,13.545153770713089,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2043,13.349727358388652,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2044,13.76114713449999,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2045,14.038266072204365,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2046,14.027022302676206,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2047,14.297982929000359,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2048,14.836720977373236,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2049,15.509900658353496,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2050,16.020456675253378,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2051,16.341240092497152,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2052,16.53267079559086,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2053,16.611936931775478,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2054,16.600203864120346,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2055,16.570792379977497,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2056,16.524365096656705,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2057,16.378544630941583,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2058,16.321665157334134,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2059,16.21299772765675,ZERO-Basis,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2060,16.092510548217064,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2000,7.6104,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2001,8.027999999999999,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2002,8.175600000000001,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2003,8.593200000000001,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2004,8.8524,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2005,9.360000000000001,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2006,9.948642394369022,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2007,10.13858649015283,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2008,10.34514569829983,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2009,10.02807010753734,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2010,11.288216710905997,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2011,10.893050595339076,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2012,10.789019635606856,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2013,11.086150595038582,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2014,10.778283044764764,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2015,12.010948466898974,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2016,12.760778468761286,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2017,13.081810193845577,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2018,7.972785298906723,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2019,8.284664615798409,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2020,7.527312000000001,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2021,7.527312000000001,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2022,7.527312000000001,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2023,7.527312000000001,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2024,7.527312000000001,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2025,7.527312000000001,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2026,7.527312000000001,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2027,7.527312000000001,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2028,7.527312000000001,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2029,7.527312000000001,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2030,7.6869000000000005,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2031,7.846488000000001,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2032,8.006076,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2033,8.165664,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2034,8.27776882634499,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2035,8.31844547174677,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2036,8.35660636863011,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2037,8.396092956633346,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2038,8.432527492737417,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2039,8.4719603819462,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2040,8.51190542560146,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2041,8.628224974697247,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2042,8.744985723062012,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2043,8.859401298351154,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2044,8.97621637061915,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2045,9.089848764618742,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2046,9.207588739188276,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2047,9.322963547941107,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2048,9.439770212104014,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2049,9.555141382850016,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2050,9.670927556407614,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2051,9.760685633747137,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2052,9.84836264549686,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2053,9.937664313572803,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2054,10.024978948765066,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2055,10.113133113080938,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2056,10.20279522272894,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2057,10.291545862197902,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2058,10.378450073657183,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2059,10.466875988240798,ZERO-Basis,KKW50,PJ
+Kehrichtverwertungsanlagen,2060,10.555669907094321,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2000,5.529599999999999,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2001,6.092,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2002,5.6944,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2003,6.2467999999999995,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2004,6.4976,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2005,6.190000000000002,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2006,5.674676889206879,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2007,4.8384184840128635,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2008,5.058489626831512,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2009,5.162968140940062,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2010,5.770272068583182,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2011,4.60957366285209,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2012,5.542733476835786,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2013,6.636461479038584,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2014,5.148285761287912,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2015,6.344450907381631,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2016,6.548409156993591,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2017,6.695739798863735,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2018,2.5166138815824786,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2019,4.041454435422865,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2020,5.67,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2021,6.5826,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2022,6.821521181758402,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2023,6.979596931327464,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2024,6.925136466830245,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2025,6.759627415097001,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2026,7.016528953164425,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2027,6.523304545302339,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2028,7.076686069996548,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2029,6.8253492993751514,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2030,6.784495806984131,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2031,6.682278923661979,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2032,5.523439877173958,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2033,5.218636751482882,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2034,5.243121900149414,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2035,5.01497820710349,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2036,4.885747900819423,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2037,5.4494103142329715,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2038,5.228497228002383,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2039,5.174606671654119,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2040,5.156145690002248,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2041,4.915080771021966,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2042,4.800168047651076,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2043,4.490326060037499,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2044,4.784930763880839,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2045,4.948417307585624,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2046,4.81943356348793,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2047,4.9750193810592505,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2048,5.3969507652692235,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2049,5.954759275503481,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2050,6.349529118845762,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2051,6.580554458750014,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2052,6.684308150094001,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2053,6.674272618202674,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2054,6.57522491535528,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2055,6.457659266896561,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2056,6.321569873927765,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2057,6.086998768743682,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2058,5.943215083676951,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2059,5.746121739415953,ZERO-Basis,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2060,5.536840641122741,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2000,0.05,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2001,0.049999999999999996,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2002,0.03,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2003,0.02,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2004,0.02,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2005,0.020000000000000004,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2006,0.04970230800692642,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2007,0.09915473897780207,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2008,0.11861706880920321,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2009,0.1577792490959496,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2010,0.19699760755739887,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2011,0.23563145461527948,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2012,0.2745148985003473,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2013,0.31341102630020673,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2014,0.35121149963951565,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2015,0.39039406161511914,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2016,0.4291302604511134,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2017,0.4675144499270661,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2018,9.447902338647628,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2019,9.817485265688301,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2020,8.920008000000001,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2021,8.920008000000001,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2022,10.101492,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2023,10.7723952,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2024,11.7328752,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2025,12.662460000000001,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2026,13.20246,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2027,14.49846,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2028,14.53086,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2029,16.029117000000003,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2030,16.555374,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2031,17.117605836734697,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2032,18.66100867346939,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2033,20.97646706553208,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2034,22.079972764282775,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2035,22.713926085433467,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2036,24.05256476058416,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2037,26.059614857142854,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2038,26.726677714285717,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2039,27.70454920122857,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2040,28.69800342857143,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2041,29.451466285714286,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2042,30.482129142857143,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2043,31.728792000000002,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2044,33.339672,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2045,34.244952000000005,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2046,35.171832,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2047,36.019512,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2048,36.219192,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2049,36.376152000000005,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2050,38.03930391743741,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2051,38.092055834874806,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2052,38.171183711030906,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2053,38.27668754590571,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2054,38.38219138078051,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2055,38.487695215655314,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2056,38.566823091811415,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2057,38.67232692668622,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2058,38.751454802842325,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2059,38.85695863771713,ZERO-Basis,KKW50,PJ
+Diverse Erneuerbare,2060,38.96246247259193,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2000,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2001,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2002,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2003,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2004,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2005,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2006,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2007,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2008,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2009,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2010,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2011,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2012,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2013,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2014,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2015,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2016,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2017,0.0,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2018,2.201770232791168,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2019,2.2878990535747303,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2020,2.078748,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2021,2.078748,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2022,3.163032,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2023,3.8339352000000004,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2024,4.7944152,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2025,5.634,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2026,6.1739999999999995,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2027,6.75,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2028,6.7824,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2029,7.995600000000001,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2030,8.0712,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2031,8.5896,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2032,9.234000000000002,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2033,10.946339555328,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2034,11.970013417344001,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2035,12.236134901759998,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2036,13.331261740175998,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2037,15.0948,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2038,15.0912,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2039,15.398408629799999,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2040,15.7212,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2041,15.804000000000002,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2042,16.164,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2043,16.740000000000002,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2044,18.151199999999996,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2045,18.8568,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2046,19.584,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2047,20.232,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2048,20.232,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2049,20.232,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2050,21.6,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2051,21.6,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2052,21.6,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2053,21.6,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2054,21.6,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2055,21.6,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2056,21.6,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2057,21.6,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2058,21.6,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2059,21.6,ZERO-Basis,KKW50,PJ
+Wärmepumpen,2060,21.6,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2000,0.0,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2001,0.0,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2002,0.0,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2003,0.0,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2004,0.0,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2005,0.0,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2006,0.039725731197490975,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2007,0.07925174233439251,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2008,0.11861706880920321,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2009,0.1577792490959496,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2010,0.19699760755739887,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2011,0.23563145461527948,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2012,0.2745148985003473,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2013,0.31341102630020673,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2014,0.35121149963951565,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2015,0.39039406161511914,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2016,0.4291302604511134,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2017,0.4675144499270661,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2018,0.5061063037915794,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2019,0.5259041639349773,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2020,0.477828,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2021,0.477828,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2022,0.5750279999999999,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2023,0.5750279999999999,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2024,0.5750279999999999,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2025,0.6650280000000001,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2026,0.6650280000000001,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2027,1.3850280000000001,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2028,1.3850280000000001,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2029,1.6700850000000003,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2030,2.1207420000000003,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2031,2.1645738367346943,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2032,3.0635766734693886,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2033,3.6666955102040815,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2034,3.746527346938776,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2035,4.11435918367347,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2036,4.357871020408163,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2037,4.601382857142856,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2038,5.272045714285715,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2039,5.942708571428572,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2040,6.613371428571429,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2041,7.284034285714286,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2042,7.9546971428571425,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2043,8.62536,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2044,8.825040000000001,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2045,9.024720000000002,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2046,9.224400000000001,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2047,9.42408,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2048,9.62376,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2049,9.78072,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2050,10.02312,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2051,10.02312,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2052,10.02312,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2053,10.02312,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2054,10.02312,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2055,10.02312,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2056,10.02312,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2057,10.02312,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2058,10.02312,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2059,10.02312,ZERO-Basis,KKW50,PJ
+Geothermieanlagen,2060,10.02312,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2000,0.05,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2001,0.049999999999999996,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2002,0.03,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2003,0.02,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2004,0.02,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2005,0.020000000000000004,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2006,0.009976576809435441,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2007,0.019902996643409557,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2008,0.0,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2009,0.0,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2010,0.0,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2011,0.0,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2012,0.0,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2013,0.0,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2014,0.0,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2015,0.0,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2016,0.0,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2017,0.0,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2018,3.8217069622631383,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2019,3.9712044480306616,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2020,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2021,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2022,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2023,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2024,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2025,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2026,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2027,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2028,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2029,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2030,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2031,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2032,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2033,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2034,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2035,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2036,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2037,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2038,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2039,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2040,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2041,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2042,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2043,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2044,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2045,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2046,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2047,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2048,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2049,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2050,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2051,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2052,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2053,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2054,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2055,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2056,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2057,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2058,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2059,3.608172,ZERO-Basis,KKW50,PJ
+Biomasseanlagen,2060,3.608172,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2000,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2001,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2002,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2003,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2004,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2005,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2006,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2007,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2008,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2009,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2010,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2011,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2012,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2013,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2014,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2015,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2016,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2017,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2018,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2019,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2020,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2021,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2022,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2023,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2024,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2025,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2026,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2027,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2028,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2029,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2030,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2031,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2032,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2033,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2034,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2035,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2036,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2037,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2038,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2039,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2040,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2041,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2042,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2043,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2044,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2045,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2046,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2047,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2048,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2049,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2050,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2051,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2052,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2053,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2054,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2055,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2056,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2057,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2058,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2059,0.0,ZERO-Basis,KKW50,PJ
+Biogasanlagen,2060,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2000,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2001,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2002,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2003,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2004,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2005,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2006,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2007,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2008,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2009,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2010,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2011,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2012,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2013,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2014,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2015,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2016,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2017,0.0,ZERO-Basis,KKW50,PJ
+Sonstige,2018,2.9183188398017426,ZERO-Basis,KKW50,PJ
+Sonstige,2019,3.032477600147931,ZERO-Basis,KKW50,PJ
+Sonstige,2020,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2021,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2022,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2023,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2024,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2025,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2026,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2027,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2028,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2029,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2030,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2031,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2032,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2033,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2034,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2035,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2036,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2037,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2038,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2039,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2040,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2041,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2042,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2043,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2044,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2045,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2046,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2047,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2048,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2049,2.7552600000000003,ZERO-Basis,KKW50,PJ
+Sonstige,2050,2.808011917437401,ZERO-Basis,KKW50,PJ
+Sonstige,2051,2.8607638348748026,ZERO-Basis,KKW50,PJ
+Sonstige,2052,2.939891711030905,ZERO-Basis,KKW50,PJ
+Sonstige,2053,3.045395545905707,ZERO-Basis,KKW50,PJ
+Sonstige,2054,3.1508993807805097,ZERO-Basis,KKW50,PJ
+Sonstige,2055,3.2564032156553124,ZERO-Basis,KKW50,PJ
+Sonstige,2056,3.335531091811414,ZERO-Basis,KKW50,PJ
+Sonstige,2057,3.441034926686217,ZERO-Basis,KKW50,PJ
+Sonstige,2058,3.520162802842319,ZERO-Basis,KKW50,PJ
+Sonstige,2059,3.6256666377171216,ZERO-Basis,KKW50,PJ
+Sonstige,2060,3.731170472591924,ZERO-Basis,KKW50,PJ
+Summe,2000,14.290000000000001,ZERO-Basis,KKW50,PJ
+Summe,2001,15.349999999999996,ZERO-Basis,KKW50,PJ
+Summe,2002,14.97,ZERO-Basis,KKW50,PJ
+Summe,2003,15.98,ZERO-Basis,KKW50,PJ
+Summe,2004,16.52,ZERO-Basis,KKW50,PJ
+Summe,2005,16.67,ZERO-Basis,KKW50,PJ
+Summe,2006,16.96,ZERO-Basis,KKW50,PJ
+Summe,2007,16.34,ZERO-Basis,KKW50,PJ
+Summe,2008,16.87,ZERO-Basis,KKW50,PJ
+Summe,2009,16.79,ZERO-Basis,KKW50,PJ
+Summe,2010,18.700000000000003,ZERO-Basis,KKW50,PJ
+Summe,2011,17.15,ZERO-Basis,KKW50,PJ
+Summe,2012,18.14,ZERO-Basis,KKW50,PJ
+Summe,2013,19.419999999999998,ZERO-Basis,KKW50,PJ
+Summe,2014,17.58,ZERO-Basis,KKW50,PJ
+Summe,2015,19.94,ZERO-Basis,KKW50,PJ
+Summe,2016,21.169999999999998,ZERO-Basis,KKW50,PJ
+Summe,2017,21.660000000000004,ZERO-Basis,KKW50,PJ
+Summe,2018,21.310000000000002,ZERO-Basis,KKW50,PJ
+Summe,2019,23.569999999999997,ZERO-Basis,KKW50,PJ
+Summe,2020,23.413320000000002,ZERO-Basis,KKW50,PJ
+Summe,2021,24.32592,ZERO-Basis,KKW50,PJ
+Summe,2022,25.116325181758405,ZERO-Basis,KKW50,PJ
+Summe,2023,25.945304131327465,ZERO-Basis,KKW50,PJ
+Summe,2024,26.851323666830247,ZERO-Basis,KKW50,PJ
+Summe,2025,27.615399415097002,ZERO-Basis,KKW50,PJ
+Summe,2026,28.412300953164426,ZERO-Basis,KKW50,PJ
+Summe,2027,29.215076545302338,ZERO-Basis,KKW50,PJ
+Summe,2028,29.800858069996547,ZERO-Basis,KKW50,PJ
+Summe,2029,30.381778299375156,ZERO-Basis,KKW50,PJ
+Summe,2030,31.026769806984127,ZERO-Basis,KKW50,PJ
+Summe,2031,31.646372760396673,ZERO-Basis,KKW50,PJ
+Summe,2032,32.19052455064335,ZERO-Basis,KKW50,PJ
+Summe,2033,34.36076781701497,ZERO-Basis,KKW50,PJ
+Summe,2034,35.60086349077718,ZERO-Basis,KKW50,PJ
+Summe,2035,36.04734976428372,ZERO-Basis,KKW50,PJ
+Summe,2036,37.2949190300337,ZERO-Basis,KKW50,PJ
+Summe,2037,39.90511812800917,ZERO-Basis,KKW50,PJ
+Summe,2038,40.38770243502552,ZERO-Basis,KKW50,PJ
+Summe,2039,41.35111625482889,ZERO-Basis,KKW50,PJ
+Summe,2040,42.366054544175135,ZERO-Basis,KKW50,PJ
+Summe,2041,42.9947720314335,ZERO-Basis,KKW50,PJ
+Summe,2042,44.02728291357023,ZERO-Basis,KKW50,PJ
+Summe,2043,45.078519358388654,ZERO-Basis,KKW50,PJ
+Summe,2044,47.100819134499986,ZERO-Basis,KKW50,PJ
+Summe,2045,48.28321807220437,ZERO-Basis,KKW50,PJ
+Summe,2046,49.1988543026762,ZERO-Basis,KKW50,PJ
+Summe,2047,50.317494929000354,ZERO-Basis,KKW50,PJ
+Summe,2048,51.05591297737323,ZERO-Basis,KKW50,PJ
+Summe,2049,51.8860526583535,ZERO-Basis,KKW50,PJ
+Summe,2050,54.05976059269078,ZERO-Basis,KKW50,PJ
+Summe,2051,54.43329592737196,ZERO-Basis,KKW50,PJ
+Summe,2052,54.70385450662177,ZERO-Basis,KKW50,PJ
+Summe,2053,54.888624477681184,ZERO-Basis,KKW50,PJ
+Summe,2054,54.98239524490086,ZERO-Basis,KKW50,PJ
+Summe,2055,55.05848759563281,ZERO-Basis,KKW50,PJ
+Summe,2056,55.09118818846812,ZERO-Basis,KKW50,PJ
+Summe,2057,55.0508715576278,ZERO-Basis,KKW50,PJ
+Summe,2058,55.073119960176456,ZERO-Basis,KKW50,PJ
+Summe,2059,55.069956365373876,ZERO-Basis,KKW50,PJ
+Summe,2060,55.054973020808994,ZERO-Basis,KKW50,PJ
+Kernkraftwerke,2000,1.1,ZERO-A,KKW50,PJ
+Kernkraftwerke,2001,1.1799999999999997,ZERO-A,KKW50,PJ
+Kernkraftwerke,2002,1.07,ZERO-A,KKW50,PJ
+Kernkraftwerke,2003,1.12,ZERO-A,KKW50,PJ
+Kernkraftwerke,2004,1.1500000000000001,ZERO-A,KKW50,PJ
+Kernkraftwerke,2005,1.1000000000000003,ZERO-A,KKW50,PJ
+Kernkraftwerke,2006,1.286978408417172,ZERO-A,KKW50,PJ
+Kernkraftwerke,2007,1.263840286856507,ZERO-A,KKW50,PJ
+Kernkraftwerke,2008,1.3477476060594518,ZERO-A,KKW50,PJ
+Kernkraftwerke,2009,1.4411825024266522,ZERO-A,KKW50,PJ
+Kernkraftwerke,2010,1.444513612953424,ZERO-A,KKW50,PJ
+Kernkraftwerke,2011,1.4117442871935528,ZERO-A,KKW50,PJ
+Kernkraftwerke,2012,1.533731989057011,ZERO-A,KKW50,PJ
+Kernkraftwerke,2013,1.383976899622627,ZERO-A,KKW50,PJ
+Kernkraftwerke,2014,1.3022196943078053,ZERO-A,KKW50,PJ
+Kernkraftwerke,2015,1.1942065641042785,ZERO-A,KKW50,PJ
+Kernkraftwerke,2016,1.4316821137940108,ZERO-A,KKW50,PJ
+Kernkraftwerke,2017,1.4149355573636229,ZERO-A,KKW50,PJ
+Kernkraftwerke,2018,1.3726984808631701,ZERO-A,KKW50,PJ
+Kernkraftwerke,2019,1.4263956830904228,ZERO-A,KKW50,PJ
+Kernkraftwerke,2020,1.296,ZERO-A,KKW50,PJ
+Kernkraftwerke,2021,1.296,ZERO-A,KKW50,PJ
+Kernkraftwerke,2022,0.666,ZERO-A,KKW50,PJ
+Kernkraftwerke,2023,0.666,ZERO-A,KKW50,PJ
+Kernkraftwerke,2024,0.666,ZERO-A,KKW50,PJ
+Kernkraftwerke,2025,0.666,ZERO-A,KKW50,PJ
+Kernkraftwerke,2026,0.666,ZERO-A,KKW50,PJ
+Kernkraftwerke,2027,0.666,ZERO-A,KKW50,PJ
+Kernkraftwerke,2028,0.666,ZERO-A,KKW50,PJ
+Kernkraftwerke,2029,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2030,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2031,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2032,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2033,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2034,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2035,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2036,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2037,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2038,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2039,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2040,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2041,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2042,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2043,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2044,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2045,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2046,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2047,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2048,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2049,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2050,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2051,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2052,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2053,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2054,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2055,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2056,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2057,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2058,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2059,0.0,ZERO-A,KKW50,PJ
+Kernkraftwerke,2060,0.0,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2000,13.14,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2001,14.119999999999997,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2002,13.870000000000001,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2003,14.84,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2004,15.35,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2005,15.550000000000004,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2006,15.623319283575901,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2007,14.977004974165695,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2008,15.403635325131344,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2009,15.191038248477401,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2010,17.05848877948918,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2011,15.502624258191165,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2012,16.33175311244264,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2013,17.722612074077166,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2014,15.926568806052677,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2015,18.355399374280605,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2016,19.309187625754877,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2017,19.77754999270931,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2018,10.489399180489201,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2019,12.326119051221273,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2020,12.970512000000001,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2021,13.823712000000002,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2022,14.256701568947067,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2023,14.31493976515138,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2024,14.130844165863447,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2025,13.77702023364726,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2026,13.800499791527645,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2027,13.702382687517634,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2028,13.951586073436305,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2029,13.632699205761615,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2030,13.593698626641547,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2031,13.218903092893255,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2032,12.691171075969885,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2033,12.716697334567566,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2034,12.515386627637085,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2035,12.282208172221587,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2036,11.965485803170981,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2037,12.320829660370055,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2038,12.350843121854517,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2039,12.527337065266835,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2040,12.753275537652687,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2041,12.78324017731327,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2042,13.027135865091083,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2043,12.883891119604598,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2044,12.88349764744029,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2045,12.729637922361695,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2046,12.608089183619851,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2047,12.645231721143858,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2048,12.69016977719278,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2049,12.734692130342395,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2050,12.724561402143465,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2051,12.742045980512874,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2052,12.727385538775545,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2053,12.5314857490738,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2054,12.34258273019857,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2055,12.20162930489537,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2056,12.084727825634499,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2057,11.942866316661178,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2058,11.824997625388747,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2059,11.684942917646504,ZERO-A,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2060,11.542383424435764,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2000,7.6104,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2001,8.027999999999999,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2002,8.175600000000001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2003,8.593200000000001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2004,8.8524,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2005,9.360000000000001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2006,9.948642394369022,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2007,10.13858649015283,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2008,10.34514569829983,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2009,10.02807010753734,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2010,11.288216710905997,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2011,10.893050595339076,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2012,10.789019635606856,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2013,11.086150595038582,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2014,10.778283044764764,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2015,12.010948466898974,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2016,12.760778468761286,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2017,13.081810193845577,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2018,7.972785298906723,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2019,8.284664615798409,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2020,7.527312000000001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2021,7.527312000000001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2022,7.527312000000001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2023,7.527312000000001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2024,7.527312000000001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2025,7.527312000000001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2026,7.527312000000001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2027,7.527312000000001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2028,7.527312000000001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2029,7.942217163750001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2030,7.968523815000002,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2031,7.994830466250002,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2032,8.021137117500002,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2033,8.047443768750002,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2034,8.073750420000001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2035,8.100057071250001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2036,8.1263637225,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2037,8.152670373750004,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2038,8.178977025000002,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2039,8.20528367625,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2040,8.231590327500001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2041,8.257896978749999,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2042,8.284203630000002,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2043,8.310510281250002,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2044,8.336816932500001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2045,8.363123583750001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2046,8.389430235000003,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2047,8.41573688625,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2048,8.442043537500002,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2049,8.468350188750001,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2050,8.49465684,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2051,8.49465684,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2052,8.49465684,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2053,8.49465684,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2054,8.49465684,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2055,8.49465684,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2056,8.49465684,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2057,8.49465684,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2058,8.49465684,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2059,8.49465684,ZERO-A,KKW50,PJ
+Kehrichtverwertungsanlagen,2060,8.49465684,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2000,5.529599999999999,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2001,6.092,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2002,5.6944,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2003,6.2467999999999995,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2004,6.4976,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2005,6.190000000000002,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2006,5.674676889206879,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2007,4.8384184840128635,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2008,5.058489626831512,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2009,5.162968140940062,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2010,5.770272068583182,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2011,4.60957366285209,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2012,5.542733476835786,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2013,6.636461479038584,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2014,5.148285761287912,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2015,6.344450907381631,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2016,6.548409156993591,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2017,6.695739798863735,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2018,2.5166138815824786,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2019,4.041454435422865,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2020,5.4432,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2021,6.296400000000001,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2022,6.729389568947066,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2023,6.787627765151378,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2024,6.603532165863446,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2025,6.24970823364726,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2026,6.273187791527645,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2027,6.175070687517633,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2028,6.424274073436304,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2029,5.690482042011613,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2030,5.625174811641545,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2031,5.224072626643253,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2032,4.670033958469883,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2033,4.669253565817564,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2034,4.441636207637084,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2035,4.182151100971586,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2036,3.8391220806709807,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2037,4.1681592866200505,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2038,4.171866096854514,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2039,4.322053389016835,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2040,4.521685210152686,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2041,4.52534319856327,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2042,4.74293223509108,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2043,4.573380838354597,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2044,4.546680714940288,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2045,4.366514338611694,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2046,4.218658948619849,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2047,4.229494834893858,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2048,4.248126239692779,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2049,4.266341941592393,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2050,4.229904562143466,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2051,4.247389140512873,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2052,4.232728698775546,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2053,4.036828909073801,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2054,3.8479258901985705,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2055,3.7069724648953706,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2056,3.5900709856345,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2057,3.4482094766611793,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2058,3.3303407853887474,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2059,3.1902860776465047,ZERO-A,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2060,3.0477265844357646,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2000,0.05,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2001,0.049999999999999996,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2002,0.03,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2003,0.02,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2004,0.02,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2005,0.020000000000000004,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2006,0.04970230800692642,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2007,0.09915473897780207,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2008,0.11861706880920321,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2009,0.1577792490959496,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2010,0.19699760755739887,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2011,0.23563145461527948,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2012,0.2745148985003473,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2013,0.31341102630020673,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2014,0.35121149963951565,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2015,0.39039406161511914,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2016,0.4291302604511134,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2017,0.4675144499270661,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2018,9.447902338647628,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2019,9.817485265688301,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2020,8.920008000000001,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2021,8.920008000000001,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2022,10.101492,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2023,10.777538057142857,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2024,11.743160914285713,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2025,12.677888571428571,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2026,13.22303142857143,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2027,13.804174285714286,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2028,13.841717142857142,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2029,15.06006,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2030,15.328002857142856,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2031,15.937945714285714,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2032,16.587488571428572,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2033,18.304970983899427,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2034,19.333787703058285,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2035,19.60505204461714,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2036,20.705321740175997,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2037,22.474002857142857,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2038,22.475545714285712,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2039,22.787897201228567,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2040,23.115831428571425,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2041,23.20377428571428,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2042,23.56891714285714,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2043,24.150059999999996,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2044,25.56640285714285,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2045,26.27714571428571,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2046,26.67006,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2047,27.17766,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2048,27.41886,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2049,27.789659999999998,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2050,29.6784119174374,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2051,29.8067638348748,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2052,29.918291711030903,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2053,30.131795545905707,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2054,30.330899380780508,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2055,30.48680321565531,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2056,30.60913109181141,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2057,30.693034926686213,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2058,30.83696280284231,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2059,30.964066637717114,ZERO-A,KKW50,PJ
+Diverse Erneuerbare,2060,31.098370472591917,ZERO-A,KKW50,PJ
+Wärmepumpen,2000,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2001,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2002,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2003,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2004,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2005,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2006,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2007,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2008,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2009,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2010,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2011,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2012,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2013,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2014,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2015,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2016,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2017,0.0,ZERO-A,KKW50,PJ
+Wärmepumpen,2018,2.201770232791168,ZERO-A,KKW50,PJ
+Wärmepumpen,2019,2.2878990535747303,ZERO-A,KKW50,PJ
+Wärmepumpen,2020,2.078748,ZERO-A,KKW50,PJ
+Wärmepumpen,2021,2.078748,ZERO-A,KKW50,PJ
+Wärmepumpen,2022,3.163032,ZERO-A,KKW50,PJ
+Wärmepumpen,2023,3.839078057142858,ZERO-A,KKW50,PJ
+Wärmepumpen,2024,4.804700914285714,ZERO-A,KKW50,PJ
+Wärmepumpen,2025,5.649428571428571,ZERO-A,KKW50,PJ
+Wärmepumpen,2026,6.194571428571429,ZERO-A,KKW50,PJ
+Wärmepumpen,2027,6.775714285714286,ZERO-A,KKW50,PJ
+Wärmepumpen,2028,6.813257142857142,ZERO-A,KKW50,PJ
+Wärmepumpen,2029,8.031600000000001,ZERO-A,KKW50,PJ
+Wärmepumpen,2030,8.133942857142856,ZERO-A,KKW50,PJ
+Wärmepumpen,2031,8.743885714285714,ZERO-A,KKW50,PJ
+Wärmepumpen,2032,9.393428571428572,ZERO-A,KKW50,PJ
+Wärmepumpen,2033,11.110910983899428,ZERO-A,KKW50,PJ
+Wärmepumpen,2034,12.139727703058284,ZERO-A,KKW50,PJ
+Wärmepumpen,2035,12.41099204461714,ZERO-A,KKW50,PJ
+Wärmepumpen,2036,13.511261740175996,ZERO-A,KKW50,PJ
+Wärmepumpen,2037,15.279942857142856,ZERO-A,KKW50,PJ
+Wärmepumpen,2038,15.281485714285713,ZERO-A,KKW50,PJ
+Wärmepumpen,2039,15.593837201228567,ZERO-A,KKW50,PJ
+Wärmepumpen,2040,15.921771428571427,ZERO-A,KKW50,PJ
+Wärmepumpen,2041,16.00971428571428,ZERO-A,KKW50,PJ
+Wärmepumpen,2042,16.374857142857138,ZERO-A,KKW50,PJ
+Wärmepumpen,2043,16.955999999999996,ZERO-A,KKW50,PJ
+Wärmepumpen,2044,18.37234285714285,ZERO-A,KKW50,PJ
+Wärmepumpen,2045,19.08308571428571,ZERO-A,KKW50,PJ
+Wärmepumpen,2046,19.476,ZERO-A,KKW50,PJ
+Wärmepumpen,2047,19.9836,ZERO-A,KKW50,PJ
+Wärmepumpen,2048,20.2248,ZERO-A,KKW50,PJ
+Wärmepumpen,2049,20.595599999999997,ZERO-A,KKW50,PJ
+Wärmepumpen,2050,22.4316,ZERO-A,KKW50,PJ
+Wärmepumpen,2051,22.507199999999997,ZERO-A,KKW50,PJ
+Wärmepumpen,2052,22.539599999999997,ZERO-A,KKW50,PJ
+Wärmepumpen,2053,22.6476,ZERO-A,KKW50,PJ
+Wärmepumpen,2054,22.7412,ZERO-A,KKW50,PJ
+Wärmepumpen,2055,22.7916,ZERO-A,KKW50,PJ
+Wärmepumpen,2056,22.834799999999994,ZERO-A,KKW50,PJ
+Wärmepumpen,2057,22.813199999999995,ZERO-A,KKW50,PJ
+Wärmepumpen,2058,22.877999999999993,ZERO-A,KKW50,PJ
+Wärmepumpen,2059,22.899599999999992,ZERO-A,KKW50,PJ
+Wärmepumpen,2060,22.928399999999993,ZERO-A,KKW50,PJ
+Geothermieanlagen,2000,0.0,ZERO-A,KKW50,PJ
+Geothermieanlagen,2001,0.0,ZERO-A,KKW50,PJ
+Geothermieanlagen,2002,0.0,ZERO-A,KKW50,PJ
+Geothermieanlagen,2003,0.0,ZERO-A,KKW50,PJ
+Geothermieanlagen,2004,0.0,ZERO-A,KKW50,PJ
+Geothermieanlagen,2005,0.0,ZERO-A,KKW50,PJ
+Geothermieanlagen,2006,0.039725731197490975,ZERO-A,KKW50,PJ
+Geothermieanlagen,2007,0.07925174233439251,ZERO-A,KKW50,PJ
+Geothermieanlagen,2008,0.11861706880920321,ZERO-A,KKW50,PJ
+Geothermieanlagen,2009,0.1577792490959496,ZERO-A,KKW50,PJ
+Geothermieanlagen,2010,0.19699760755739887,ZERO-A,KKW50,PJ
+Geothermieanlagen,2011,0.23563145461527948,ZERO-A,KKW50,PJ
+Geothermieanlagen,2012,0.2745148985003473,ZERO-A,KKW50,PJ
+Geothermieanlagen,2013,0.31341102630020673,ZERO-A,KKW50,PJ
+Geothermieanlagen,2014,0.35121149963951565,ZERO-A,KKW50,PJ
+Geothermieanlagen,2015,0.39039406161511914,ZERO-A,KKW50,PJ
+Geothermieanlagen,2016,0.4291302604511134,ZERO-A,KKW50,PJ
+Geothermieanlagen,2017,0.4675144499270661,ZERO-A,KKW50,PJ
+Geothermieanlagen,2018,0.5061063037915794,ZERO-A,KKW50,PJ
+Geothermieanlagen,2019,0.5259041639349773,ZERO-A,KKW50,PJ
+Geothermieanlagen,2020,0.477828,ZERO-A,KKW50,PJ
+Geothermieanlagen,2021,0.477828,ZERO-A,KKW50,PJ
+Geothermieanlagen,2022,0.5750279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2023,0.5750279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2024,0.5750279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2025,0.6650280000000001,ZERO-A,KKW50,PJ
+Geothermieanlagen,2026,0.6650280000000001,ZERO-A,KKW50,PJ
+Geothermieanlagen,2027,0.6650280000000001,ZERO-A,KKW50,PJ
+Geothermieanlagen,2028,0.6650280000000001,ZERO-A,KKW50,PJ
+Geothermieanlagen,2029,0.6650280000000001,ZERO-A,KKW50,PJ
+Geothermieanlagen,2030,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2031,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2032,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2033,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2034,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2035,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2036,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2037,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2038,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2039,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2040,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2041,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2042,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2043,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2044,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2045,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2046,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2047,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2048,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2049,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2050,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2051,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2052,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2053,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2054,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2055,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2056,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2057,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2058,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2059,0.8306279999999999,ZERO-A,KKW50,PJ
+Geothermieanlagen,2060,0.8306279999999999,ZERO-A,KKW50,PJ
+Biomasseanlagen,2000,0.05,ZERO-A,KKW50,PJ
+Biomasseanlagen,2001,0.049999999999999996,ZERO-A,KKW50,PJ
+Biomasseanlagen,2002,0.03,ZERO-A,KKW50,PJ
+Biomasseanlagen,2003,0.02,ZERO-A,KKW50,PJ
+Biomasseanlagen,2004,0.02,ZERO-A,KKW50,PJ
+Biomasseanlagen,2005,0.020000000000000004,ZERO-A,KKW50,PJ
+Biomasseanlagen,2006,0.009976576809435441,ZERO-A,KKW50,PJ
+Biomasseanlagen,2007,0.019902996643409557,ZERO-A,KKW50,PJ
+Biomasseanlagen,2008,0.0,ZERO-A,KKW50,PJ
+Biomasseanlagen,2009,0.0,ZERO-A,KKW50,PJ
+Biomasseanlagen,2010,0.0,ZERO-A,KKW50,PJ
+Biomasseanlagen,2011,0.0,ZERO-A,KKW50,PJ
+Biomasseanlagen,2012,0.0,ZERO-A,KKW50,PJ
+Biomasseanlagen,2013,0.0,ZERO-A,KKW50,PJ
+Biomasseanlagen,2014,0.0,ZERO-A,KKW50,PJ
+Biomasseanlagen,2015,0.0,ZERO-A,KKW50,PJ
+Biomasseanlagen,2016,0.0,ZERO-A,KKW50,PJ
+Biomasseanlagen,2017,0.0,ZERO-A,KKW50,PJ
+Biomasseanlagen,2018,3.8217069622631383,ZERO-A,KKW50,PJ
+Biomasseanlagen,2019,3.9712044480306616,ZERO-A,KKW50,PJ
+Biomasseanlagen,2020,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2021,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2022,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2023,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2024,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2025,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2026,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2027,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2028,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2029,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2030,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2031,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2032,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2033,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2034,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2035,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2036,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2037,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2038,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2039,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2040,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2041,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2042,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2043,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2044,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2045,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2046,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2047,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2048,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2049,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2050,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2051,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2052,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2053,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2054,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2055,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2056,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2057,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2058,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2059,3.608172,ZERO-A,KKW50,PJ
+Biomasseanlagen,2060,3.608172,ZERO-A,KKW50,PJ
+Biogasanlagen,2000,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2001,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2002,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2003,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2004,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2005,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2006,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2007,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2008,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2009,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2010,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2011,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2012,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2013,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2014,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2015,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2016,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2017,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2018,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2019,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2020,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2021,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2022,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2023,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2024,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2025,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2026,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2027,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2028,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2029,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2030,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2031,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2032,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2033,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2034,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2035,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2036,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2037,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2038,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2039,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2040,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2041,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2042,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2043,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2044,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2045,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2046,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2047,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2048,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2049,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2050,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2051,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2052,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2053,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2054,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2055,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2056,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2057,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2058,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2059,0.0,ZERO-A,KKW50,PJ
+Biogasanlagen,2060,0.0,ZERO-A,KKW50,PJ
+Sonstige,2000,0.0,ZERO-A,KKW50,PJ
+Sonstige,2001,0.0,ZERO-A,KKW50,PJ
+Sonstige,2002,0.0,ZERO-A,KKW50,PJ
+Sonstige,2003,0.0,ZERO-A,KKW50,PJ
+Sonstige,2004,0.0,ZERO-A,KKW50,PJ
+Sonstige,2005,0.0,ZERO-A,KKW50,PJ
+Sonstige,2006,0.0,ZERO-A,KKW50,PJ
+Sonstige,2007,0.0,ZERO-A,KKW50,PJ
+Sonstige,2008,0.0,ZERO-A,KKW50,PJ
+Sonstige,2009,0.0,ZERO-A,KKW50,PJ
+Sonstige,2010,0.0,ZERO-A,KKW50,PJ
+Sonstige,2011,0.0,ZERO-A,KKW50,PJ
+Sonstige,2012,0.0,ZERO-A,KKW50,PJ
+Sonstige,2013,0.0,ZERO-A,KKW50,PJ
+Sonstige,2014,0.0,ZERO-A,KKW50,PJ
+Sonstige,2015,0.0,ZERO-A,KKW50,PJ
+Sonstige,2016,0.0,ZERO-A,KKW50,PJ
+Sonstige,2017,0.0,ZERO-A,KKW50,PJ
+Sonstige,2018,2.9183188398017426,ZERO-A,KKW50,PJ
+Sonstige,2019,3.032477600147931,ZERO-A,KKW50,PJ
+Sonstige,2020,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2021,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2022,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2023,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2024,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2025,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2026,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2027,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2028,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2029,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2030,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2031,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2032,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2033,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2034,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2035,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2036,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2037,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2038,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2039,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2040,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2041,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2042,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2043,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2044,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2045,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2046,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2047,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2048,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2049,2.7552600000000003,ZERO-A,KKW50,PJ
+Sonstige,2050,2.808011917437401,ZERO-A,KKW50,PJ
+Sonstige,2051,2.8607638348748026,ZERO-A,KKW50,PJ
+Sonstige,2052,2.939891711030905,ZERO-A,KKW50,PJ
+Sonstige,2053,3.045395545905707,ZERO-A,KKW50,PJ
+Sonstige,2054,3.1508993807805097,ZERO-A,KKW50,PJ
+Sonstige,2055,3.2564032156553124,ZERO-A,KKW50,PJ
+Sonstige,2056,3.335531091811414,ZERO-A,KKW50,PJ
+Sonstige,2057,3.441034926686217,ZERO-A,KKW50,PJ
+Sonstige,2058,3.520162802842319,ZERO-A,KKW50,PJ
+Sonstige,2059,3.6256666377171216,ZERO-A,KKW50,PJ
+Sonstige,2060,3.731170472591924,ZERO-A,KKW50,PJ
+Summe,2000,14.290000000000001,ZERO-A,KKW50,PJ
+Summe,2001,15.349999999999996,ZERO-A,KKW50,PJ
+Summe,2002,14.97,ZERO-A,KKW50,PJ
+Summe,2003,15.98,ZERO-A,KKW50,PJ
+Summe,2004,16.52,ZERO-A,KKW50,PJ
+Summe,2005,16.67,ZERO-A,KKW50,PJ
+Summe,2006,16.96,ZERO-A,KKW50,PJ
+Summe,2007,16.34,ZERO-A,KKW50,PJ
+Summe,2008,16.87,ZERO-A,KKW50,PJ
+Summe,2009,16.79,ZERO-A,KKW50,PJ
+Summe,2010,18.700000000000003,ZERO-A,KKW50,PJ
+Summe,2011,17.15,ZERO-A,KKW50,PJ
+Summe,2012,18.14,ZERO-A,KKW50,PJ
+Summe,2013,19.419999999999998,ZERO-A,KKW50,PJ
+Summe,2014,17.58,ZERO-A,KKW50,PJ
+Summe,2015,19.94,ZERO-A,KKW50,PJ
+Summe,2016,21.169999999999998,ZERO-A,KKW50,PJ
+Summe,2017,21.660000000000004,ZERO-A,KKW50,PJ
+Summe,2018,21.310000000000002,ZERO-A,KKW50,PJ
+Summe,2019,23.569999999999997,ZERO-A,KKW50,PJ
+Summe,2020,23.18652,ZERO-A,KKW50,PJ
+Summe,2021,24.039720000000003,ZERO-A,KKW50,PJ
+Summe,2022,25.02419356894707,ZERO-A,KKW50,PJ
+Summe,2023,25.75847782229424,ZERO-A,KKW50,PJ
+Summe,2024,26.54000508014916,ZERO-A,KKW50,PJ
+Summe,2025,27.12090880507583,ZERO-A,KKW50,PJ
+Summe,2026,27.689531220099074,ZERO-A,KKW50,PJ
+Summe,2027,28.17255697323192,ZERO-A,KKW50,PJ
+Summe,2028,28.45930321629345,ZERO-A,KKW50,PJ
+Summe,2029,28.692759205761615,ZERO-A,KKW50,PJ
+Summe,2030,28.921701483784403,ZERO-A,KKW50,PJ
+Summe,2031,29.15684880717897,ZERO-A,KKW50,PJ
+Summe,2032,29.27865964739846,ZERO-A,KKW50,PJ
+Summe,2033,31.021668318466993,ZERO-A,KKW50,PJ
+Summe,2034,31.84917433069537,ZERO-A,KKW50,PJ
+Summe,2035,31.887260216838726,ZERO-A,KKW50,PJ
+Summe,2036,32.67080754334698,ZERO-A,KKW50,PJ
+Summe,2037,34.79483251751291,ZERO-A,KKW50,PJ
+Summe,2038,34.82638883614023,ZERO-A,KKW50,PJ
+Summe,2039,35.3152342664954,ZERO-A,KKW50,PJ
+Summe,2040,35.869106966224116,ZERO-A,KKW50,PJ
+Summe,2041,35.987014463027556,ZERO-A,KKW50,PJ
+Summe,2042,36.59605300794822,ZERO-A,KKW50,PJ
+Summe,2043,37.033951119604595,ZERO-A,KKW50,PJ
+Summe,2044,38.44990050458314,ZERO-A,KKW50,PJ
+Summe,2045,39.006783636647405,ZERO-A,KKW50,PJ
+Summe,2046,39.27814918361985,ZERO-A,KKW50,PJ
+Summe,2047,39.822891721143854,ZERO-A,KKW50,PJ
+Summe,2048,40.10902977719278,ZERO-A,KKW50,PJ
+Summe,2049,40.52435213034239,ZERO-A,KKW50,PJ
+Summe,2050,42.402973319580866,ZERO-A,KKW50,PJ
+Summe,2051,42.54880981538767,ZERO-A,KKW50,PJ
+Summe,2052,42.64567724980645,ZERO-A,KKW50,PJ
+Summe,2053,42.66328129497951,ZERO-A,KKW50,PJ
+Summe,2054,42.67348211097907,ZERO-A,KKW50,PJ
+Summe,2055,42.68843252055068,ZERO-A,KKW50,PJ
+Summe,2056,42.6938589174459,ZERO-A,KKW50,PJ
+Summe,2057,42.63590124334739,ZERO-A,KKW50,PJ
+Summe,2058,42.66196042823106,ZERO-A,KKW50,PJ
+Summe,2059,42.64900955536362,ZERO-A,KKW50,PJ
+Summe,2060,42.64075389702768,ZERO-A,KKW50,PJ
+Kernkraftwerke,2000,1.1,ZERO-B,KKW50,PJ
+Kernkraftwerke,2001,1.1799999999999997,ZERO-B,KKW50,PJ
+Kernkraftwerke,2002,1.07,ZERO-B,KKW50,PJ
+Kernkraftwerke,2003,1.12,ZERO-B,KKW50,PJ
+Kernkraftwerke,2004,1.1500000000000001,ZERO-B,KKW50,PJ
+Kernkraftwerke,2005,1.1000000000000003,ZERO-B,KKW50,PJ
+Kernkraftwerke,2006,1.286978408417172,ZERO-B,KKW50,PJ
+Kernkraftwerke,2007,1.263840286856507,ZERO-B,KKW50,PJ
+Kernkraftwerke,2008,1.3477476060594518,ZERO-B,KKW50,PJ
+Kernkraftwerke,2009,1.4411825024266522,ZERO-B,KKW50,PJ
+Kernkraftwerke,2010,1.444513612953424,ZERO-B,KKW50,PJ
+Kernkraftwerke,2011,1.4117442871935528,ZERO-B,KKW50,PJ
+Kernkraftwerke,2012,1.533731989057011,ZERO-B,KKW50,PJ
+Kernkraftwerke,2013,1.383976899622627,ZERO-B,KKW50,PJ
+Kernkraftwerke,2014,1.3022196943078053,ZERO-B,KKW50,PJ
+Kernkraftwerke,2015,1.1942065641042785,ZERO-B,KKW50,PJ
+Kernkraftwerke,2016,1.4316821137940108,ZERO-B,KKW50,PJ
+Kernkraftwerke,2017,1.4149355573636229,ZERO-B,KKW50,PJ
+Kernkraftwerke,2018,1.3726984808631701,ZERO-B,KKW50,PJ
+Kernkraftwerke,2019,1.4263956830904228,ZERO-B,KKW50,PJ
+Kernkraftwerke,2020,1.296,ZERO-B,KKW50,PJ
+Kernkraftwerke,2021,1.296,ZERO-B,KKW50,PJ
+Kernkraftwerke,2022,0.666,ZERO-B,KKW50,PJ
+Kernkraftwerke,2023,0.666,ZERO-B,KKW50,PJ
+Kernkraftwerke,2024,0.666,ZERO-B,KKW50,PJ
+Kernkraftwerke,2025,0.666,ZERO-B,KKW50,PJ
+Kernkraftwerke,2026,0.666,ZERO-B,KKW50,PJ
+Kernkraftwerke,2027,0.666,ZERO-B,KKW50,PJ
+Kernkraftwerke,2028,0.666,ZERO-B,KKW50,PJ
+Kernkraftwerke,2029,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2030,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2031,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2032,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2033,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2034,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2035,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2036,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2037,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2038,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2039,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2040,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2041,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2042,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2043,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2044,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2045,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2046,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2047,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2048,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2049,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2050,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2051,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2052,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2053,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2054,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2055,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2056,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2057,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2058,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2059,0.0,ZERO-B,KKW50,PJ
+Kernkraftwerke,2060,0.0,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2000,13.14,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2001,14.119999999999997,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2002,13.870000000000001,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2003,14.84,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2004,15.35,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2005,15.550000000000004,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2006,15.623319283575901,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2007,14.977004974165695,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2008,15.403635325131344,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2009,15.191038248477401,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2010,17.05848877948918,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2011,15.502624258191165,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2012,16.33175311244264,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2013,17.722612074077166,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2014,15.926568806052677,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2015,18.355399374280605,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2016,19.309187625754877,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2017,19.77754999270931,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2018,10.489399180489201,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2019,12.326119051221273,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2020,12.658330028065212,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2021,13.44477998292345,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2022,14.387110831537203,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2023,14.8906369695313,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2024,15.494640481542765,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2025,15.770771781638683,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2026,15.957933055045224,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2027,16.264558862566986,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2028,16.441095047672007,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2029,17.242196273949745,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2030,17.088432949594452,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2031,17.18650202738524,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2032,17.166210319773974,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2033,18.554266623625058,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2034,19.208834369189745,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2035,19.076293055675144,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2036,19.33850127065441,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2037,20.281755855651376,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2038,19.697344988952544,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2039,19.56601396048407,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2040,19.211927421879565,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2041,18.45939609012689,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2042,18.3477442280071,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2043,18.086064888972793,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2044,19.093854265562197,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2045,19.347895115878018,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2046,19.39047125006062,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2047,19.44223014285025,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2048,19.573384217829066,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2049,19.8449672608265,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2050,20.505070479283205,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2051,20.530091316163947,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2052,20.483024638508887,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2053,20.371791396121466,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2054,20.278190568019106,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2055,20.197758855260556,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2056,20.137961422049283,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2057,19.98794219352351,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2058,19.954727121107332,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2059,19.85999173529882,ZERO-B,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2060,19.78388604928577,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2000,7.6104,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2001,8.027999999999999,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2002,8.175600000000001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2003,8.593200000000001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2004,8.8524,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2005,9.360000000000001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2006,9.948642394369022,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2007,10.13858649015283,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2008,10.34514569829983,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2009,10.02807010753734,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2010,11.288216710905997,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2011,10.893050595339076,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2012,10.789019635606856,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2013,11.086150595038582,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2014,10.778283044764764,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2015,12.010948466898974,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2016,12.760778468761286,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2017,13.081810193845577,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2018,7.972785298906723,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2019,8.284664615798409,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2020,7.527312000000001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2021,7.527312000000001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2022,7.527312000000001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2023,7.527312000000001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2024,7.527312000000001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2025,7.527312000000001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2026,7.527312000000001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2027,7.527312000000001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2028,7.527312000000001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2029,7.942217163750001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2030,7.968523815000002,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2031,7.994830466250002,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2032,8.021137117500002,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2033,8.047443768750002,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2034,8.073750420000001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2035,8.100057071250001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2036,8.1263637225,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2037,8.152670373750004,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2038,8.178977025000002,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2039,8.20528367625,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2040,8.231590327500001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2041,8.257896978749999,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2042,8.284203630000002,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2043,8.310510281250002,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2044,8.336816932500001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2045,8.363123583750001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2046,8.389430235000003,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2047,8.41573688625,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2048,8.442043537500002,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2049,8.468350188750001,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2050,8.49465684,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2051,8.49465684,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2052,8.49465684,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2053,8.49465684,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2054,8.49465684,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2055,8.49465684,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2056,8.49465684,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2057,8.49465684,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2058,8.49465684,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2059,8.49465684,ZERO-B,KKW50,PJ
+Kehrichtverwertungsanlagen,2060,8.49465684,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2000,5.529599999999999,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2001,6.092,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2002,5.6944,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2003,6.2467999999999995,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2004,6.4976,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2005,6.190000000000002,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2006,5.674676889206879,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2007,4.8384184840128635,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2008,5.058489626831512,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2009,5.162968140940062,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2010,5.770272068583182,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2011,4.60957366285209,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2012,5.542733476835786,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2013,6.636461479038584,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2014,5.148285761287912,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2015,6.344450907381631,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2016,6.548409156993591,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2017,6.695739798863735,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2018,2.5166138815824786,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2019,4.041454435422865,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2020,5.13101802806521,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2021,5.917467982923448,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2022,6.859798831537202,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2023,7.3633249695313,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2024,7.967328481542764,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2025,8.24345978163868,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2026,8.430621055045224,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2027,8.737246862566986,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2028,8.913783047672007,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2029,9.299979110199745,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2030,9.11990913459445,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2031,9.191671561135239,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2032,9.145073202273974,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2033,10.506822854875056,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2034,11.135083949189742,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2035,10.976235984425145,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2036,11.21213754815441,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2037,12.129085481901374,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2038,11.51836796395254,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2039,11.36073028423407,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2040,10.980337094379564,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2041,10.201499111376892,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2042,10.063540598007098,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2043,9.77555460772279,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2044,10.757037333062195,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2045,10.984771532128017,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2046,11.001041015060617,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2047,11.02649325660025,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2048,11.131340680329064,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2049,11.376617072076499,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2050,12.010413639283204,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2051,12.03543447616395,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2052,11.988367798508888,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2053,11.877134556121467,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2054,11.783533728019105,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2055,11.703102015260557,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2056,11.643304582049284,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2057,11.493285353523511,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2058,11.460070281107331,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2059,11.365334895298822,ZERO-B,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2060,11.289229209285772,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2000,0.05,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2001,0.049999999999999996,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2002,0.03,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2003,0.02,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2004,0.02,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2005,0.020000000000000004,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2006,0.04970230800692642,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2007,0.09915473897780207,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2008,0.11861706880920321,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2009,0.1577792490959496,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2010,0.19699760755739887,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2011,0.23563145461527948,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2012,0.2745148985003473,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2013,0.31341102630020673,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2014,0.35121149963951565,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2015,0.39039406161511914,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2016,0.4291302604511134,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2017,0.4675144499270661,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2018,9.447902338647628,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2019,9.817485265688301,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2020,8.920008000000001,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2021,8.920008000000001,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2022,9.741492,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2023,9.814777714285714,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2024,9.814777714285714,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2025,9.904777714285714,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2026,10.084777714285714,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2027,10.084777714285714,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2028,10.084777714285714,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2029,10.084777714285714,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2030,10.381345714285715,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2031,10.425177551020408,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2032,10.469009387755102,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2033,10.692841224489795,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2034,10.73667306122449,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2035,10.780504897959183,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2036,11.165051020408162,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2037,12.180882857142857,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2038,12.651865714285714,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2039,13.122848571428571,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2040,13.881831428571429,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2041,14.568814285714286,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2042,15.147797142857144,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2043,15.618780000000001,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2044,15.79878,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2045,15.87078,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2046,15.87078,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2047,16.15878,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2048,16.15878,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2049,16.15878,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2050,17.291531917437403,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2051,17.3442838348748,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2052,17.423411711030905,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2053,17.528915545905708,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2054,17.63441938078051,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2055,17.739923215655313,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2056,17.819051091811414,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2057,17.924554926686216,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2058,18.00368280284232,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2059,18.109186637717123,ZERO-B,KKW50,PJ
+Diverse Erneuerbare,2060,18.214690472591926,ZERO-B,KKW50,PJ
+Wärmepumpen,2000,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2001,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2002,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2003,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2004,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2005,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2006,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2007,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2008,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2009,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2010,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2011,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2012,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2013,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2014,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2015,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2016,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2017,0.0,ZERO-B,KKW50,PJ
+Wärmepumpen,2018,2.201770232791168,ZERO-B,KKW50,PJ
+Wärmepumpen,2019,2.2878990535747303,ZERO-B,KKW50,PJ
+Wärmepumpen,2020,2.078748,ZERO-B,KKW50,PJ
+Wärmepumpen,2021,2.078748,ZERO-B,KKW50,PJ
+Wärmepumpen,2022,2.803032,ZERO-B,KKW50,PJ
+Wärmepumpen,2023,2.8763177142857144,ZERO-B,KKW50,PJ
+Wärmepumpen,2024,2.8763177142857144,ZERO-B,KKW50,PJ
+Wärmepumpen,2025,2.8763177142857144,ZERO-B,KKW50,PJ
+Wärmepumpen,2026,3.0563177142857145,ZERO-B,KKW50,PJ
+Wärmepumpen,2027,3.0563177142857145,ZERO-B,KKW50,PJ
+Wärmepumpen,2028,3.0563177142857145,ZERO-B,KKW50,PJ
+Wärmepumpen,2029,3.0563177142857145,ZERO-B,KKW50,PJ
+Wärmepumpen,2030,3.1872857142857143,ZERO-B,KKW50,PJ
+Wärmepumpen,2031,3.1872857142857143,ZERO-B,KKW50,PJ
+Wärmepumpen,2032,3.1872857142857143,ZERO-B,KKW50,PJ
+Wärmepumpen,2033,3.3672857142857144,ZERO-B,KKW50,PJ
+Wärmepumpen,2034,3.3672857142857144,ZERO-B,KKW50,PJ
+Wärmepumpen,2035,3.3672857142857144,ZERO-B,KKW50,PJ
+Wärmepumpen,2036,3.708,ZERO-B,KKW50,PJ
+Wärmepumpen,2037,4.68,ZERO-B,KKW50,PJ
+Wärmepumpen,2038,4.68,ZERO-B,KKW50,PJ
+Wärmepumpen,2039,4.68,ZERO-B,KKW50,PJ
+Wärmepumpen,2040,4.968,ZERO-B,KKW50,PJ
+Wärmepumpen,2041,5.183999999999999,ZERO-B,KKW50,PJ
+Wärmepumpen,2042,5.292,ZERO-B,KKW50,PJ
+Wärmepumpen,2043,5.292,ZERO-B,KKW50,PJ
+Wärmepumpen,2044,5.472,ZERO-B,KKW50,PJ
+Wärmepumpen,2045,5.5440000000000005,ZERO-B,KKW50,PJ
+Wärmepumpen,2046,5.5440000000000005,ZERO-B,KKW50,PJ
+Wärmepumpen,2047,5.832,ZERO-B,KKW50,PJ
+Wärmepumpen,2048,5.832,ZERO-B,KKW50,PJ
+Wärmepumpen,2049,5.832,ZERO-B,KKW50,PJ
+Wärmepumpen,2050,6.912,ZERO-B,KKW50,PJ
+Wärmepumpen,2051,6.912,ZERO-B,KKW50,PJ
+Wärmepumpen,2052,6.912,ZERO-B,KKW50,PJ
+Wärmepumpen,2053,6.912,ZERO-B,KKW50,PJ
+Wärmepumpen,2054,6.912,ZERO-B,KKW50,PJ
+Wärmepumpen,2055,6.912,ZERO-B,KKW50,PJ
+Wärmepumpen,2056,6.912,ZERO-B,KKW50,PJ
+Wärmepumpen,2057,6.912,ZERO-B,KKW50,PJ
+Wärmepumpen,2058,6.912,ZERO-B,KKW50,PJ
+Wärmepumpen,2059,6.912,ZERO-B,KKW50,PJ
+Wärmepumpen,2060,6.912,ZERO-B,KKW50,PJ
+Geothermieanlagen,2000,0.0,ZERO-B,KKW50,PJ
+Geothermieanlagen,2001,0.0,ZERO-B,KKW50,PJ
+Geothermieanlagen,2002,0.0,ZERO-B,KKW50,PJ
+Geothermieanlagen,2003,0.0,ZERO-B,KKW50,PJ
+Geothermieanlagen,2004,0.0,ZERO-B,KKW50,PJ
+Geothermieanlagen,2005,0.0,ZERO-B,KKW50,PJ
+Geothermieanlagen,2006,0.039725731197490975,ZERO-B,KKW50,PJ
+Geothermieanlagen,2007,0.07925174233439251,ZERO-B,KKW50,PJ
+Geothermieanlagen,2008,0.11861706880920321,ZERO-B,KKW50,PJ
+Geothermieanlagen,2009,0.1577792490959496,ZERO-B,KKW50,PJ
+Geothermieanlagen,2010,0.19699760755739887,ZERO-B,KKW50,PJ
+Geothermieanlagen,2011,0.23563145461527948,ZERO-B,KKW50,PJ
+Geothermieanlagen,2012,0.2745148985003473,ZERO-B,KKW50,PJ
+Geothermieanlagen,2013,0.31341102630020673,ZERO-B,KKW50,PJ
+Geothermieanlagen,2014,0.35121149963951565,ZERO-B,KKW50,PJ
+Geothermieanlagen,2015,0.39039406161511914,ZERO-B,KKW50,PJ
+Geothermieanlagen,2016,0.4291302604511134,ZERO-B,KKW50,PJ
+Geothermieanlagen,2017,0.4675144499270661,ZERO-B,KKW50,PJ
+Geothermieanlagen,2018,0.5061063037915794,ZERO-B,KKW50,PJ
+Geothermieanlagen,2019,0.5259041639349773,ZERO-B,KKW50,PJ
+Geothermieanlagen,2020,0.477828,ZERO-B,KKW50,PJ
+Geothermieanlagen,2021,0.477828,ZERO-B,KKW50,PJ
+Geothermieanlagen,2022,0.5750279999999999,ZERO-B,KKW50,PJ
+Geothermieanlagen,2023,0.5750279999999999,ZERO-B,KKW50,PJ
+Geothermieanlagen,2024,0.5750279999999999,ZERO-B,KKW50,PJ
+Geothermieanlagen,2025,0.6650280000000001,ZERO-B,KKW50,PJ
+Geothermieanlagen,2026,0.6650280000000001,ZERO-B,KKW50,PJ
+Geothermieanlagen,2027,0.6650280000000001,ZERO-B,KKW50,PJ
+Geothermieanlagen,2028,0.6650280000000001,ZERO-B,KKW50,PJ
+Geothermieanlagen,2029,0.6650280000000001,ZERO-B,KKW50,PJ
+Geothermieanlagen,2030,0.8306279999999999,ZERO-B,KKW50,PJ
+Geothermieanlagen,2031,0.874459836734694,ZERO-B,KKW50,PJ
+Geothermieanlagen,2032,0.9182916734693878,ZERO-B,KKW50,PJ
+Geothermieanlagen,2033,0.9621235102040817,ZERO-B,KKW50,PJ
+Geothermieanlagen,2034,1.0059553469387754,ZERO-B,KKW50,PJ
+Geothermieanlagen,2035,1.0497871836734696,ZERO-B,KKW50,PJ
+Geothermieanlagen,2036,1.093619020408163,ZERO-B,KKW50,PJ
+Geothermieanlagen,2037,1.137450857142857,ZERO-B,KKW50,PJ
+Geothermieanlagen,2038,1.608433714285714,ZERO-B,KKW50,PJ
+Geothermieanlagen,2039,2.0794165714285713,ZERO-B,KKW50,PJ
+Geothermieanlagen,2040,2.550399428571429,ZERO-B,KKW50,PJ
+Geothermieanlagen,2041,3.021382285714286,ZERO-B,KKW50,PJ
+Geothermieanlagen,2042,3.4923651428571434,ZERO-B,KKW50,PJ
+Geothermieanlagen,2043,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2044,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2045,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2046,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2047,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2048,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2049,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2050,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2051,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2052,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2053,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2054,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2055,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2056,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2057,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2058,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2059,3.9633480000000008,ZERO-B,KKW50,PJ
+Geothermieanlagen,2060,3.9633480000000008,ZERO-B,KKW50,PJ
+Biomasseanlagen,2000,0.05,ZERO-B,KKW50,PJ
+Biomasseanlagen,2001,0.049999999999999996,ZERO-B,KKW50,PJ
+Biomasseanlagen,2002,0.03,ZERO-B,KKW50,PJ
+Biomasseanlagen,2003,0.02,ZERO-B,KKW50,PJ
+Biomasseanlagen,2004,0.02,ZERO-B,KKW50,PJ
+Biomasseanlagen,2005,0.020000000000000004,ZERO-B,KKW50,PJ
+Biomasseanlagen,2006,0.009976576809435441,ZERO-B,KKW50,PJ
+Biomasseanlagen,2007,0.019902996643409557,ZERO-B,KKW50,PJ
+Biomasseanlagen,2008,0.0,ZERO-B,KKW50,PJ
+Biomasseanlagen,2009,0.0,ZERO-B,KKW50,PJ
+Biomasseanlagen,2010,0.0,ZERO-B,KKW50,PJ
+Biomasseanlagen,2011,0.0,ZERO-B,KKW50,PJ
+Biomasseanlagen,2012,0.0,ZERO-B,KKW50,PJ
+Biomasseanlagen,2013,0.0,ZERO-B,KKW50,PJ
+Biomasseanlagen,2014,0.0,ZERO-B,KKW50,PJ
+Biomasseanlagen,2015,0.0,ZERO-B,KKW50,PJ
+Biomasseanlagen,2016,0.0,ZERO-B,KKW50,PJ
+Biomasseanlagen,2017,0.0,ZERO-B,KKW50,PJ
+Biomasseanlagen,2018,3.8217069622631383,ZERO-B,KKW50,PJ
+Biomasseanlagen,2019,3.9712044480306616,ZERO-B,KKW50,PJ
+Biomasseanlagen,2020,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2021,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2022,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2023,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2024,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2025,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2026,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2027,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2028,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2029,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2030,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2031,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2032,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2033,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2034,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2035,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2036,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2037,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2038,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2039,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2040,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2041,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2042,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2043,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2044,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2045,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2046,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2047,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2048,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2049,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2050,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2051,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2052,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2053,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2054,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2055,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2056,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2057,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2058,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2059,3.608172,ZERO-B,KKW50,PJ
+Biomasseanlagen,2060,3.608172,ZERO-B,KKW50,PJ
+Biogasanlagen,2000,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2001,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2002,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2003,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2004,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2005,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2006,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2007,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2008,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2009,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2010,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2011,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2012,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2013,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2014,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2015,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2016,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2017,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2018,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2019,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2020,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2021,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2022,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2023,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2024,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2025,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2026,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2027,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2028,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2029,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2030,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2031,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2032,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2033,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2034,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2035,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2036,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2037,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2038,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2039,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2040,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2041,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2042,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2043,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2044,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2045,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2046,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2047,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2048,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2049,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2050,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2051,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2052,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2053,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2054,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2055,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2056,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2057,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2058,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2059,0.0,ZERO-B,KKW50,PJ
+Biogasanlagen,2060,0.0,ZERO-B,KKW50,PJ
+Sonstige,2000,0.0,ZERO-B,KKW50,PJ
+Sonstige,2001,0.0,ZERO-B,KKW50,PJ
+Sonstige,2002,0.0,ZERO-B,KKW50,PJ
+Sonstige,2003,0.0,ZERO-B,KKW50,PJ
+Sonstige,2004,0.0,ZERO-B,KKW50,PJ
+Sonstige,2005,0.0,ZERO-B,KKW50,PJ
+Sonstige,2006,0.0,ZERO-B,KKW50,PJ
+Sonstige,2007,0.0,ZERO-B,KKW50,PJ
+Sonstige,2008,0.0,ZERO-B,KKW50,PJ
+Sonstige,2009,0.0,ZERO-B,KKW50,PJ
+Sonstige,2010,0.0,ZERO-B,KKW50,PJ
+Sonstige,2011,0.0,ZERO-B,KKW50,PJ
+Sonstige,2012,0.0,ZERO-B,KKW50,PJ
+Sonstige,2013,0.0,ZERO-B,KKW50,PJ
+Sonstige,2014,0.0,ZERO-B,KKW50,PJ
+Sonstige,2015,0.0,ZERO-B,KKW50,PJ
+Sonstige,2016,0.0,ZERO-B,KKW50,PJ
+Sonstige,2017,0.0,ZERO-B,KKW50,PJ
+Sonstige,2018,2.9183188398017426,ZERO-B,KKW50,PJ
+Sonstige,2019,3.032477600147931,ZERO-B,KKW50,PJ
+Sonstige,2020,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2021,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2022,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2023,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2024,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2025,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2026,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2027,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2028,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2029,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2030,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2031,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2032,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2033,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2034,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2035,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2036,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2037,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2038,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2039,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2040,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2041,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2042,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2043,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2044,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2045,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2046,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2047,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2048,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2049,2.7552600000000003,ZERO-B,KKW50,PJ
+Sonstige,2050,2.808011917437401,ZERO-B,KKW50,PJ
+Sonstige,2051,2.8607638348748026,ZERO-B,KKW50,PJ
+Sonstige,2052,2.939891711030905,ZERO-B,KKW50,PJ
+Sonstige,2053,3.045395545905707,ZERO-B,KKW50,PJ
+Sonstige,2054,3.1508993807805097,ZERO-B,KKW50,PJ
+Sonstige,2055,3.2564032156553124,ZERO-B,KKW50,PJ
+Sonstige,2056,3.335531091811414,ZERO-B,KKW50,PJ
+Sonstige,2057,3.441034926686217,ZERO-B,KKW50,PJ
+Sonstige,2058,3.520162802842319,ZERO-B,KKW50,PJ
+Sonstige,2059,3.6256666377171216,ZERO-B,KKW50,PJ
+Sonstige,2060,3.731170472591924,ZERO-B,KKW50,PJ
+Summe,2000,14.290000000000001,ZERO-B,KKW50,PJ
+Summe,2001,15.349999999999996,ZERO-B,KKW50,PJ
+Summe,2002,14.97,ZERO-B,KKW50,PJ
+Summe,2003,15.98,ZERO-B,KKW50,PJ
+Summe,2004,16.52,ZERO-B,KKW50,PJ
+Summe,2005,16.67,ZERO-B,KKW50,PJ
+Summe,2006,16.96,ZERO-B,KKW50,PJ
+Summe,2007,16.34,ZERO-B,KKW50,PJ
+Summe,2008,16.87,ZERO-B,KKW50,PJ
+Summe,2009,16.79,ZERO-B,KKW50,PJ
+Summe,2010,18.700000000000003,ZERO-B,KKW50,PJ
+Summe,2011,17.15,ZERO-B,KKW50,PJ
+Summe,2012,18.14,ZERO-B,KKW50,PJ
+Summe,2013,19.419999999999998,ZERO-B,KKW50,PJ
+Summe,2014,17.58,ZERO-B,KKW50,PJ
+Summe,2015,19.94,ZERO-B,KKW50,PJ
+Summe,2016,21.169999999999998,ZERO-B,KKW50,PJ
+Summe,2017,21.660000000000004,ZERO-B,KKW50,PJ
+Summe,2018,21.310000000000002,ZERO-B,KKW50,PJ
+Summe,2019,23.569999999999997,ZERO-B,KKW50,PJ
+Summe,2020,22.87433802806521,ZERO-B,KKW50,PJ
+Summe,2021,23.66078798292345,ZERO-B,KKW50,PJ
+Summe,2022,24.794602831537205,ZERO-B,KKW50,PJ
+Summe,2023,25.371414683817015,ZERO-B,KKW50,PJ
+Summe,2024,25.975418195828478,ZERO-B,KKW50,PJ
+Summe,2025,26.341549495924397,ZERO-B,KKW50,PJ
+Summe,2026,26.70871076933094,ZERO-B,KKW50,PJ
+Summe,2027,27.0153365768527,ZERO-B,KKW50,PJ
+Summe,2028,27.191872761957722,ZERO-B,KKW50,PJ
+Summe,2029,27.32697398823546,ZERO-B,KKW50,PJ
+Summe,2030,27.469778663880167,ZERO-B,KKW50,PJ
+Summe,2031,27.61167957840565,ZERO-B,KKW50,PJ
+Summe,2032,27.635219707529075,ZERO-B,KKW50,PJ
+Summe,2033,29.24710784811485,ZERO-B,KKW50,PJ
+Summe,2034,29.945507430414235,ZERO-B,KKW50,PJ
+Summe,2035,29.856797953634327,ZERO-B,KKW50,PJ
+Summe,2036,30.503552291062576,ZERO-B,KKW50,PJ
+Summe,2037,32.46263871279423,ZERO-B,KKW50,PJ
+Summe,2038,32.349210703238256,ZERO-B,KKW50,PJ
+Summe,2039,32.68886253191264,ZERO-B,KKW50,PJ
+Summe,2040,33.093758850450996,ZERO-B,KKW50,PJ
+Summe,2041,33.02821037584118,ZERO-B,KKW50,PJ
+Summe,2042,33.495541370864245,ZERO-B,KKW50,PJ
+Summe,2043,33.704844888972794,ZERO-B,KKW50,PJ
+Summe,2044,34.892634265562194,ZERO-B,KKW50,PJ
+Summe,2045,35.21867511587802,ZERO-B,KKW50,PJ
+Summe,2046,35.26125125006062,ZERO-B,KKW50,PJ
+Summe,2047,35.60101014285025,ZERO-B,KKW50,PJ
+Summe,2048,35.732164217829066,ZERO-B,KKW50,PJ
+Summe,2049,36.0037472608265,ZERO-B,KKW50,PJ
+Summe,2050,37.7966023967206,ZERO-B,KKW50,PJ
+Summe,2051,37.87437515103875,ZERO-B,KKW50,PJ
+Summe,2052,37.90643634953979,ZERO-B,KKW50,PJ
+Summe,2053,37.90070694202717,ZERO-B,KKW50,PJ
+Summe,2054,37.91260994879961,ZERO-B,KKW50,PJ
+Summe,2055,37.93768207091587,ZERO-B,KKW50,PJ
+Summe,2056,37.9570125138607,ZERO-B,KKW50,PJ
+Summe,2057,37.91249712020972,ZERO-B,KKW50,PJ
+Summe,2058,37.95840992394965,ZERO-B,KKW50,PJ
+Summe,2059,37.96917837301594,ZERO-B,KKW50,PJ
+Summe,2060,37.998576521877695,ZERO-B,KKW50,PJ
+Kernkraftwerke,2000,1.1,ZERO-C,KKW50,PJ
+Kernkraftwerke,2001,1.1799999999999997,ZERO-C,KKW50,PJ
+Kernkraftwerke,2002,1.07,ZERO-C,KKW50,PJ
+Kernkraftwerke,2003,1.12,ZERO-C,KKW50,PJ
+Kernkraftwerke,2004,1.1500000000000001,ZERO-C,KKW50,PJ
+Kernkraftwerke,2005,1.1000000000000003,ZERO-C,KKW50,PJ
+Kernkraftwerke,2006,1.286978408417172,ZERO-C,KKW50,PJ
+Kernkraftwerke,2007,1.263840286856507,ZERO-C,KKW50,PJ
+Kernkraftwerke,2008,1.3477476060594518,ZERO-C,KKW50,PJ
+Kernkraftwerke,2009,1.4411825024266522,ZERO-C,KKW50,PJ
+Kernkraftwerke,2010,1.444513612953424,ZERO-C,KKW50,PJ
+Kernkraftwerke,2011,1.4117442871935528,ZERO-C,KKW50,PJ
+Kernkraftwerke,2012,1.533731989057011,ZERO-C,KKW50,PJ
+Kernkraftwerke,2013,1.383976899622627,ZERO-C,KKW50,PJ
+Kernkraftwerke,2014,1.3022196943078053,ZERO-C,KKW50,PJ
+Kernkraftwerke,2015,1.1942065641042785,ZERO-C,KKW50,PJ
+Kernkraftwerke,2016,1.4316821137940108,ZERO-C,KKW50,PJ
+Kernkraftwerke,2017,1.4149355573636229,ZERO-C,KKW50,PJ
+Kernkraftwerke,2018,1.3726984808631701,ZERO-C,KKW50,PJ
+Kernkraftwerke,2019,1.4263956830904228,ZERO-C,KKW50,PJ
+Kernkraftwerke,2020,1.296,ZERO-C,KKW50,PJ
+Kernkraftwerke,2021,1.296,ZERO-C,KKW50,PJ
+Kernkraftwerke,2022,0.666,ZERO-C,KKW50,PJ
+Kernkraftwerke,2023,0.666,ZERO-C,KKW50,PJ
+Kernkraftwerke,2024,0.666,ZERO-C,KKW50,PJ
+Kernkraftwerke,2025,0.666,ZERO-C,KKW50,PJ
+Kernkraftwerke,2026,0.666,ZERO-C,KKW50,PJ
+Kernkraftwerke,2027,0.666,ZERO-C,KKW50,PJ
+Kernkraftwerke,2028,0.666,ZERO-C,KKW50,PJ
+Kernkraftwerke,2029,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2030,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2031,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2032,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2033,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2034,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2035,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2036,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2037,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2038,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2039,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2040,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2041,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2042,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2043,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2044,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2045,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2046,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2047,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2048,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2049,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2050,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2051,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2052,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2053,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2054,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2055,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2056,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2057,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2058,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2059,0.0,ZERO-C,KKW50,PJ
+Kernkraftwerke,2060,0.0,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2000,13.14,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2001,14.119999999999997,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2002,13.870000000000001,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2003,14.84,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2004,15.35,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2005,15.550000000000004,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2006,15.623319283575901,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2007,14.977004974165695,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2008,15.403635325131344,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2009,15.191038248477401,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2010,17.05848877948918,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2011,15.502624258191165,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2012,16.33175311244264,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2013,17.722612074077166,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2014,15.926568806052677,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2015,18.355399374280605,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2016,19.309187625754877,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2017,19.77754999270931,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2018,10.489399180489201,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2019,12.326119051221273,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2020,12.784086555819506,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2021,13.694828477984,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2022,14.524895299989165,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2023,14.844848400059465,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2024,14.981530250384662,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2025,15.082960586194407,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2026,15.609249264453787,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2027,15.387160912627692,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2028,16.189069244400432,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2029,16.194552480227383,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2030,16.59301207015625,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2031,16.845835037655753,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2032,16.140434600131705,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2033,16.376239849584536,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2034,16.870358983434066,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2035,17.04840210581181,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2036,17.371046433025825,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2037,18.42768964336034,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2038,18.66108804663299,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2039,19.112292878295907,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2040,19.577349936331682,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2041,19.94610733451747,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2042,20.354677253847214,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2043,20.780369099080424,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2044,21.796070711430453,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2045,22.73282501008485,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2046,23.721571826434936,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2047,24.74373662347832,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2048,25.4924558348618,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2049,26.276512548396667,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2050,26.65466337450946,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2051,27.239163218330077,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2052,27.671519847598663,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2053,27.89449913705998,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2054,27.969658734970018,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2055,28.059717330613925,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2056,28.1275092453009,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2057,28.13679086062819,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2058,28.143128286650636,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2059,28.117773918733633,ZERO-C,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2060,28.029052246039946,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2000,7.6104,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2001,8.027999999999999,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2002,8.175600000000001,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2003,8.593200000000001,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2004,8.8524,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2005,9.360000000000001,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2006,9.948642394369022,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2007,10.13858649015283,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2008,10.34514569829983,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2009,10.02807010753734,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2010,11.288216710905997,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2011,10.893050595339076,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2012,10.789019635606856,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2013,11.086150595038582,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2014,10.778283044764764,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2015,12.010948466898974,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2016,12.760778468761286,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2017,13.081810193845577,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2018,7.972785298906723,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2019,8.284664615798409,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2020,7.527312000000001,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2021,7.527312000000001,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2022,7.527312000000001,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2023,7.527312000000001,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2024,7.527312000000001,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2025,7.527312000000001,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2026,7.527312000000001,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2027,7.527312000000001,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2028,7.527312000000001,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2029,7.527312000000001,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2030,7.6869000000000005,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2031,7.846488000000001,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2032,8.006076,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2033,8.165664,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2034,8.27776882634499,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2035,8.31844547174677,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2036,8.35660636863011,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2037,8.396092956633346,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2038,8.432527492737417,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2039,8.4719603819462,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2040,8.51190542560146,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2041,8.628224974697247,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2042,8.744985723062012,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2043,8.859401298351154,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2044,8.97621637061915,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2045,9.089848764618742,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2046,9.207588739188276,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2047,9.322963547941107,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2048,9.439770212104014,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2049,9.555141382850016,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2050,9.670927556407614,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2051,9.760685633747137,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2052,9.84836264549686,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2053,9.937664313572803,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2054,10.024978948765066,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2055,10.113133113080938,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2056,10.20279522272894,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2057,10.291545862197902,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2058,10.378450073657183,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2059,10.466875988240798,ZERO-C,KKW50,PJ
+Kehrichtverwertungsanlagen,2060,10.555669907094321,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2000,5.529599999999999,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2001,6.092,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2002,5.6944,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2003,6.2467999999999995,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2004,6.4976,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2005,6.190000000000002,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2006,5.674676889206879,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2007,4.8384184840128635,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2008,5.058489626831512,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2009,5.162968140940062,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2010,5.770272068583182,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2011,4.60957366285209,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2012,5.542733476835786,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2013,6.636461479038584,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2014,5.148285761287912,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2015,6.344450907381631,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2016,6.548409156993591,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2017,6.695739798863735,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2018,2.5166138815824786,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2019,4.041454435422865,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2020,5.256774555819505,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2021,6.167516477983998,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2022,6.997583299989164,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2023,7.317536400059463,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2024,7.454218250384661,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2025,7.555648586194406,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2026,8.081937264453785,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2027,7.859848912627691,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2028,8.661757244400432,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2029,8.667240480227381,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2030,8.906112070156249,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2031,8.999347037655754,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2032,8.134358600131705,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2033,8.210575849584538,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2034,8.592590157089075,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2035,8.729956634065038,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2036,9.014440064395716,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2037,10.031596686726994,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2038,10.228560553895571,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2039,10.640332496349707,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2040,11.065444510730222,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2041,11.317882359820223,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2042,11.609691530785204,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2043,11.920967800729269,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2044,12.819854340811302,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2045,13.642976245466107,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2046,14.51398308724666,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2047,15.420773075537214,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2048,16.052685622757785,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2049,16.721371165546653,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2050,16.983735818101845,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2051,17.47847758458294,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2052,17.823157202101804,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2053,17.956834823487178,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2054,17.94467978620495,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2055,17.946584217532987,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2056,17.92471402257196,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2057,17.84524499843029,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2058,17.764678212993452,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2059,17.650897930492835,ZERO-C,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2060,17.473382338945623,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2000,0.05,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2001,0.049999999999999996,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2002,0.03,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2003,0.02,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2004,0.02,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2005,0.020000000000000004,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2006,0.04970230800692642,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2007,0.09915473897780207,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2008,0.11861706880920321,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2009,0.1577792490959496,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2010,0.19699760755739887,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2011,0.23563145461527948,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2012,0.2745148985003473,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2013,0.31341102630020673,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2014,0.35121149963951565,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2015,0.39039406161511914,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2016,0.4291302604511134,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2017,0.4675144499270661,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2018,9.447902338647628,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2019,9.817485265688301,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2020,8.920008000000001,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2021,8.920008000000001,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2022,10.101492,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2023,10.777538057142857,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2024,11.743160914285713,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2025,12.677888571428571,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2026,13.22303142857143,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2027,14.524174285714285,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2028,14.561717142857141,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2029,16.065117,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2030,16.618116857142855,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2031,17.27189155102041,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2032,18.82043724489796,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2033,21.14103849410351,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2034,22.24968704999706,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2035,22.88878322829061,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2036,24.232564760584157,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2037,26.24475771428571,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2038,26.916963428571428,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2039,27.899977772657138,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2040,28.898574857142854,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2041,29.657180571428565,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2042,30.69298628571428,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2043,31.944791999999996,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2044,33.56081485714285,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2045,34.471237714285714,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2046,35.063832000000005,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2047,35.771112,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2048,36.211992,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2049,36.739752,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2050,38.8709039174374,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2051,38.9992558348748,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2052,39.110783711030905,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2053,39.32428754590571,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2054,39.52339138078051,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2055,39.679295215655316,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2056,39.80162309181141,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2057,39.88552692668621,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2058,40.02945480284232,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2059,40.15655863771712,ZERO-C,KKW50,PJ
+Diverse Erneuerbare,2060,40.290862472591925,ZERO-C,KKW50,PJ
+Wärmepumpen,2000,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2001,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2002,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2003,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2004,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2005,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2006,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2007,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2008,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2009,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2010,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2011,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2012,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2013,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2014,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2015,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2016,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2017,0.0,ZERO-C,KKW50,PJ
+Wärmepumpen,2018,2.201770232791168,ZERO-C,KKW50,PJ
+Wärmepumpen,2019,2.2878990535747303,ZERO-C,KKW50,PJ
+Wärmepumpen,2020,2.078748,ZERO-C,KKW50,PJ
+Wärmepumpen,2021,2.078748,ZERO-C,KKW50,PJ
+Wärmepumpen,2022,3.163032,ZERO-C,KKW50,PJ
+Wärmepumpen,2023,3.839078057142858,ZERO-C,KKW50,PJ
+Wärmepumpen,2024,4.804700914285714,ZERO-C,KKW50,PJ
+Wärmepumpen,2025,5.649428571428571,ZERO-C,KKW50,PJ
+Wärmepumpen,2026,6.194571428571429,ZERO-C,KKW50,PJ
+Wärmepumpen,2027,6.775714285714286,ZERO-C,KKW50,PJ
+Wärmepumpen,2028,6.813257142857142,ZERO-C,KKW50,PJ
+Wärmepumpen,2029,8.031600000000001,ZERO-C,KKW50,PJ
+Wärmepumpen,2030,8.133942857142856,ZERO-C,KKW50,PJ
+Wärmepumpen,2031,8.743885714285714,ZERO-C,KKW50,PJ
+Wärmepumpen,2032,9.393428571428572,ZERO-C,KKW50,PJ
+Wärmepumpen,2033,11.110910983899428,ZERO-C,KKW50,PJ
+Wärmepumpen,2034,12.139727703058284,ZERO-C,KKW50,PJ
+Wärmepumpen,2035,12.41099204461714,ZERO-C,KKW50,PJ
+Wärmepumpen,2036,13.511261740175996,ZERO-C,KKW50,PJ
+Wärmepumpen,2037,15.279942857142856,ZERO-C,KKW50,PJ
+Wärmepumpen,2038,15.281485714285713,ZERO-C,KKW50,PJ
+Wärmepumpen,2039,15.593837201228567,ZERO-C,KKW50,PJ
+Wärmepumpen,2040,15.921771428571427,ZERO-C,KKW50,PJ
+Wärmepumpen,2041,16.00971428571428,ZERO-C,KKW50,PJ
+Wärmepumpen,2042,16.374857142857138,ZERO-C,KKW50,PJ
+Wärmepumpen,2043,16.955999999999996,ZERO-C,KKW50,PJ
+Wärmepumpen,2044,18.37234285714285,ZERO-C,KKW50,PJ
+Wärmepumpen,2045,19.08308571428571,ZERO-C,KKW50,PJ
+Wärmepumpen,2046,19.476,ZERO-C,KKW50,PJ
+Wärmepumpen,2047,19.9836,ZERO-C,KKW50,PJ
+Wärmepumpen,2048,20.2248,ZERO-C,KKW50,PJ
+Wärmepumpen,2049,20.595599999999997,ZERO-C,KKW50,PJ
+Wärmepumpen,2050,22.4316,ZERO-C,KKW50,PJ
+Wärmepumpen,2051,22.507199999999997,ZERO-C,KKW50,PJ
+Wärmepumpen,2052,22.539599999999997,ZERO-C,KKW50,PJ
+Wärmepumpen,2053,22.6476,ZERO-C,KKW50,PJ
+Wärmepumpen,2054,22.7412,ZERO-C,KKW50,PJ
+Wärmepumpen,2055,22.7916,ZERO-C,KKW50,PJ
+Wärmepumpen,2056,22.834799999999994,ZERO-C,KKW50,PJ
+Wärmepumpen,2057,22.813199999999995,ZERO-C,KKW50,PJ
+Wärmepumpen,2058,22.877999999999993,ZERO-C,KKW50,PJ
+Wärmepumpen,2059,22.899599999999992,ZERO-C,KKW50,PJ
+Wärmepumpen,2060,22.928399999999993,ZERO-C,KKW50,PJ
+Geothermieanlagen,2000,0.0,ZERO-C,KKW50,PJ
+Geothermieanlagen,2001,0.0,ZERO-C,KKW50,PJ
+Geothermieanlagen,2002,0.0,ZERO-C,KKW50,PJ
+Geothermieanlagen,2003,0.0,ZERO-C,KKW50,PJ
+Geothermieanlagen,2004,0.0,ZERO-C,KKW50,PJ
+Geothermieanlagen,2005,0.0,ZERO-C,KKW50,PJ
+Geothermieanlagen,2006,0.039725731197490975,ZERO-C,KKW50,PJ
+Geothermieanlagen,2007,0.07925174233439251,ZERO-C,KKW50,PJ
+Geothermieanlagen,2008,0.11861706880920321,ZERO-C,KKW50,PJ
+Geothermieanlagen,2009,0.1577792490959496,ZERO-C,KKW50,PJ
+Geothermieanlagen,2010,0.19699760755739887,ZERO-C,KKW50,PJ
+Geothermieanlagen,2011,0.23563145461527948,ZERO-C,KKW50,PJ
+Geothermieanlagen,2012,0.2745148985003473,ZERO-C,KKW50,PJ
+Geothermieanlagen,2013,0.31341102630020673,ZERO-C,KKW50,PJ
+Geothermieanlagen,2014,0.35121149963951565,ZERO-C,KKW50,PJ
+Geothermieanlagen,2015,0.39039406161511914,ZERO-C,KKW50,PJ
+Geothermieanlagen,2016,0.4291302604511134,ZERO-C,KKW50,PJ
+Geothermieanlagen,2017,0.4675144499270661,ZERO-C,KKW50,PJ
+Geothermieanlagen,2018,0.5061063037915794,ZERO-C,KKW50,PJ
+Geothermieanlagen,2019,0.5259041639349773,ZERO-C,KKW50,PJ
+Geothermieanlagen,2020,0.477828,ZERO-C,KKW50,PJ
+Geothermieanlagen,2021,0.477828,ZERO-C,KKW50,PJ
+Geothermieanlagen,2022,0.5750279999999999,ZERO-C,KKW50,PJ
+Geothermieanlagen,2023,0.5750279999999999,ZERO-C,KKW50,PJ
+Geothermieanlagen,2024,0.5750279999999999,ZERO-C,KKW50,PJ
+Geothermieanlagen,2025,0.6650280000000001,ZERO-C,KKW50,PJ
+Geothermieanlagen,2026,0.6650280000000001,ZERO-C,KKW50,PJ
+Geothermieanlagen,2027,1.3850280000000001,ZERO-C,KKW50,PJ
+Geothermieanlagen,2028,1.3850280000000001,ZERO-C,KKW50,PJ
+Geothermieanlagen,2029,1.6700850000000003,ZERO-C,KKW50,PJ
+Geothermieanlagen,2030,2.1207420000000003,ZERO-C,KKW50,PJ
+Geothermieanlagen,2031,2.1645738367346943,ZERO-C,KKW50,PJ
+Geothermieanlagen,2032,3.0635766734693886,ZERO-C,KKW50,PJ
+Geothermieanlagen,2033,3.6666955102040815,ZERO-C,KKW50,PJ
+Geothermieanlagen,2034,3.746527346938776,ZERO-C,KKW50,PJ
+Geothermieanlagen,2035,4.11435918367347,ZERO-C,KKW50,PJ
+Geothermieanlagen,2036,4.357871020408163,ZERO-C,KKW50,PJ
+Geothermieanlagen,2037,4.601382857142856,ZERO-C,KKW50,PJ
+Geothermieanlagen,2038,5.272045714285715,ZERO-C,KKW50,PJ
+Geothermieanlagen,2039,5.942708571428572,ZERO-C,KKW50,PJ
+Geothermieanlagen,2040,6.613371428571429,ZERO-C,KKW50,PJ
+Geothermieanlagen,2041,7.284034285714286,ZERO-C,KKW50,PJ
+Geothermieanlagen,2042,7.9546971428571425,ZERO-C,KKW50,PJ
+Geothermieanlagen,2043,8.62536,ZERO-C,KKW50,PJ
+Geothermieanlagen,2044,8.825040000000001,ZERO-C,KKW50,PJ
+Geothermieanlagen,2045,9.024720000000002,ZERO-C,KKW50,PJ
+Geothermieanlagen,2046,9.224400000000001,ZERO-C,KKW50,PJ
+Geothermieanlagen,2047,9.42408,ZERO-C,KKW50,PJ
+Geothermieanlagen,2048,9.62376,ZERO-C,KKW50,PJ
+Geothermieanlagen,2049,9.78072,ZERO-C,KKW50,PJ
+Geothermieanlagen,2050,10.02312,ZERO-C,KKW50,PJ
+Geothermieanlagen,2051,10.02312,ZERO-C,KKW50,PJ
+Geothermieanlagen,2052,10.02312,ZERO-C,KKW50,PJ
+Geothermieanlagen,2053,10.02312,ZERO-C,KKW50,PJ
+Geothermieanlagen,2054,10.02312,ZERO-C,KKW50,PJ
+Geothermieanlagen,2055,10.02312,ZERO-C,KKW50,PJ
+Geothermieanlagen,2056,10.02312,ZERO-C,KKW50,PJ
+Geothermieanlagen,2057,10.02312,ZERO-C,KKW50,PJ
+Geothermieanlagen,2058,10.02312,ZERO-C,KKW50,PJ
+Geothermieanlagen,2059,10.02312,ZERO-C,KKW50,PJ
+Geothermieanlagen,2060,10.02312,ZERO-C,KKW50,PJ
+Biomasseanlagen,2000,0.05,ZERO-C,KKW50,PJ
+Biomasseanlagen,2001,0.049999999999999996,ZERO-C,KKW50,PJ
+Biomasseanlagen,2002,0.03,ZERO-C,KKW50,PJ
+Biomasseanlagen,2003,0.02,ZERO-C,KKW50,PJ
+Biomasseanlagen,2004,0.02,ZERO-C,KKW50,PJ
+Biomasseanlagen,2005,0.020000000000000004,ZERO-C,KKW50,PJ
+Biomasseanlagen,2006,0.009976576809435441,ZERO-C,KKW50,PJ
+Biomasseanlagen,2007,0.019902996643409557,ZERO-C,KKW50,PJ
+Biomasseanlagen,2008,0.0,ZERO-C,KKW50,PJ
+Biomasseanlagen,2009,0.0,ZERO-C,KKW50,PJ
+Biomasseanlagen,2010,0.0,ZERO-C,KKW50,PJ
+Biomasseanlagen,2011,0.0,ZERO-C,KKW50,PJ
+Biomasseanlagen,2012,0.0,ZERO-C,KKW50,PJ
+Biomasseanlagen,2013,0.0,ZERO-C,KKW50,PJ
+Biomasseanlagen,2014,0.0,ZERO-C,KKW50,PJ
+Biomasseanlagen,2015,0.0,ZERO-C,KKW50,PJ
+Biomasseanlagen,2016,0.0,ZERO-C,KKW50,PJ
+Biomasseanlagen,2017,0.0,ZERO-C,KKW50,PJ
+Biomasseanlagen,2018,3.8217069622631383,ZERO-C,KKW50,PJ
+Biomasseanlagen,2019,3.9712044480306616,ZERO-C,KKW50,PJ
+Biomasseanlagen,2020,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2021,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2022,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2023,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2024,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2025,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2026,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2027,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2028,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2029,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2030,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2031,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2032,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2033,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2034,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2035,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2036,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2037,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2038,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2039,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2040,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2041,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2042,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2043,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2044,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2045,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2046,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2047,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2048,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2049,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2050,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2051,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2052,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2053,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2054,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2055,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2056,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2057,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2058,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2059,3.608172,ZERO-C,KKW50,PJ
+Biomasseanlagen,2060,3.608172,ZERO-C,KKW50,PJ
+Biogasanlagen,2000,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2001,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2002,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2003,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2004,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2005,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2006,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2007,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2008,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2009,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2010,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2011,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2012,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2013,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2014,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2015,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2016,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2017,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2018,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2019,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2020,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2021,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2022,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2023,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2024,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2025,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2026,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2027,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2028,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2029,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2030,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2031,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2032,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2033,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2034,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2035,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2036,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2037,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2038,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2039,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2040,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2041,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2042,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2043,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2044,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2045,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2046,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2047,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2048,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2049,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2050,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2051,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2052,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2053,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2054,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2055,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2056,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2057,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2058,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2059,0.0,ZERO-C,KKW50,PJ
+Biogasanlagen,2060,0.0,ZERO-C,KKW50,PJ
+Sonstige,2000,0.0,ZERO-C,KKW50,PJ
+Sonstige,2001,0.0,ZERO-C,KKW50,PJ
+Sonstige,2002,0.0,ZERO-C,KKW50,PJ
+Sonstige,2003,0.0,ZERO-C,KKW50,PJ
+Sonstige,2004,0.0,ZERO-C,KKW50,PJ
+Sonstige,2005,0.0,ZERO-C,KKW50,PJ
+Sonstige,2006,0.0,ZERO-C,KKW50,PJ
+Sonstige,2007,0.0,ZERO-C,KKW50,PJ
+Sonstige,2008,0.0,ZERO-C,KKW50,PJ
+Sonstige,2009,0.0,ZERO-C,KKW50,PJ
+Sonstige,2010,0.0,ZERO-C,KKW50,PJ
+Sonstige,2011,0.0,ZERO-C,KKW50,PJ
+Sonstige,2012,0.0,ZERO-C,KKW50,PJ
+Sonstige,2013,0.0,ZERO-C,KKW50,PJ
+Sonstige,2014,0.0,ZERO-C,KKW50,PJ
+Sonstige,2015,0.0,ZERO-C,KKW50,PJ
+Sonstige,2016,0.0,ZERO-C,KKW50,PJ
+Sonstige,2017,0.0,ZERO-C,KKW50,PJ
+Sonstige,2018,2.9183188398017426,ZERO-C,KKW50,PJ
+Sonstige,2019,3.032477600147931,ZERO-C,KKW50,PJ
+Sonstige,2020,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2021,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2022,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2023,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2024,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2025,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2026,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2027,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2028,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2029,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2030,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2031,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2032,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2033,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2034,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2035,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2036,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2037,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2038,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2039,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2040,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2041,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2042,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2043,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2044,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2045,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2046,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2047,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2048,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2049,2.7552600000000003,ZERO-C,KKW50,PJ
+Sonstige,2050,2.808011917437401,ZERO-C,KKW50,PJ
+Sonstige,2051,2.8607638348748026,ZERO-C,KKW50,PJ
+Sonstige,2052,2.939891711030905,ZERO-C,KKW50,PJ
+Sonstige,2053,3.045395545905707,ZERO-C,KKW50,PJ
+Sonstige,2054,3.1508993807805097,ZERO-C,KKW50,PJ
+Sonstige,2055,3.2564032156553124,ZERO-C,KKW50,PJ
+Sonstige,2056,3.335531091811414,ZERO-C,KKW50,PJ
+Sonstige,2057,3.441034926686217,ZERO-C,KKW50,PJ
+Sonstige,2058,3.520162802842319,ZERO-C,KKW50,PJ
+Sonstige,2059,3.6256666377171216,ZERO-C,KKW50,PJ
+Sonstige,2060,3.731170472591924,ZERO-C,KKW50,PJ
+Summe,2000,14.290000000000001,ZERO-C,KKW50,PJ
+Summe,2001,15.349999999999996,ZERO-C,KKW50,PJ
+Summe,2002,14.97,ZERO-C,KKW50,PJ
+Summe,2003,15.98,ZERO-C,KKW50,PJ
+Summe,2004,16.52,ZERO-C,KKW50,PJ
+Summe,2005,16.67,ZERO-C,KKW50,PJ
+Summe,2006,16.96,ZERO-C,KKW50,PJ
+Summe,2007,16.34,ZERO-C,KKW50,PJ
+Summe,2008,16.87,ZERO-C,KKW50,PJ
+Summe,2009,16.79,ZERO-C,KKW50,PJ
+Summe,2010,18.700000000000003,ZERO-C,KKW50,PJ
+Summe,2011,17.15,ZERO-C,KKW50,PJ
+Summe,2012,18.14,ZERO-C,KKW50,PJ
+Summe,2013,19.419999999999998,ZERO-C,KKW50,PJ
+Summe,2014,17.58,ZERO-C,KKW50,PJ
+Summe,2015,19.94,ZERO-C,KKW50,PJ
+Summe,2016,21.169999999999998,ZERO-C,KKW50,PJ
+Summe,2017,21.660000000000004,ZERO-C,KKW50,PJ
+Summe,2018,21.310000000000002,ZERO-C,KKW50,PJ
+Summe,2019,23.569999999999997,ZERO-C,KKW50,PJ
+Summe,2020,23.000094555819505,ZERO-C,KKW50,PJ
+Summe,2021,23.910836477984,ZERO-C,KKW50,PJ
+Summe,2022,25.292387299989166,ZERO-C,KKW50,PJ
+Summe,2023,26.28838645720232,ZERO-C,KKW50,PJ
+Summe,2024,27.390691164670375,ZERO-C,KKW50,PJ
+Summe,2025,28.426849157622975,ZERO-C,KKW50,PJ
+Summe,2026,29.498280693025215,ZERO-C,KKW50,PJ
+Summe,2027,30.577335198341977,ZERO-C,KKW50,PJ
+Summe,2028,31.416786387257577,ZERO-C,KKW50,PJ
+Summe,2029,32.25966948022739,ZERO-C,KKW50,PJ
+Summe,2030,33.21112892729911,ZERO-C,KKW50,PJ
+Summe,2031,34.11772658867616,ZERO-C,KKW50,PJ
+Summe,2032,34.960871845029665,ZERO-C,KKW50,PJ
+Summe,2033,37.51727834368805,ZERO-C,KKW50,PJ
+Summe,2034,39.12004603343113,ZERO-C,KKW50,PJ
+Summe,2035,39.937185334102416,ZERO-C,KKW50,PJ
+Summe,2036,41.603611193609986,ZERO-C,KKW50,PJ
+Summe,2037,44.67244735764605,ZERO-C,KKW50,PJ
+Summe,2038,45.57805147520442,ZERO-C,KKW50,PJ
+Summe,2039,47.01227065095305,ZERO-C,KKW50,PJ
+Summe,2040,48.47592479347454,ZERO-C,KKW50,PJ
+Summe,2041,49.60328790594604,ZERO-C,KKW50,PJ
+Summe,2042,51.04766353956149,ZERO-C,KKW50,PJ
+Summe,2043,52.725161099080424,ZERO-C,KKW50,PJ
+Summe,2044,55.35688556857331,ZERO-C,KKW50,PJ
+Summe,2045,57.20406272437056,ZERO-C,KKW50,PJ
+Summe,2046,58.78540382643494,ZERO-C,KKW50,PJ
+Summe,2047,60.51484862347832,ZERO-C,KKW50,PJ
+Summe,2048,61.7044478348618,ZERO-C,KKW50,PJ
+Summe,2049,63.01626454839666,ZERO-C,KKW50,PJ
+Summe,2050,65.52556729194686,ZERO-C,KKW50,PJ
+Summe,2051,66.23841905320488,ZERO-C,KKW50,PJ
+Summe,2052,66.78230355862956,ZERO-C,KKW50,PJ
+Summe,2053,67.21878668296569,ZERO-C,KKW50,PJ
+Summe,2054,67.49305011575053,ZERO-C,KKW50,PJ
+Summe,2055,67.73901254626924,ZERO-C,KKW50,PJ
+Summe,2056,67.92913233711232,ZERO-C,KKW50,PJ
+Summe,2057,68.0223177873144,ZERO-C,KKW50,PJ
+Summe,2058,68.17258308949295,ZERO-C,KKW50,PJ
+Summe,2059,68.27433255645074,ZERO-C,KKW50,PJ
+Summe,2060,68.31991471863186,ZERO-C,KKW50,PJ
+Kernkraftwerke,2000,1.1,WWB,KKW50,PJ
+Kernkraftwerke,2001,1.1799999999999997,WWB,KKW50,PJ
+Kernkraftwerke,2002,1.07,WWB,KKW50,PJ
+Kernkraftwerke,2003,1.12,WWB,KKW50,PJ
+Kernkraftwerke,2004,1.1500000000000001,WWB,KKW50,PJ
+Kernkraftwerke,2005,1.1000000000000003,WWB,KKW50,PJ
+Kernkraftwerke,2006,1.286978408417172,WWB,KKW50,PJ
+Kernkraftwerke,2007,1.263840286856507,WWB,KKW50,PJ
+Kernkraftwerke,2008,1.3477476060594518,WWB,KKW50,PJ
+Kernkraftwerke,2009,1.4411825024266522,WWB,KKW50,PJ
+Kernkraftwerke,2010,1.444513612953424,WWB,KKW50,PJ
+Kernkraftwerke,2011,1.4117442871935528,WWB,KKW50,PJ
+Kernkraftwerke,2012,1.533731989057011,WWB,KKW50,PJ
+Kernkraftwerke,2013,1.383976899622627,WWB,KKW50,PJ
+Kernkraftwerke,2014,1.3022196943078053,WWB,KKW50,PJ
+Kernkraftwerke,2015,1.1942065641042785,WWB,KKW50,PJ
+Kernkraftwerke,2016,1.4316821137940108,WWB,KKW50,PJ
+Kernkraftwerke,2017,1.4149355573636229,WWB,KKW50,PJ
+Kernkraftwerke,2018,1.3726984808631701,WWB,KKW50,PJ
+Kernkraftwerke,2019,1.4263956830904228,WWB,KKW50,PJ
+Kernkraftwerke,2020,1.296,WWB,KKW50,PJ
+Kernkraftwerke,2021,1.296,WWB,KKW50,PJ
+Kernkraftwerke,2022,0.666,WWB,KKW50,PJ
+Kernkraftwerke,2023,0.666,WWB,KKW50,PJ
+Kernkraftwerke,2024,0.666,WWB,KKW50,PJ
+Kernkraftwerke,2025,0.666,WWB,KKW50,PJ
+Kernkraftwerke,2026,0.666,WWB,KKW50,PJ
+Kernkraftwerke,2027,0.666,WWB,KKW50,PJ
+Kernkraftwerke,2028,0.666,WWB,KKW50,PJ
+Kernkraftwerke,2029,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2030,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2031,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2032,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2033,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2034,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2035,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2036,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2037,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2038,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2039,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2040,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2041,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2042,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2043,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2044,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2045,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2046,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2047,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2048,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2049,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2050,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2051,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2052,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2053,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2054,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2055,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2056,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2057,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2058,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2059,0.0,WWB,KKW50,PJ
+Kernkraftwerke,2060,0.0,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2000,13.14,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2001,14.119999999999997,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2002,13.870000000000001,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2003,14.84,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2004,15.35,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2005,15.550000000000004,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2006,15.623319283575901,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2007,14.977004974165695,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2008,15.403635325131344,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2009,15.191038248477401,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2010,17.05848877948918,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2011,15.502624258191165,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2012,16.33175311244264,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2013,17.722612074077166,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2014,15.926568806052677,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2015,18.355399374280605,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2016,19.309187625754877,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2017,19.77754999270931,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2018,10.489399180489201,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2019,12.326119051221273,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2020,12.165336207057038,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2021,12.620788097776385,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2022,13.425065685485798,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2023,13.468082310943638,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2024,13.609366596242168,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2025,13.57524311203397,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2026,13.62852884698109,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2027,13.761893349274642,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2028,13.761129753709948,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2029,14.385229044311547,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2030,14.187554035319126,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2031,14.154694587619964,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2032,14.057811570430202,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2033,13.985217455895707,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2034,13.849312319736317,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2035,13.748297983662987,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2036,13.727504123354812,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2037,13.795046435530613,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2038,13.801279993961433,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2039,13.824390618414988,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2040,13.864737705490645,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2041,13.946776198840713,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2042,13.962917734221776,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2043,13.962500088159292,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2044,13.990540592813463,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2045,14.081281698805249,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2046,14.1714214975553,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2047,14.227245527581161,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2048,14.315508540293905,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2049,14.381158749191858,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2050,14.489928490662422,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2051,14.573740976581862,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2052,14.587438610553214,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2053,14.739429513024001,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2054,14.793509111721649,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2055,14.734777211867005,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2056,14.711884412973225,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2057,14.716717682855416,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2058,14.72148229055861,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2059,14.798228788134258,WWB,KKW50,PJ
+"konventionell-thermische Kraft-, Fernheiz- und Fernheizkraftwerke",2060,14.76586784108163,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2000,7.6104,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2001,8.027999999999999,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2002,8.175600000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2003,8.593200000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2004,8.8524,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2005,9.360000000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2006,9.948642394369022,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2007,10.13858649015283,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2008,10.34514569829983,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2009,10.02807010753734,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2010,11.288216710905997,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2011,10.893050595339076,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2012,10.789019635606856,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2013,11.086150595038582,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2014,10.778283044764764,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2015,12.010948466898974,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2016,12.760778468761286,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2017,13.081810193845577,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2018,7.972785298906723,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2019,8.284664615798409,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2020,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2021,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2022,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2023,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2024,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2025,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2026,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2027,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2028,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2029,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2030,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2031,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2032,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2033,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2034,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2035,7.652844000000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2036,7.574654400000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2037,7.496464800000001,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2038,7.4182752,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2039,7.340085599999999,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2040,7.261896,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2041,7.183706399999999,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2042,7.105516799999998,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2043,7.027327199999999,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2044,6.9491375999999985,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2045,6.870947999999998,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2046,6.792758399999998,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2047,6.714568799999998,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2048,6.636379199999997,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2049,6.558189599999996,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2050,6.48,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2051,6.48,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2052,6.48,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2053,6.48,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2054,6.48,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2055,6.48,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2056,6.48,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2057,6.48,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2058,6.48,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2059,6.48,WWB,KKW50,PJ
+Kehrichtverwertungsanlagen,2060,6.48,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2000,5.529599999999999,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2001,6.092,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2002,5.6944,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2003,6.2467999999999995,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2004,6.4976,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2005,6.190000000000002,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2006,5.674676889206879,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2007,4.8384184840128635,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2008,5.058489626831512,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2009,5.162968140940062,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2010,5.770272068583182,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2011,4.60957366285209,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2012,5.542733476835786,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2013,6.636461479038584,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2014,5.148285761287912,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2015,6.344450907381631,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2016,6.548409156993591,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2017,6.695739798863735,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2018,2.5166138815824786,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2019,4.041454435422865,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2020,4.512492207057037,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2021,4.9679440977763845,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2022,5.772221685485798,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2023,5.815238310943637,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2024,5.956522596242167,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2025,5.922399112033969,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2026,5.975684846981089,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2027,6.109049349274641,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2028,6.108285753709948,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2029,6.732385044311547,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2030,6.534710035319125,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2031,6.5018505876199635,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2032,6.404967570430201,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2033,6.332373455895707,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2034,6.196468319736315,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2035,6.095453983662986,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2036,6.152849723354811,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2037,6.298581635530613,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2038,6.383004793961434,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2039,6.4843050184149895,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2040,6.602841705490645,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2041,6.7630697988407125,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2042,6.8574009342217765,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2043,6.935172888159293,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2044,7.041402992813464,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2045,7.210333698805252,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2046,7.378663097555302,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2047,7.512676727581163,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2048,7.679129340293909,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2049,7.822969149191863,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2050,8.009928490662421,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2051,8.093740976581861,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2052,8.107438610553213,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2053,8.259429513024001,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2054,8.313509111721649,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2055,8.254777211867005,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2056,8.231884412973224,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2057,8.236717682855415,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2058,8.24148229055861,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2059,8.318228788134258,WWB,KKW50,PJ
+"Sonstige Kraft-, Fernheiz- und Fernheizkraftwerke",2060,8.285867841081629,WWB,KKW50,PJ
+Diverse Erneuerbare,2000,0.05,WWB,KKW50,PJ
+Diverse Erneuerbare,2001,0.049999999999999996,WWB,KKW50,PJ
+Diverse Erneuerbare,2002,0.03,WWB,KKW50,PJ
+Diverse Erneuerbare,2003,0.02,WWB,KKW50,PJ
+Diverse Erneuerbare,2004,0.02,WWB,KKW50,PJ
+Diverse Erneuerbare,2005,0.020000000000000004,WWB,KKW50,PJ
+Diverse Erneuerbare,2006,0.04970230800692642,WWB,KKW50,PJ
+Diverse Erneuerbare,2007,0.09915473897780207,WWB,KKW50,PJ
+Diverse Erneuerbare,2008,0.11861706880920321,WWB,KKW50,PJ
+Diverse Erneuerbare,2009,0.1577792490959496,WWB,KKW50,PJ
+Diverse Erneuerbare,2010,0.19699760755739887,WWB,KKW50,PJ
+Diverse Erneuerbare,2011,0.23563145461527948,WWB,KKW50,PJ
+Diverse Erneuerbare,2012,0.2745148985003473,WWB,KKW50,PJ
+Diverse Erneuerbare,2013,0.31341102630020673,WWB,KKW50,PJ
+Diverse Erneuerbare,2014,0.35121149963951565,WWB,KKW50,PJ
+Diverse Erneuerbare,2015,0.39039406161511914,WWB,KKW50,PJ
+Diverse Erneuerbare,2016,0.4291302604511134,WWB,KKW50,PJ
+Diverse Erneuerbare,2017,0.4675144499270661,WWB,KKW50,PJ
+Diverse Erneuerbare,2018,9.447902338647628,WWB,KKW50,PJ
+Diverse Erneuerbare,2019,9.817485265688301,WWB,KKW50,PJ
+Diverse Erneuerbare,2020,8.920008000000001,WWB,KKW50,PJ
+Diverse Erneuerbare,2021,8.920008000000001,WWB,KKW50,PJ
+Diverse Erneuerbare,2022,9.017208,WWB,KKW50,PJ
+Diverse Erneuerbare,2023,9.197208,WWB,KKW50,PJ
+Diverse Erneuerbare,2024,9.246884,WWB,KKW50,PJ
+Diverse Erneuerbare,2025,9.386560000000001,WWB,KKW50,PJ
+Diverse Erneuerbare,2026,9.436236000000001,WWB,KKW50,PJ
+Diverse Erneuerbare,2027,9.485912,WWB,KKW50,PJ
+Diverse Erneuerbare,2028,9.535588,WWB,KKW50,PJ
+Diverse Erneuerbare,2029,9.585264,WWB,KKW50,PJ
+Diverse Erneuerbare,2030,9.800540000000002,WWB,KKW50,PJ
+Diverse Erneuerbare,2031,9.850216000000001,WWB,KKW50,PJ
+Diverse Erneuerbare,2032,9.899892000000001,WWB,KKW50,PJ
+Diverse Erneuerbare,2033,9.949568000000003,WWB,KKW50,PJ
+Diverse Erneuerbare,2034,9.999244000000003,WWB,KKW50,PJ
+Diverse Erneuerbare,2035,10.048920000000003,WWB,KKW50,PJ
+Diverse Erneuerbare,2036,9.978051200000003,WWB,KKW50,PJ
+Diverse Erneuerbare,2037,9.907182400000003,WWB,KKW50,PJ
+Diverse Erneuerbare,2038,9.836313600000002,WWB,KKW50,PJ
+Diverse Erneuerbare,2039,9.765444800000003,WWB,KKW50,PJ
+Diverse Erneuerbare,2040,9.694576000000005,WWB,KKW50,PJ
+Diverse Erneuerbare,2041,9.623707200000005,WWB,KKW50,PJ
+Diverse Erneuerbare,2042,9.552838400000006,WWB,KKW50,PJ
+Diverse Erneuerbare,2043,9.481969600000006,WWB,KKW50,PJ
+Diverse Erneuerbare,2044,9.411100800000007,WWB,KKW50,PJ
+Diverse Erneuerbare,2045,9.340232000000007,WWB,KKW50,PJ
+Diverse Erneuerbare,2046,9.269363200000008,WWB,KKW50,PJ
+Diverse Erneuerbare,2047,9.198494400000007,WWB,KKW50,PJ
+Diverse Erneuerbare,2048,9.127625600000009,WWB,KKW50,PJ
+Diverse Erneuerbare,2049,9.056756800000008,WWB,KKW50,PJ
+Diverse Erneuerbare,2050,8.985888,WWB,KKW50,PJ
+Diverse Erneuerbare,2051,8.985888,WWB,KKW50,PJ
+Diverse Erneuerbare,2052,8.985888,WWB,KKW50,PJ
+Diverse Erneuerbare,2053,8.985888,WWB,KKW50,PJ
+Diverse Erneuerbare,2054,8.985888,WWB,KKW50,PJ
+Diverse Erneuerbare,2055,8.985888,WWB,KKW50,PJ
+Diverse Erneuerbare,2056,8.985888,WWB,KKW50,PJ
+Diverse Erneuerbare,2057,8.985888,WWB,KKW50,PJ
+Diverse Erneuerbare,2058,8.985888,WWB,KKW50,PJ
+Diverse Erneuerbare,2059,8.985888,WWB,KKW50,PJ
+Diverse Erneuerbare,2060,8.985888,WWB,KKW50,PJ
+Wärmepumpen,2000,0.0,WWB,KKW50,PJ
+Wärmepumpen,2001,0.0,WWB,KKW50,PJ
+Wärmepumpen,2002,0.0,WWB,KKW50,PJ
+Wärmepumpen,2003,0.0,WWB,KKW50,PJ
+Wärmepumpen,2004,0.0,WWB,KKW50,PJ
+Wärmepumpen,2005,0.0,WWB,KKW50,PJ
+Wärmepumpen,2006,0.0,WWB,KKW50,PJ
+Wärmepumpen,2007,0.0,WWB,KKW50,PJ
+Wärmepumpen,2008,0.0,WWB,KKW50,PJ
+Wärmepumpen,2009,0.0,WWB,KKW50,PJ
+Wärmepumpen,2010,0.0,WWB,KKW50,PJ
+Wärmepumpen,2011,0.0,WWB,KKW50,PJ
+Wärmepumpen,2012,0.0,WWB,KKW50,PJ
+Wärmepumpen,2013,0.0,WWB,KKW50,PJ
+Wärmepumpen,2014,0.0,WWB,KKW50,PJ
+Wärmepumpen,2015,0.0,WWB,KKW50,PJ
+Wärmepumpen,2016,0.0,WWB,KKW50,PJ
+Wärmepumpen,2017,0.0,WWB,KKW50,PJ
+Wärmepumpen,2018,2.201770232791168,WWB,KKW50,PJ
+Wärmepumpen,2019,2.2878990535747303,WWB,KKW50,PJ
+Wärmepumpen,2020,2.078748,WWB,KKW50,PJ
+Wärmepumpen,2021,2.078748,WWB,KKW50,PJ
+Wärmepumpen,2022,2.078748,WWB,KKW50,PJ
+Wärmepumpen,2023,2.258748,WWB,KKW50,PJ
+Wärmepumpen,2024,2.3084240000000005,WWB,KKW50,PJ
+Wärmepumpen,2025,2.3581000000000003,WWB,KKW50,PJ
+Wärmepumpen,2026,2.407776,WWB,KKW50,PJ
+Wärmepumpen,2027,2.4574520000000013,WWB,KKW50,PJ
+Wärmepumpen,2028,2.507128000000001,WWB,KKW50,PJ
+Wärmepumpen,2029,2.556804000000001,WWB,KKW50,PJ
+Wärmepumpen,2030,2.6064800000000012,WWB,KKW50,PJ
+Wärmepumpen,2031,2.6561560000000015,WWB,KKW50,PJ
+Wärmepumpen,2032,2.705832000000002,WWB,KKW50,PJ
+Wärmepumpen,2033,2.755508000000002,WWB,KKW50,PJ
+Wärmepumpen,2034,2.805184000000002,WWB,KKW50,PJ
+Wärmepumpen,2035,2.8548600000000026,WWB,KKW50,PJ
+Wärmepumpen,2036,2.904536000000003,WWB,KKW50,PJ
+Wärmepumpen,2037,2.9542120000000027,WWB,KKW50,PJ
+Wärmepumpen,2038,3.0038880000000026,WWB,KKW50,PJ
+Wärmepumpen,2039,3.0535640000000033,WWB,KKW50,PJ
+Wärmepumpen,2040,3.1032400000000036,WWB,KKW50,PJ
+Wärmepumpen,2041,3.1529160000000034,WWB,KKW50,PJ
+Wärmepumpen,2042,3.2025920000000037,WWB,KKW50,PJ
+Wärmepumpen,2043,3.2522680000000044,WWB,KKW50,PJ
+Wärmepumpen,2044,3.301944000000004,WWB,KKW50,PJ
+Wärmepumpen,2045,3.3516200000000045,WWB,KKW50,PJ
+Wärmepumpen,2046,3.4012960000000043,WWB,KKW50,PJ
+Wärmepumpen,2047,3.4509720000000046,WWB,KKW50,PJ
+Wärmepumpen,2048,3.5006480000000053,WWB,KKW50,PJ
+Wärmepumpen,2049,3.550324000000005,WWB,KKW50,PJ
+Wärmepumpen,2050,3.6,WWB,KKW50,PJ
+Wärmepumpen,2051,3.6,WWB,KKW50,PJ
+Wärmepumpen,2052,3.6,WWB,KKW50,PJ
+Wärmepumpen,2053,3.6,WWB,KKW50,PJ
+Wärmepumpen,2054,3.6,WWB,KKW50,PJ
+Wärmepumpen,2055,3.6,WWB,KKW50,PJ
+Wärmepumpen,2056,3.6,WWB,KKW50,PJ
+Wärmepumpen,2057,3.6,WWB,KKW50,PJ
+Wärmepumpen,2058,3.6,WWB,KKW50,PJ
+Wärmepumpen,2059,3.6,WWB,KKW50,PJ
+Wärmepumpen,2060,3.6,WWB,KKW50,PJ
+Geothermieanlagen,2000,0.0,WWB,KKW50,PJ
+Geothermieanlagen,2001,0.0,WWB,KKW50,PJ
+Geothermieanlagen,2002,0.0,WWB,KKW50,PJ
+Geothermieanlagen,2003,0.0,WWB,KKW50,PJ
+Geothermieanlagen,2004,0.0,WWB,KKW50,PJ
+Geothermieanlagen,2005,0.0,WWB,KKW50,PJ
+Geothermieanlagen,2006,0.039725731197490975,WWB,KKW50,PJ
+Geothermieanlagen,2007,0.07925174233439251,WWB,KKW50,PJ
+Geothermieanlagen,2008,0.11861706880920321,WWB,KKW50,PJ
+Geothermieanlagen,2009,0.1577792490959496,WWB,KKW50,PJ
+Geothermieanlagen,2010,0.19699760755739887,WWB,KKW50,PJ
+Geothermieanlagen,2011,0.23563145461527948,WWB,KKW50,PJ
+Geothermieanlagen,2012,0.2745148985003473,WWB,KKW50,PJ
+Geothermieanlagen,2013,0.31341102630020673,WWB,KKW50,PJ
+Geothermieanlagen,2014,0.35121149963951565,WWB,KKW50,PJ
+Geothermieanlagen,2015,0.39039406161511914,WWB,KKW50,PJ
+Geothermieanlagen,2016,0.4291302604511134,WWB,KKW50,PJ
+Geothermieanlagen,2017,0.4675144499270661,WWB,KKW50,PJ
+Geothermieanlagen,2018,0.5061063037915794,WWB,KKW50,PJ
+Geothermieanlagen,2019,0.5259041639349773,WWB,KKW50,PJ
+Geothermieanlagen,2020,0.477828,WWB,KKW50,PJ
+Geothermieanlagen,2021,0.477828,WWB,KKW50,PJ
+Geothermieanlagen,2022,0.5750279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2023,0.5750279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2024,0.5750279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2025,0.6650280000000001,WWB,KKW50,PJ
+Geothermieanlagen,2026,0.6650280000000001,WWB,KKW50,PJ
+Geothermieanlagen,2027,0.6650280000000001,WWB,KKW50,PJ
+Geothermieanlagen,2028,0.6650280000000001,WWB,KKW50,PJ
+Geothermieanlagen,2029,0.6650280000000001,WWB,KKW50,PJ
+Geothermieanlagen,2030,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2031,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2032,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2033,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2034,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2035,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2036,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2037,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2038,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2039,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2040,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2041,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2042,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2043,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2044,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2045,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2046,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2047,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2048,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2049,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2050,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2051,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2052,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2053,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2054,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2055,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2056,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2057,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2058,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2059,0.8306279999999999,WWB,KKW50,PJ
+Geothermieanlagen,2060,0.8306279999999999,WWB,KKW50,PJ
+Biomasseanlagen,2000,0.05,WWB,KKW50,PJ
+Biomasseanlagen,2001,0.049999999999999996,WWB,KKW50,PJ
+Biomasseanlagen,2002,0.03,WWB,KKW50,PJ
+Biomasseanlagen,2003,0.02,WWB,KKW50,PJ
+Biomasseanlagen,2004,0.02,WWB,KKW50,PJ
+Biomasseanlagen,2005,0.020000000000000004,WWB,KKW50,PJ
+Biomasseanlagen,2006,0.009976576809435441,WWB,KKW50,PJ
+Biomasseanlagen,2007,0.019902996643409557,WWB,KKW50,PJ
+Biomasseanlagen,2008,0.0,WWB,KKW50,PJ
+Biomasseanlagen,2009,0.0,WWB,KKW50,PJ
+Biomasseanlagen,2010,0.0,WWB,KKW50,PJ
+Biomasseanlagen,2011,0.0,WWB,KKW50,PJ
+Biomasseanlagen,2012,0.0,WWB,KKW50,PJ
+Biomasseanlagen,2013,0.0,WWB,KKW50,PJ
+Biomasseanlagen,2014,0.0,WWB,KKW50,PJ
+Biomasseanlagen,2015,0.0,WWB,KKW50,PJ
+Biomasseanlagen,2016,0.0,WWB,KKW50,PJ
+Biomasseanlagen,2017,0.0,WWB,KKW50,PJ
+Biomasseanlagen,2018,3.8217069622631383,WWB,KKW50,PJ
+Biomasseanlagen,2019,3.9712044480306616,WWB,KKW50,PJ
+Biomasseanlagen,2020,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2021,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2022,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2023,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2024,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2025,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2026,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2027,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2028,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2029,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2030,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2031,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2032,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2033,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2034,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2035,3.608172,WWB,KKW50,PJ
+Biomasseanlagen,2036,3.5356272,WWB,KKW50,PJ
+Biomasseanlagen,2037,3.4630824000000002,WWB,KKW50,PJ
+Biomasseanlagen,2038,3.3905376000000005,WWB,KKW50,PJ
+Biomasseanlagen,2039,3.3179928000000003,WWB,KKW50,PJ
+Biomasseanlagen,2040,3.245448000000001,WWB,KKW50,PJ
+Biomasseanlagen,2041,3.172903200000001,WWB,KKW50,PJ
+Biomasseanlagen,2042,3.100358400000001,WWB,KKW50,PJ
+Biomasseanlagen,2043,3.027813600000001,WWB,KKW50,PJ
+Biomasseanlagen,2044,2.955268800000001,WWB,KKW50,PJ
+Biomasseanlagen,2045,2.882724000000001,WWB,KKW50,PJ
+Biomasseanlagen,2046,2.8101792000000017,WWB,KKW50,PJ
+Biomasseanlagen,2047,2.7376344000000015,WWB,KKW50,PJ
+Biomasseanlagen,2048,2.6650896000000017,WWB,KKW50,PJ
+Biomasseanlagen,2049,2.5925448000000015,WWB,KKW50,PJ
+Biomasseanlagen,2050,2.52,WWB,KKW50,PJ
+Biomasseanlagen,2051,2.52,WWB,KKW50,PJ
+Biomasseanlagen,2052,2.52,WWB,KKW50,PJ
+Biomasseanlagen,2053,2.52,WWB,KKW50,PJ
+Biomasseanlagen,2054,2.52,WWB,KKW50,PJ
+Biomasseanlagen,2055,2.52,WWB,KKW50,PJ
+Biomasseanlagen,2056,2.52,WWB,KKW50,PJ
+Biomasseanlagen,2057,2.52,WWB,KKW50,PJ
+Biomasseanlagen,2058,2.52,WWB,KKW50,PJ
+Biomasseanlagen,2059,2.52,WWB,KKW50,PJ
+Biomasseanlagen,2060,2.52,WWB,KKW50,PJ
+Biogasanlagen,2000,0.0,WWB,KKW50,PJ
+Biogasanlagen,2001,0.0,WWB,KKW50,PJ
+Biogasanlagen,2002,0.0,WWB,KKW50,PJ
+Biogasanlagen,2003,0.0,WWB,KKW50,PJ
+Biogasanlagen,2004,0.0,WWB,KKW50,PJ
+Biogasanlagen,2005,0.0,WWB,KKW50,PJ
+Biogasanlagen,2006,0.0,WWB,KKW50,PJ
+Biogasanlagen,2007,0.0,WWB,KKW50,PJ
+Biogasanlagen,2008,0.0,WWB,KKW50,PJ
+Biogasanlagen,2009,0.0,WWB,KKW50,PJ
+Biogasanlagen,2010,0.0,WWB,KKW50,PJ
+Biogasanlagen,2011,0.0,WWB,KKW50,PJ
+Biogasanlagen,2012,0.0,WWB,KKW50,PJ
+Biogasanlagen,2013,0.0,WWB,KKW50,PJ
+Biogasanlagen,2014,0.0,WWB,KKW50,PJ
+Biogasanlagen,2015,0.0,WWB,KKW50,PJ
+Biogasanlagen,2016,0.0,WWB,KKW50,PJ
+Biogasanlagen,2017,0.0,WWB,KKW50,PJ
+Biogasanlagen,2018,0.0,WWB,KKW50,PJ
+Biogasanlagen,2019,0.0,WWB,KKW50,PJ
+Biogasanlagen,2020,0.0,WWB,KKW50,PJ
+Biogasanlagen,2021,0.0,WWB,KKW50,PJ
+Biogasanlagen,2022,0.0,WWB,KKW50,PJ
+Biogasanlagen,2023,0.0,WWB,KKW50,PJ
+Biogasanlagen,2024,0.0,WWB,KKW50,PJ
+Biogasanlagen,2025,0.0,WWB,KKW50,PJ
+Biogasanlagen,2026,0.0,WWB,KKW50,PJ
+Biogasanlagen,2027,0.0,WWB,KKW50,PJ
+Biogasanlagen,2028,0.0,WWB,KKW50,PJ
+Biogasanlagen,2029,0.0,WWB,KKW50,PJ
+Biogasanlagen,2030,0.0,WWB,KKW50,PJ
+Biogasanlagen,2031,0.0,WWB,KKW50,PJ
+Biogasanlagen,2032,0.0,WWB,KKW50,PJ
+Biogasanlagen,2033,0.0,WWB,KKW50,PJ
+Biogasanlagen,2034,0.0,WWB,KKW50,PJ
+Biogasanlagen,2035,0.0,WWB,KKW50,PJ
+Biogasanlagen,2036,0.0,WWB,KKW50,PJ
+Biogasanlagen,2037,0.0,WWB,KKW50,PJ
+Biogasanlagen,2038,0.0,WWB,KKW50,PJ
+Biogasanlagen,2039,0.0,WWB,KKW50,PJ
+Biogasanlagen,2040,0.0,WWB,KKW50,PJ
+Biogasanlagen,2041,0.0,WWB,KKW50,PJ
+Biogasanlagen,2042,0.0,WWB,KKW50,PJ
+Biogasanlagen,2043,0.0,WWB,KKW50,PJ
+Biogasanlagen,2044,0.0,WWB,KKW50,PJ
+Biogasanlagen,2045,0.0,WWB,KKW50,PJ
+Biogasanlagen,2046,0.0,WWB,KKW50,PJ
+Biogasanlagen,2047,0.0,WWB,KKW50,PJ
+Biogasanlagen,2048,0.0,WWB,KKW50,PJ
+Biogasanlagen,2049,0.0,WWB,KKW50,PJ
+Biogasanlagen,2050,0.0,WWB,KKW50,PJ
+Biogasanlagen,2051,0.0,WWB,KKW50,PJ
+Biogasanlagen,2052,0.0,WWB,KKW50,PJ
+Biogasanlagen,2053,0.0,WWB,KKW50,PJ
+Biogasanlagen,2054,0.0,WWB,KKW50,PJ
+Biogasanlagen,2055,0.0,WWB,KKW50,PJ
+Biogasanlagen,2056,0.0,WWB,KKW50,PJ
+Biogasanlagen,2057,0.0,WWB,KKW50,PJ
+Biogasanlagen,2058,0.0,WWB,KKW50,PJ
+Biogasanlagen,2059,0.0,WWB,KKW50,PJ
+Biogasanlagen,2060,0.0,WWB,KKW50,PJ
+Sonstige,2000,0.0,WWB,KKW50,PJ
+Sonstige,2001,0.0,WWB,KKW50,PJ
+Sonstige,2002,0.0,WWB,KKW50,PJ
+Sonstige,2003,0.0,WWB,KKW50,PJ
+Sonstige,2004,0.0,WWB,KKW50,PJ
+Sonstige,2005,0.0,WWB,KKW50,PJ
+Sonstige,2006,0.0,WWB,KKW50,PJ
+Sonstige,2007,0.0,WWB,KKW50,PJ
+Sonstige,2008,0.0,WWB,KKW50,PJ
+Sonstige,2009,0.0,WWB,KKW50,PJ
+Sonstige,2010,0.0,WWB,KKW50,PJ
+Sonstige,2011,0.0,WWB,KKW50,PJ
+Sonstige,2012,0.0,WWB,KKW50,PJ
+Sonstige,2013,0.0,WWB,KKW50,PJ
+Sonstige,2014,0.0,WWB,KKW50,PJ
+Sonstige,2015,0.0,WWB,KKW50,PJ
+Sonstige,2016,0.0,WWB,KKW50,PJ
+Sonstige,2017,0.0,WWB,KKW50,PJ
+Sonstige,2018,2.9183188398017426,WWB,KKW50,PJ
+Sonstige,2019,3.032477600147931,WWB,KKW50,PJ
+Sonstige,2020,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2021,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2022,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2023,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2024,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2025,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2026,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2027,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2028,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2029,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2030,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2031,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2032,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2033,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2034,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2035,2.7552600000000003,WWB,KKW50,PJ
+Sonstige,2036,2.70726,WWB,KKW50,PJ
+Sonstige,2037,2.65926,WWB,KKW50,PJ
+Sonstige,2038,2.61126,WWB,KKW50,PJ
+Sonstige,2039,2.56326,WWB,KKW50,PJ
+Sonstige,2040,2.51526,WWB,KKW50,PJ
+Sonstige,2041,2.4672600000000005,WWB,KKW50,PJ
+Sonstige,2042,2.4192600000000004,WWB,KKW50,PJ
+Sonstige,2043,2.371260000000001,WWB,KKW50,PJ
+Sonstige,2044,2.3232600000000008,WWB,KKW50,PJ
+Sonstige,2045,2.275260000000001,WWB,KKW50,PJ
+Sonstige,2046,2.227260000000001,WWB,KKW50,PJ
+Sonstige,2047,2.179260000000001,WWB,KKW50,PJ
+Sonstige,2048,2.131260000000001,WWB,KKW50,PJ
+Sonstige,2049,2.083260000000001,WWB,KKW50,PJ
+Sonstige,2050,2.03526,WWB,KKW50,PJ
+Sonstige,2051,2.03526,WWB,KKW50,PJ
+Sonstige,2052,2.03526,WWB,KKW50,PJ
+Sonstige,2053,2.03526,WWB,KKW50,PJ
+Sonstige,2054,2.03526,WWB,KKW50,PJ
+Sonstige,2055,2.03526,WWB,KKW50,PJ
+Sonstige,2056,2.03526,WWB,KKW50,PJ
+Sonstige,2057,2.03526,WWB,KKW50,PJ
+Sonstige,2058,2.03526,WWB,KKW50,PJ
+Sonstige,2059,2.03526,WWB,KKW50,PJ
+Sonstige,2060,2.03526,WWB,KKW50,PJ
+Summe,2000,14.290000000000001,WWB,KKW50,PJ
+Summe,2001,15.349999999999996,WWB,KKW50,PJ
+Summe,2002,14.97,WWB,KKW50,PJ
+Summe,2003,15.98,WWB,KKW50,PJ
+Summe,2004,16.52,WWB,KKW50,PJ
+Summe,2005,16.67,WWB,KKW50,PJ
+Summe,2006,16.96,WWB,KKW50,PJ
+Summe,2007,16.34,WWB,KKW50,PJ
+Summe,2008,16.87,WWB,KKW50,PJ
+Summe,2009,16.79,WWB,KKW50,PJ
+Summe,2010,18.700000000000003,WWB,KKW50,PJ
+Summe,2011,17.15,WWB,KKW50,PJ
+Summe,2012,18.14,WWB,KKW50,PJ
+Summe,2013,19.419999999999998,WWB,KKW50,PJ
+Summe,2014,17.58,WWB,KKW50,PJ
+Summe,2015,19.94,WWB,KKW50,PJ
+Summe,2016,21.169999999999998,WWB,KKW50,PJ
+Summe,2017,21.660000000000004,WWB,KKW50,PJ
+Summe,2018,21.310000000000002,WWB,KKW50,PJ
+Summe,2019,23.569999999999997,WWB,KKW50,PJ
+Summe,2020,22.381344207057037,WWB,KKW50,PJ
+Summe,2021,22.836796097776386,WWB,KKW50,PJ
+Summe,2022,23.1082736854858,WWB,KKW50,PJ
+Summe,2023,23.33129031094364,WWB,KKW50,PJ
+Summe,2024,23.522250596242166,WWB,KKW50,PJ
+Summe,2025,23.62780311203397,WWB,KKW50,PJ
+Summe,2026,23.73076484698109,WWB,KKW50,PJ
+Summe,2027,23.913805349274643,WWB,KKW50,PJ
+Summe,2028,23.96271775370995,WWB,KKW50,PJ
+Summe,2029,23.970493044311546,WWB,KKW50,PJ
+Summe,2030,23.98809403531913,WWB,KKW50,PJ
+Summe,2031,24.004910587619968,WWB,KKW50,PJ
+Summe,2032,23.957703570430205,WWB,KKW50,PJ
+Summe,2033,23.93478545589571,WWB,KKW50,PJ
+Summe,2034,23.848556319736318,WWB,KKW50,PJ
+Summe,2035,23.79721798366299,WWB,KKW50,PJ
+Summe,2036,23.70555532335482,WWB,KKW50,PJ
+Summe,2037,23.702228835530615,WWB,KKW50,PJ
+Summe,2038,23.63759359396144,WWB,KKW50,PJ
+Summe,2039,23.589835418414992,WWB,KKW50,PJ
+Summe,2040,23.559313705490652,WWB,KKW50,PJ
+Summe,2041,23.570483398840718,WWB,KKW50,PJ
+Summe,2042,23.515756134221782,WWB,KKW50,PJ
+Summe,2043,23.444469688159298,WWB,KKW50,PJ
+Summe,2044,23.40164139281347,WWB,KKW50,PJ
+Summe,2045,23.421513698805256,WWB,KKW50,PJ
+Summe,2046,23.44078469755531,WWB,KKW50,PJ
+Summe,2047,23.42573992758117,WWB,KKW50,PJ
+Summe,2048,23.443134140293914,WWB,KKW50,PJ
+Summe,2049,23.43791554919187,WWB,KKW50,PJ
+Summe,2050,23.475816490662424,WWB,KKW50,PJ
+Summe,2051,23.559628976581866,WWB,KKW50,PJ
+Summe,2052,23.573326610553217,WWB,KKW50,PJ
+Summe,2053,23.725317513024006,WWB,KKW50,PJ
+Summe,2054,23.779397111721654,WWB,KKW50,PJ
+Summe,2055,23.720665211867008,WWB,KKW50,PJ
+Summe,2056,23.69777241297323,WWB,KKW50,PJ
+Summe,2057,23.70260568285542,WWB,KKW50,PJ
+Summe,2058,23.707370290558615,WWB,KKW50,PJ
+Summe,2059,23.784116788134263,WWB,KKW50,PJ
+Summe,2060,23.751755841081632,WWB,KKW50,PJ

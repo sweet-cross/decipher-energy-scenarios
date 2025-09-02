@@ -1,0 +1,1641 @@
+variable,unit,year,value,scenario,variant
+H2-Erzeugung im Inland,PJ,2020,0.013496341901065667,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2021,0.11635935629726987,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2022,0.20808180279559507,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2023,0.323106381846034,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2024,0.4621033389625942,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2025,0.6261023526382521,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2026,0.8193842951675585,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2027,1.0278851672506717,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2028,1.2501042900921524,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2029,1.4840337014474567,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2030,1.7273049818111845,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2031,2.0388735767658677,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2032,2.4021484651552334,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2033,2.8150510733769964,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2034,3.276727775510898,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2035,3.7868493713691365,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2036,4.172647633278935,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2037,4.341659980813679,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2038,4.977405111559224,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2039,4.857438745921508,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2040,5.779516530769908,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2041,4.616337967401155,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2042,6.330242223877512,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2043,5.28762768449471,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2044,5.385341942336537,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2045,6.725334173529962,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2046,5.5938333869721255,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2047,6.956086888730443,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2048,5.992936048964953,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2049,6.596502963127683,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2050,6.779358979757602,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2051,6.300560639013785,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2052,7.389604474627348,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2053,7.3807339714393665,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2054,6.543810606060172,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2055,8.18660077797852,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2056,7.913897250710694,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2057,7.99649388441793,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2058,7.926657519606212,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2059,8.557444105177293,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2060,9.386101852803076,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2020,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2021,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2022,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2023,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2024,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2025,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2026,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2027,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2028,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2029,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2030,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2031,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2032,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2033,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2034,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2035,1.0,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2036,0.9493063666650386,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2037,0.8595598740162076,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2038,0.864482749743941,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2039,0.7457299404705641,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2040,0.7898269213376355,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2041,0.5683523371904172,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2042,0.7085246641441713,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2043,0.5421574486999163,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2044,0.5092141338301722,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2045,0.5899151851852142,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2046,0.45735628376066206,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2047,0.5325881854903696,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2048,0.4318571320294104,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2049,0.4493076305980914,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2050,0.43822043820049666,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2051,0.38773687825694503,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2052,0.43443809661530813,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2053,0.41584443776922186,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2054,0.35436918453943667,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2055,0.4272498214553435,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2056,0.39807443111746443,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2057,0.3879138409972295,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2058,0.3710047406193663,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2059,0.3865760119560564,ZERO-Basis,KKW50
+Anteil inl. Erzeugung,%,2060,0.409343543333753,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2020,0.0063648295697937415,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2021,0.054411475717583445,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2022,0.09715155975448193,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2023,0.15151823549400212,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2024,0.21487286044527526,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2025,0.2905863898495261,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2026,0.37970835556377724,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2027,0.4845579988202497,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2028,0.5771534258351468,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2029,0.6836577072434056,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2030,0.7945158650646742,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2031,0.9382620665503222,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2032,1.1030327934476576,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2033,1.286845846689394,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2034,1.478322908133389,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2035,1.3560996939016092,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2036,1.400253776915202,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2037,1.4422282074087602,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2038,1.8962831237991111,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2039,1.896152130235682,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2040,2.431874942983194,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2041,1.9582506137438143,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2042,2.747030278708051,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2043,2.295958480894154,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2044,2.1601271922972134,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2045,2.9607719305849973,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2046,2.45402013300921,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2047,3.0644830505993883,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2048,2.6327050385634974,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2049,2.843301988333251,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2050,2.9382162389877733,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2051,2.72050476766983,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2052,3.221780357964372,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2053,3.21080936270416,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2054,2.840455822542418,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2055,3.5457277508724543,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2056,3.420099455131697,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2057,3.4482328114280665,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2058,3.4106549676791786,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2059,3.674045718940316,ZERO-Basis,KKW50
+Stromverbrauch Elektrolyseure,TWh,2060,4.021060445925491,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2020,0.00209094269704141,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2021,0.017993212869571548,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2022,0.0321162181006568,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2023,0.049776030057164716,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2024,0.07105584009433148,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2025,0.09609338288674316,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2026,0.125523423326871,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2027,0.15717093701598311,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2028,0.1907945209372368,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2029,0.2260772841413462,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2030,0.26264987274865537,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2031,0.30945318817621187,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2032,0.363917120899901,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2033,0.42568503033059146,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2034,0.49458779127911623,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2035,0.9877315461395308,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2036,0.9877315461395308,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2037,0.9776010742904655,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2038,1.1187051026284265,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2039,1.1187051026284265,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2040,1.2942614291633217,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2041,1.2942614291633217,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2042,1.411176169968471,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2043,1.411176169968471,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2044,1.1951254340500603,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2045,1.4891451548280574,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2046,1.4891451548280574,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2047,1.5333477138767477,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2048,1.5333477138767477,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2049,1.4476067378623185,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2050,1.4844285291972943,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2051,1.4844285291972943,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2052,1.6108901789821857,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2053,1.6108901789821857,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2054,1.6108901789821857,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2055,1.772863875436227,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2056,1.772863875436227,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2057,1.7241164057140332,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2058,1.7241164057140332,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2059,1.8370228594701576,ZERO-Basis,KKW50
+Installierte Leistung Elektrolyseure,GW,2060,2.0105302229627453,ZERO-Basis,KKW50
+H2-Erzeugung im Inland,PJ,2020,0.013497310317786039,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2021,0.047982941830646525,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2022,0.09173555799328464,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2023,0.14507175385379772,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2024,0.20827665988175717,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2025,0.28188880945488143,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2026,0.8057681249178841,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2027,1.0039056267633828,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2028,1.215854421649474,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2029,1.439847792956537,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2030,1.6736766242484868,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2031,1.9781279173902333,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2032,2.3362657054320577,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2033,2.74580315653005,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2034,3.205600672931027,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2035,3.7151333586014523,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2036,4.172647633278935,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2037,4.341659980813679,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2038,4.977405111559224,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2039,4.857438745921508,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2040,5.779516530769908,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2041,4.616337967401155,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2042,6.330242223877512,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2043,5.28762768449471,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2044,5.385341942336537,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2045,6.725334173529962,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2046,5.5938333869721255,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2047,6.956086888730443,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2048,5.992936048964953,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2049,6.596502963127683,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2050,6.779358979757602,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2051,6.300560639013785,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2052,7.389604474627348,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2053,7.3807339714393665,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2054,6.543810606060172,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2055,8.18660077797852,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2056,7.913897250710694,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2057,7.99649388441793,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2058,7.926657519606212,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2059,8.557444105177293,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2060,9.386101852803076,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2020,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2021,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2022,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2023,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2024,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2025,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2026,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2027,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2028,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2029,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2030,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2031,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2032,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2033,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2034,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2035,1.0,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2036,0.967250525718215,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2037,0.8754915129713621,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2038,0.8803108718685934,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2039,0.7593605372163835,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2040,0.8044356639109355,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2041,0.5811850563638251,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2042,0.7290483094994384,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2043,0.5618307449402609,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2044,0.5317953105645469,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2045,0.6212416071690294,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2046,0.48751395532069,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2047,0.5753326639404616,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2048,0.47336919235529756,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2049,0.5002868889672184,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2050,0.4961350476838884,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2051,0.4461038686886173,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2052,0.507849144135432,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2053,0.4938107524584674,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2054,0.4273767050959384,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2055,0.523145059291498,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2056,0.4970491950312408,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2057,0.49406232624230306,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2058,0.48206408302875403,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2059,0.5124528704280631,ZERO-A,KKW50
+Anteil inl. Erzeugung,%,2060,0.5535886131128763,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2020,0.0063648295697937415,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2021,0.054411475717583445,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2022,0.09715155975448193,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2023,0.15151823549400212,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2024,0.21487286044527526,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2025,0.2905863898495261,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2026,0.37970835556377724,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2027,0.4845579988202497,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2028,0.5771534258351468,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2029,0.6836577072434056,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2030,0.7945158650646742,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2031,0.9382620665503222,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2032,1.1030327934476576,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2033,1.286845846689394,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2034,1.478322908133389,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2035,1.5504378787526103,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2036,1.4647448078743297,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2037,1.4422282074087602,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2038,1.8962831237991111,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2039,1.896152130235682,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2040,2.431874942983194,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2041,1.9582506137438143,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2042,2.747030278708051,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2043,2.295958480894154,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2044,2.1601271922972134,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2045,2.9607719305849973,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2046,2.45402013300921,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2047,3.0644830505993883,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2048,2.6327050385634974,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2049,2.843301988333251,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2050,2.9382162389877733,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2051,2.72050476766983,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2052,3.221780357964372,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2053,3.21080936270416,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2054,2.840455822542418,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2055,3.5457277508724543,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2056,3.420099455131697,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2057,3.4482328114280665,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2058,3.4106549676791786,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2059,3.674045718940316,ZERO-A,KKW50
+Stromverbrauch Elektrolyseure,TWh,2060,4.021060445925491,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2020,0.00209094269704141,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2021,0.017993212869571548,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2022,0.0321162181006568,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2023,0.049776030057164716,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2024,0.07105584009433148,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2025,0.09609338288674316,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2026,0.125523423326871,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2027,0.15717093701598311,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2028,0.1907945209372368,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2029,0.2260772841413462,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2030,0.26264987274865537,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2031,0.30945318817621187,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2032,0.363917120899901,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2033,0.42568503033059146,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2034,0.49458779127911623,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2035,0.9877315461395308,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2036,0.9877315461395308,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2037,0.9776010742904655,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2038,1.1187051026284265,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2039,1.1187051026284265,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2040,1.2942614291633217,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2041,1.2942614291633217,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2042,1.411176169968471,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2043,1.411176169968471,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2044,1.1951254340500603,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2045,1.4891451548280574,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2046,1.4891451548280574,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2047,1.5333477138767477,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2048,1.5333477138767477,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2049,1.4476067378623185,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2050,1.4844285291972943,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2051,1.4844285291972943,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2052,1.6108901789821857,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2053,1.6108901789821857,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2054,1.6108901789821857,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2055,1.772863875436227,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2056,1.772863875436227,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2057,1.7241164057140332,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2058,1.7241164057140332,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2059,1.8370228594701576,ZERO-A,KKW50
+Installierte Leistung Elektrolyseure,GW,2060,2.0105302229627453,ZERO-A,KKW50
+H2-Erzeugung im Inland,PJ,2020,0.013852249547498325,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2021,0.047729991357579764,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2022,0.09066924855782099,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2023,0.14297658799191687,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2024,0.2049251737115843,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2025,0.2770388105660843,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2026,0.8295004098026316,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2027,1.0628257457605756,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2028,1.3135593315851577,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2029,1.579826283870259,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2030,1.8595352471702817,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2031,2.2237783208758097,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2032,2.657235893451019,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2033,3.1577542518434925,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2034,3.7238430742452104,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2035,4.354445274096099,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2036,4.172647633278935,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2037,4.341659980813679,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2038,4.977405111559224,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2039,4.857438745921508,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2040,5.779516530769908,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2041,4.616337967401155,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2042,6.330242223877512,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2043,5.28762768449471,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2044,5.385341942336537,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2045,6.725334173529962,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2046,5.5938333869721255,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2047,6.956086888730443,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2048,5.992936048964953,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2049,6.596502963127683,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2050,6.779358979757602,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2051,6.300560639013785,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2052,7.389604474627348,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2053,7.3807339714393665,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2054,6.543810606060172,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2055,8.18660077797852,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2056,7.913897250710694,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2057,7.99649388441793,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2058,7.926657519606212,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2059,8.557444105177293,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2060,9.386101852803076,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2020,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2021,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2022,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2023,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2024,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2025,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2026,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2027,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2028,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2029,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2030,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2031,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2032,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2033,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2034,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2035,1.0,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2036,0.8117788098030436,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2037,0.7230600227223745,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2038,0.7160193835397275,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2039,0.6088509293762939,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2040,0.6363825661968578,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2041,0.4535284562264126,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2042,0.5609375410202291,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2043,0.42627139915472856,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2044,0.3979760708771213,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2045,0.4586727677374139,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2046,0.35389979754068346,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2047,0.41033021136589537,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2048,0.33142051553403634,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2049,0.3435931387996081,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2050,0.33404267677158306,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2051,0.2948228874322232,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2052,0.3296540151680388,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2053,0.3150183881544465,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2054,0.26808746490174895,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2055,0.322880704447237,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2056,0.30092940625274595,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2057,0.2937372985556813,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2058,0.281744748759385,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2059,0.2947340553886236,ZERO-B,KKW50
+Anteil inl. Erzeugung,%,2060,0.31361793210977273,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2020,0.0063648295697937415,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2021,0.054411475717583445,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2022,0.09715155975448193,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2023,0.15151823549400212,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2024,0.21487286044527526,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2025,0.2905863898495261,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2026,0.37970835556377724,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2027,0.4845579988202497,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2028,0.5771534258351468,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2029,0.6836577072434056,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2030,0.7945158650646742,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2031,0.9382620665503222,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2032,1.1030327934476576,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2033,1.286845846689394,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2034,1.478322908133389,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2035,1.5504378787526103,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2036,1.4647448078743297,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2037,1.4422282074087602,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2038,1.8962831237991111,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2039,1.896152130235682,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2040,2.431874942983194,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2041,1.9582506137438143,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2042,2.747030278708051,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2043,2.295958480894154,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2044,2.1601271922972134,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2045,2.9607719305849973,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2046,2.45402013300921,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2047,3.0644830505993883,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2048,2.6327050385634974,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2049,2.843301988333251,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2050,2.9382162389877733,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2051,2.72050476766983,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2052,3.221780357964372,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2053,3.21080936270416,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2054,2.840455822542418,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2055,3.5457277508724543,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2056,3.420099455131697,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2057,3.4482328114280665,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2058,3.4106549676791786,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2059,3.674045718940316,ZERO-B,KKW50
+Stromverbrauch Elektrolyseure,TWh,2060,4.021060445925491,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2020,0.00209094269704141,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2021,0.017993212869571548,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2022,0.0321162181006568,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2023,0.049776030057164716,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2024,0.07105584009433148,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2025,0.09609338288674316,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2026,0.125523423326871,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2027,0.15717093701598311,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2028,0.1907945209372368,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2029,0.2260772841413462,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2030,0.26264987274865537,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2031,0.30945318817621187,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2032,0.363917120899901,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2033,0.42568503033059146,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2034,0.49458779127911623,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2035,0.9877315461395308,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2036,0.9877315461395308,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2037,0.9776010742904655,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2038,1.1187051026284265,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2039,1.1187051026284265,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2040,1.2942614291633217,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2041,1.2942614291633217,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2042,1.411176169968471,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2043,1.411176169968471,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2044,1.1951254340500603,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2045,1.4891451548280574,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2046,1.4891451548280574,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2047,1.5333477138767477,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2048,1.5333477138767477,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2049,1.4476067378623185,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2050,1.4844285291972943,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2051,1.4844285291972943,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2052,1.6108901789821857,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2053,1.6108901789821857,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2054,1.6108901789821857,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2055,1.772863875436227,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2056,1.772863875436227,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2057,1.7241164057140332,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2058,1.7241164057140332,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2059,1.8370228594701576,ZERO-B,KKW50
+Installierte Leistung Elektrolyseure,GW,2060,2.0105302229627453,ZERO-B,KKW50
+H2-Erzeugung im Inland,PJ,2020,0.013500136325158707,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2021,0.030278480444566724,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2022,0.05210349936020225,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2023,0.07924784777862463,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2024,0.11190298866030875,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2025,0.15048030014778235,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2026,0.19787175933434265,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2027,0.24854112022735567,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2028,0.30197987895501827,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2029,0.357648518814259,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2030,0.41497480692716393,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2031,0.48906748836156727,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2032,0.5705498283757073,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2033,0.6585273326706091,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2034,0.7525352584485223,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2035,0.8522902536037066,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2036,4.172647633278935,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2037,4.341659980813679,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2038,4.977405111559224,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2039,4.857438745921508,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2040,5.779516530769908,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2041,4.616337967401155,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2042,6.330242223877512,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2043,5.28762768449471,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2044,5.385341942336537,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2045,6.725334173529962,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2046,5.5938333869721255,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2047,6.956086888730443,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2048,5.992936048964953,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2049,6.596502963127683,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2050,6.779358979757602,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2051,6.300560639013785,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2052,7.389604474627348,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2053,7.3807339714393665,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2054,6.543810606060172,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2055,8.18660077797852,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2056,7.913897250710694,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2057,7.99649388441793,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2058,7.926657519606212,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2059,8.557444105177293,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2060,9.386101852803076,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2020,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2021,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2022,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2023,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2024,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2025,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2026,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2027,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2028,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2029,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2030,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2031,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2032,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2033,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2034,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2035,1.0,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2036,4.325169634613177,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2037,4.013471321180532,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2038,4.134461555572384,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2039,3.651061179335172,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2040,3.9564395645834995,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2041,2.859063940064199,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2042,3.5851901993438067,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2043,2.7629492921866836,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2044,2.6158274664632226,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2045,3.056231962743566,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2046,2.3920247315720986,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2047,2.8133360640896994,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2048,2.3040666847724087,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2049,2.4215708985449917,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2050,2.3858978190734357,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2051,2.1197540396512835,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2052,2.3838596520244257,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2053,2.2892571190806037,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2054,1.9562233000470937,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2055,2.363776542765436,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2056,2.201473095051563,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2057,2.1404960993192215,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2058,2.039203863883313,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2059,2.1132802443543133,ZERO-C,KKW50
+Anteil inl. Erzeugung,%,2060,2.2225998835882734,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2020,0.0063648295697937415,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2021,0.054411475717583445,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2022,0.09715155975448193,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2023,0.15151823549400212,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2024,0.21487286044527526,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2025,0.2905863898495261,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2026,0.37970835556377724,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2027,0.4845579988202497,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2028,0.5771534258351468,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2029,0.6836577072434056,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2030,0.7945158650646742,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2031,0.9382620665503222,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2032,1.1030327934476576,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2033,1.286845846689394,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2034,1.478322908133389,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2035,1.5504378787526103,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2036,1.4647448078743297,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2037,1.4422282074087602,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2038,1.8962831237991111,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2039,1.896152130235682,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2040,2.431874942983194,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2041,1.9582506137438143,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2042,2.747030278708051,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2043,2.295958480894154,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2044,2.1601271922972134,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2045,2.9607719305849973,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2046,2.45402013300921,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2047,3.0644830505993883,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2048,2.6327050385634974,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2049,2.843301988333251,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2050,2.9382162389877733,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2051,2.72050476766983,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2052,3.221780357964372,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2053,3.21080936270416,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2054,2.840455822542418,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2055,3.5457277508724543,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2056,3.420099455131697,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2057,3.4482328114280665,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2058,3.4106549676791786,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2059,3.674045718940316,ZERO-C,KKW50
+Stromverbrauch Elektrolyseure,TWh,2060,4.021060445925491,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2020,0.00209094269704141,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2021,0.017993212869571548,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2022,0.0321162181006568,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2023,0.049776030057164716,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2024,0.07105584009433148,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2025,0.09609338288674316,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2026,0.125523423326871,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2027,0.15717093701598311,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2028,0.1907945209372368,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2029,0.2260772841413462,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2030,0.26264987274865537,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2031,0.30945318817621187,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2032,0.363917120899901,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2033,0.42568503033059146,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2034,0.49458779127911623,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2035,0.9877315461395308,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2036,0.9877315461395308,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2037,0.9776010742904655,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2038,1.1187051026284265,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2039,1.1187051026284265,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2040,1.2942614291633217,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2041,1.2942614291633217,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2042,1.411176169968471,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2043,1.411176169968471,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2044,1.1951254340500603,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2045,1.4891451548280574,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2046,1.4891451548280574,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2047,1.5333477138767477,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2048,1.5333477138767477,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2049,1.4476067378623185,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2050,1.4844285291972943,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2051,1.4844285291972943,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2052,1.6108901789821857,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2053,1.6108901789821857,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2054,1.6108901789821857,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2055,1.772863875436227,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2056,1.772863875436227,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2057,1.7241164057140332,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2058,1.7241164057140332,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2059,1.8370228594701576,ZERO-C,KKW50
+Installierte Leistung Elektrolyseure,GW,2060,2.0105302229627453,ZERO-C,KKW50
+H2-Erzeugung im Inland,PJ,2020,0.0103943674154704,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2021,0.0178576139562641,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2022,0.02727534346401376,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2023,0.03874045299718951,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2024,0.05092426424875459,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2025,0.25634941015075907,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2026,0.3231937950077745,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2027,0.39659225107470725,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2028,0.47549631620280336,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2029,0.559038824949907,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2030,0.6463519812820913,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2031,0.7413160601997089,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2032,0.8430041383413336,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2033,0.9505855057311667,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2034,1.063857542570238,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2035,1.1831256787383964,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2036,1.3255767201629067,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2037,1.4899505843073682,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2038,1.6780207044898305,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2039,1.889388978631405,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2040,2.1236471586358907,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2041,2.379067921783034,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2042,2.6574327967866043,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2043,2.9582445937694857,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2044,3.2810697840765255,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2045,3.6254592143630657,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2046,3.995776239109579,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2047,4.393379606683267,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2048,4.813400802671515,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2049,5.256699464405716,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2050,5.722604465159195,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2051,6.189682582769867,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2052,6.6563336495817325,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2053,7.12118041337936,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2054,7.582808777650733,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2055,8.040115250719165,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2056,8.498213019540827,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2057,8.955989269896778,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2058,9.412533154475526,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2059,9.866952207608051,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2060,10.319035619467972,WWB,KKW50
+Anteil inl. Erzeugung,%,2020,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2021,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2022,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2023,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2024,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2025,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2026,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2027,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2028,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2029,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2030,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2031,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2032,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2033,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2034,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2035,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2036,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2037,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2038,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2039,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2040,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2041,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2042,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2043,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2044,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2045,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2046,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2047,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2048,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2049,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2050,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2051,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2052,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2053,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2054,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2055,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2056,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2057,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2058,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2059,1.0,WWB,KKW50
+Anteil inl. Erzeugung,%,2060,1.0,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2020,0.004929202035271821,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2021,0.00838621202362912,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2022,0.01273440097829821,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2023,0.01807728632899257,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2024,0.023679004742636157,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2025,0.11913398443165892,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2026,0.15183173756667145,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2027,0.18502799585689347,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2028,0.2187851334169645,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2029,0.25521167234923336,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2030,0.29398668068387507,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2031,0.33597135613694595,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2032,0.3680476496489743,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2033,0.42971547282256334,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2034,0.4776492933108775,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2035,0.5269808639129975,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2036,0.5865460019382351,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2037,0.5473303730618038,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2038,0.49864169156447735,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2039,0.8243625315170598,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2040,0.9239385802093105,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2041,1.032363416473275,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2042,1.1623833597520834,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2043,1.2618065725683103,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2044,1.3971501095986445,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2045,1.5455963137230528,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2046,1.6947296850219542,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2047,1.8718478550052335,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2048,2.035929616880934,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2049,2.2048209990457805,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2050,2.3734823312855675,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2051,2.5530485320326486,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2052,2.738718349557975,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2053,2.926578041648859,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2054,3.123823753303788,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2055,3.3078626843281786,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2056,3.526414415049536,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2057,3.742160790168645,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2058,3.8235340104098543,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2059,4.0237415317543315,WWB,KKW50
+Stromverbrauch Elektrolyseure,TWh,2060,4.18038239661635,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2020,0.00209094269704141,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2021,0.017993212869571548,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2022,0.0321162181006568,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2023,0.049776030057164716,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2024,0.07105584009433148,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2025,0.09609338288674316,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2026,0.125523423326871,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2027,0.15717093701598311,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2028,0.1907945209372368,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2029,0.2260772841413462,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2030,0.26264987274865537,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2031,0.30945318817621187,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2032,0.363917120899901,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2033,0.42568503033059146,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2034,0.49458779127911623,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2035,0.9877315461395308,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2036,0.9877315461395308,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2037,0.9776010742904655,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2038,1.1187051026284265,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2039,1.1187051026284265,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2040,1.2942614291633217,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2041,1.2942614291633217,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2042,1.411176169968471,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2043,1.411176169968471,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2044,1.1951254340500603,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2045,1.4891451548280574,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2046,1.4891451548280574,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2047,1.5333477138767477,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2048,1.5333477138767477,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2049,1.4476067378623185,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2050,1.4844285291972943,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2051,1.4844285291972943,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2052,1.6108901789821857,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2053,1.6108901789821857,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2054,1.6108901789821857,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2055,1.772863875436227,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2056,1.772863875436227,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2057,1.7241164057140332,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2058,1.7241164057140332,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2059,1.8370228594701576,WWB,KKW50
+Installierte Leistung Elektrolyseure,GW,2060,2.0105302229627453,WWB,KKW50
+H2-Erzeugung im Inland,PJ,2020,0.013496341901065667,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2021,0.11635935629726987,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2022,0.20808180279559507,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2023,0.323106381846034,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2024,0.4621033389625942,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2025,0.6261023526382521,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2026,0.8193842951675585,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2027,1.0278851672506717,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2028,1.2501042900921524,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2029,1.4840337014474567,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2030,1.7273049818111845,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2031,2.0388735767658677,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2032,2.4021484651552334,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2033,2.8150510733769964,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2034,3.276727775510898,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2035,3.7868493713691365,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2036,4.172647633278935,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2037,4.341659980813679,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2038,4.977405111559224,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2039,4.857438745921508,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2040,5.779516530769908,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2041,4.616337967401155,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2042,6.330242223877512,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2043,5.28762768449471,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2044,5.385341942336537,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2045,6.725334173529962,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2046,5.5938333869721255,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2047,6.956086888730443,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2048,5.992936048964953,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2049,6.596502963127683,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2050,6.779358979757602,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2051,6.300560639013785,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2052,7.389604474627348,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2053,7.3807339714393665,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2054,6.543810606060172,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2055,8.18660077797852,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2056,7.913897250710694,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2057,7.99649388441793,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2058,7.926657519606212,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2059,8.557444105177293,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2060,9.386101852803076,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2020,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2021,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2022,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2023,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2024,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2025,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2026,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2027,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2028,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2029,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2030,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2031,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2032,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2033,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2034,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2035,1.0,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2036,0.9493063666650386,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2037,0.8595598740162076,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2038,0.864482749743941,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2039,0.7457299404705641,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2040,0.7898269213376355,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2041,0.5683523371904172,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2042,0.7085246641441713,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2043,0.5421574486999163,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2044,0.5092141338301722,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2045,0.5899151851852142,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2046,0.45735628376066206,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2047,0.5325881854903696,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2048,0.4318571320294104,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2049,0.4493076305980914,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2050,0.43822043820049666,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2051,0.38773687825694503,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2052,0.43443809661530813,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2053,0.41584443776922186,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2054,0.35436918453943667,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2055,0.4272498214553435,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2056,0.39807443111746443,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2057,0.3879138409972295,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2058,0.3710047406193663,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2059,0.3865760119560564,ZERO-Basis,KKW60
+Anteil inl. Erzeugung,%,2060,0.409343543333753,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2020,0.0063648295697937415,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2021,0.054411475717583445,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2022,0.09715155975448193,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2023,0.15151823549400212,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2024,0.21487286044527526,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2025,0.2905863898495261,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2026,0.37970835556377724,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2027,0.4845579988202497,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2028,0.5771534258351468,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2029,0.6836577072434056,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2030,0.7945158650646742,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2031,0.9382620665503222,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2032,1.1030327934476576,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2033,1.286845846689394,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2034,1.478322908133389,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2035,1.3560996939016092,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2036,1.400253776915202,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2037,1.4422282074087602,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2038,1.8962831237991111,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2039,1.896152130235682,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2040,2.431874942983194,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2041,1.9582506137438143,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2042,2.747030278708051,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2043,2.295958480894154,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2044,2.1601271922972134,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2045,2.9607719305849973,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2046,2.45402013300921,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2047,3.0644830505993883,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2048,2.6327050385634974,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2049,2.843301988333251,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2050,2.9382162389877733,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2051,2.72050476766983,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2052,3.221780357964372,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2053,3.21080936270416,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2054,2.840455822542418,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2055,3.5457277508724543,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2056,3.420099455131697,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2057,3.4482328114280665,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2058,3.4106549676791786,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2059,3.674045718940316,ZERO-Basis,KKW60
+Stromverbrauch Elektrolyseure,TWh,2060,4.021060445925491,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2020,0.00209094269704141,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2021,0.017993212869571548,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2022,0.0321162181006568,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2023,0.049776030057164716,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2024,0.07105584009433148,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2025,0.09609338288674316,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2026,0.125523423326871,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2027,0.15717093701598311,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2028,0.1907945209372368,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2029,0.2260772841413462,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2030,0.26264987274865537,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2031,0.30945318817621187,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2032,0.363917120899901,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2033,0.42568503033059146,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2034,0.49458779127911623,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2035,0.9877315461395308,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2036,0.9877315461395308,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2037,0.9776010742904655,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2038,1.1187051026284265,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2039,1.1187051026284265,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2040,1.2942614291633217,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2041,1.2942614291633217,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2042,1.411176169968471,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2043,1.411176169968471,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2044,1.1951254340500603,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2045,1.4891451548280574,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2046,1.4891451548280574,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2047,1.5333477138767477,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2048,1.5333477138767477,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2049,1.4476067378623185,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2050,1.4844285291972943,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2051,1.4844285291972943,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2052,1.6108901789821857,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2053,1.6108901789821857,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2054,1.6108901789821857,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2055,1.772863875436227,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2056,1.772863875436227,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2057,1.7241164057140332,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2058,1.7241164057140332,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2059,1.8370228594701576,ZERO-Basis,KKW60
+Installierte Leistung Elektrolyseure,GW,2060,2.0105302229627453,ZERO-Basis,KKW60
+H2-Erzeugung im Inland,PJ,2020,0.013497310317786039,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2021,0.047982941830646525,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2022,0.09173555799328464,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2023,0.14507175385379772,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2024,0.20827665988175717,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2025,0.28188880945488143,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2026,0.8057681249178841,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2027,1.0039056267633828,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2028,1.215854421649474,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2029,1.439847792956537,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2030,1.6736766242484868,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2031,1.9781279173902333,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2032,2.3362657054320577,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2033,2.74580315653005,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2034,3.205600672931027,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2035,3.7151333586014523,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2036,4.172647633278935,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2037,4.341659980813679,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2038,4.977405111559224,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2039,4.857438745921508,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2040,5.779516530769908,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2041,4.616337967401155,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2042,6.330242223877512,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2043,5.28762768449471,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2044,5.385341942336537,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2045,6.725334173529962,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2046,5.5938333869721255,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2047,6.956086888730443,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2048,5.992936048964953,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2049,6.596502963127683,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2050,6.779358979757602,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2051,6.300560639013785,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2052,7.389604474627348,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2053,7.3807339714393665,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2054,6.543810606060172,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2055,8.18660077797852,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2056,7.913897250710694,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2057,7.99649388441793,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2058,7.926657519606212,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2059,8.557444105177293,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2060,9.386101852803076,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2020,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2021,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2022,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2023,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2024,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2025,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2026,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2027,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2028,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2029,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2030,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2031,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2032,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2033,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2034,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2035,1.0,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2036,0.967250525718215,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2037,0.8754915129713621,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2038,0.8803108718685934,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2039,0.7593605372163835,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2040,0.8044356639109355,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2041,0.5811850563638251,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2042,0.7290483094994384,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2043,0.5618307449402609,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2044,0.5317953105645469,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2045,0.6212416071690294,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2046,0.48751395532069,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2047,0.5753326639404616,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2048,0.47336919235529756,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2049,0.5002868889672184,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2050,0.4961350476838884,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2051,0.4461038686886173,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2052,0.507849144135432,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2053,0.4938107524584674,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2054,0.4273767050959384,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2055,0.523145059291498,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2056,0.4970491950312408,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2057,0.49406232624230306,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2058,0.48206408302875403,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2059,0.5124528704280631,ZERO-A,KKW60
+Anteil inl. Erzeugung,%,2060,0.5535886131128763,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2020,0.0063648295697937415,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2021,0.054411475717583445,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2022,0.09715155975448193,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2023,0.15151823549400212,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2024,0.21487286044527526,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2025,0.2905863898495261,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2026,0.37970835556377724,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2027,0.4845579988202497,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2028,0.5771534258351468,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2029,0.6836577072434056,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2030,0.7945158650646742,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2031,0.9382620665503222,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2032,1.1030327934476576,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2033,1.286845846689394,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2034,1.478322908133389,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2035,1.5504378787526103,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2036,1.4647448078743297,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2037,1.4422282074087602,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2038,1.8962831237991111,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2039,1.896152130235682,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2040,2.431874942983194,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2041,1.9582506137438143,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2042,2.747030278708051,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2043,2.295958480894154,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2044,2.1601271922972134,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2045,2.9607719305849973,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2046,2.45402013300921,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2047,3.0644830505993883,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2048,2.6327050385634974,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2049,2.843301988333251,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2050,2.9382162389877733,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2051,2.72050476766983,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2052,3.221780357964372,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2053,3.21080936270416,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2054,2.840455822542418,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2055,3.5457277508724543,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2056,3.420099455131697,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2057,3.4482328114280665,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2058,3.4106549676791786,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2059,3.674045718940316,ZERO-A,KKW60
+Stromverbrauch Elektrolyseure,TWh,2060,4.021060445925491,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2020,0.00209094269704141,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2021,0.017993212869571548,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2022,0.0321162181006568,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2023,0.049776030057164716,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2024,0.07105584009433148,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2025,0.09609338288674316,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2026,0.125523423326871,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2027,0.15717093701598311,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2028,0.1907945209372368,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2029,0.2260772841413462,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2030,0.26264987274865537,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2031,0.30945318817621187,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2032,0.363917120899901,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2033,0.42568503033059146,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2034,0.49458779127911623,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2035,0.9877315461395308,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2036,0.9877315461395308,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2037,0.9776010742904655,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2038,1.1187051026284265,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2039,1.1187051026284265,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2040,1.2942614291633217,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2041,1.2942614291633217,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2042,1.411176169968471,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2043,1.411176169968471,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2044,1.1951254340500603,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2045,1.4891451548280574,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2046,1.4891451548280574,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2047,1.5333477138767477,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2048,1.5333477138767477,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2049,1.4476067378623185,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2050,1.4844285291972943,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2051,1.4844285291972943,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2052,1.6108901789821857,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2053,1.6108901789821857,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2054,1.6108901789821857,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2055,1.772863875436227,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2056,1.772863875436227,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2057,1.7241164057140332,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2058,1.7241164057140332,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2059,1.8370228594701576,ZERO-A,KKW60
+Installierte Leistung Elektrolyseure,GW,2060,2.0105302229627453,ZERO-A,KKW60
+H2-Erzeugung im Inland,PJ,2020,0.013852249547498325,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2021,0.047729991357579764,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2022,0.09066924855782099,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2023,0.14297658799191687,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2024,0.2049251737115843,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2025,0.2770388105660843,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2026,0.8295004098026316,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2027,1.0628257457605756,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2028,1.3135593315851577,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2029,1.579826283870259,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2030,1.8595352471702817,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2031,2.2237783208758097,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2032,2.657235893451019,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2033,3.1577542518434925,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2034,3.7238430742452104,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2035,4.354445274096099,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2036,4.172647633278935,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2037,4.341659980813679,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2038,4.977405111559224,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2039,4.857438745921508,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2040,5.779516530769908,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2041,4.616337967401155,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2042,6.330242223877512,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2043,5.28762768449471,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2044,5.385341942336537,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2045,6.725334173529962,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2046,5.5938333869721255,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2047,6.956086888730443,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2048,5.992936048964953,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2049,6.596502963127683,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2050,6.779358979757602,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2051,6.300560639013785,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2052,7.389604474627348,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2053,7.3807339714393665,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2054,6.543810606060172,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2055,8.18660077797852,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2056,7.913897250710694,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2057,7.99649388441793,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2058,7.926657519606212,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2059,8.557444105177293,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2060,9.386101852803076,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2020,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2021,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2022,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2023,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2024,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2025,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2026,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2027,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2028,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2029,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2030,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2031,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2032,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2033,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2034,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2035,1.0,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2036,0.8117788098030436,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2037,0.7230600227223745,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2038,0.7160193835397275,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2039,0.6088509293762939,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2040,0.6363825661968578,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2041,0.4535284562264126,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2042,0.5609375410202291,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2043,0.42627139915472856,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2044,0.3979760708771213,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2045,0.4586727677374139,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2046,0.35389979754068346,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2047,0.41033021136589537,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2048,0.33142051553403634,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2049,0.3435931387996081,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2050,0.33404267677158306,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2051,0.2948228874322232,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2052,0.3296540151680388,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2053,0.3150183881544465,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2054,0.26808746490174895,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2055,0.322880704447237,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2056,0.30092940625274595,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2057,0.2937372985556813,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2058,0.281744748759385,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2059,0.2947340553886236,ZERO-B,KKW60
+Anteil inl. Erzeugung,%,2060,0.31361793210977273,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2020,0.0063648295697937415,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2021,0.054411475717583445,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2022,0.09715155975448193,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2023,0.15151823549400212,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2024,0.21487286044527526,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2025,0.2905863898495261,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2026,0.37970835556377724,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2027,0.4845579988202497,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2028,0.5771534258351468,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2029,0.6836577072434056,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2030,0.7945158650646742,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2031,0.9382620665503222,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2032,1.1030327934476576,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2033,1.286845846689394,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2034,1.478322908133389,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2035,1.5504378787526103,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2036,1.4647448078743297,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2037,1.4422282074087602,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2038,1.8962831237991111,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2039,1.896152130235682,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2040,2.431874942983194,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2041,1.9582506137438143,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2042,2.747030278708051,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2043,2.295958480894154,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2044,2.1601271922972134,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2045,2.9607719305849973,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2046,2.45402013300921,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2047,3.0644830505993883,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2048,2.6327050385634974,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2049,2.843301988333251,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2050,2.9382162389877733,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2051,2.72050476766983,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2052,3.221780357964372,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2053,3.21080936270416,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2054,2.840455822542418,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2055,3.5457277508724543,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2056,3.420099455131697,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2057,3.4482328114280665,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2058,3.4106549676791786,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2059,3.674045718940316,ZERO-B,KKW60
+Stromverbrauch Elektrolyseure,TWh,2060,4.021060445925491,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2020,0.00209094269704141,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2021,0.017993212869571548,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2022,0.0321162181006568,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2023,0.049776030057164716,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2024,0.07105584009433148,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2025,0.09609338288674316,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2026,0.125523423326871,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2027,0.15717093701598311,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2028,0.1907945209372368,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2029,0.2260772841413462,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2030,0.26264987274865537,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2031,0.30945318817621187,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2032,0.363917120899901,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2033,0.42568503033059146,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2034,0.49458779127911623,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2035,0.9877315461395308,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2036,0.9877315461395308,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2037,0.9776010742904655,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2038,1.1187051026284265,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2039,1.1187051026284265,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2040,1.2942614291633217,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2041,1.2942614291633217,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2042,1.411176169968471,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2043,1.411176169968471,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2044,1.1951254340500603,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2045,1.4891451548280574,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2046,1.4891451548280574,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2047,1.5333477138767477,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2048,1.5333477138767477,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2049,1.4476067378623185,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2050,1.4844285291972943,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2051,1.4844285291972943,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2052,1.6108901789821857,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2053,1.6108901789821857,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2054,1.6108901789821857,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2055,1.772863875436227,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2056,1.772863875436227,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2057,1.7241164057140332,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2058,1.7241164057140332,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2059,1.8370228594701576,ZERO-B,KKW60
+Installierte Leistung Elektrolyseure,GW,2060,2.0105302229627453,ZERO-B,KKW60
+H2-Erzeugung im Inland,PJ,2020,0.013500136325158707,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2021,0.030278480444566724,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2022,0.05210349936020225,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2023,0.07924784777862463,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2024,0.11190298866030875,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2025,0.15048030014778235,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2026,0.19787175933434265,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2027,0.24854112022735567,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2028,0.30197987895501827,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2029,0.357648518814259,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2030,0.41497480692716393,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2031,0.48906748836156727,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2032,0.5705498283757073,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2033,0.6585273326706091,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2034,0.7525352584485223,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2035,0.8522902536037066,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2036,4.172647633278935,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2037,4.341659980813679,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2038,4.977405111559224,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2039,4.857438745921508,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2040,5.779516530769908,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2041,4.616337967401155,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2042,6.330242223877512,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2043,5.28762768449471,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2044,5.385341942336537,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2045,6.725334173529962,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2046,5.5938333869721255,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2047,6.956086888730443,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2048,5.992936048964953,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2049,6.596502963127683,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2050,6.779358979757602,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2051,6.300560639013785,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2052,7.389604474627348,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2053,7.3807339714393665,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2054,6.543810606060172,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2055,8.18660077797852,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2056,7.913897250710694,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2057,7.99649388441793,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2058,7.926657519606212,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2059,8.557444105177293,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2060,9.386101852803076,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2020,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2021,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2022,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2023,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2024,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2025,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2026,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2027,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2028,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2029,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2030,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2031,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2032,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2033,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2034,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2035,1.0,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2036,4.325169634613177,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2037,4.013471321180532,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2038,4.134461555572384,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2039,3.651061179335172,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2040,3.9564395645834995,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2041,2.859063940064199,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2042,3.5851901993438067,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2043,2.7629492921866836,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2044,2.6158274664632226,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2045,3.056231962743566,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2046,2.3920247315720986,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2047,2.8133360640896994,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2048,2.3040666847724087,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2049,2.4215708985449917,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2050,2.3858978190734357,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2051,2.1197540396512835,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2052,2.3838596520244257,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2053,2.2892571190806037,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2054,1.9562233000470937,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2055,2.363776542765436,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2056,2.201473095051563,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2057,2.1404960993192215,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2058,2.039203863883313,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2059,2.1132802443543133,ZERO-C,KKW60
+Anteil inl. Erzeugung,%,2060,2.2225998835882734,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2020,0.0063648295697937415,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2021,0.054411475717583445,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2022,0.09715155975448193,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2023,0.15151823549400212,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2024,0.21487286044527526,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2025,0.2905863898495261,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2026,0.37970835556377724,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2027,0.4845579988202497,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2028,0.5771534258351468,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2029,0.6836577072434056,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2030,0.7945158650646742,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2031,0.9382620665503222,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2032,1.1030327934476576,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2033,1.286845846689394,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2034,1.478322908133389,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2035,1.5504378787526103,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2036,1.4647448078743297,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2037,1.4422282074087602,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2038,1.8962831237991111,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2039,1.896152130235682,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2040,2.431874942983194,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2041,1.9582506137438143,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2042,2.747030278708051,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2043,2.295958480894154,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2044,2.1601271922972134,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2045,2.9607719305849973,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2046,2.45402013300921,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2047,3.0644830505993883,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2048,2.6327050385634974,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2049,2.843301988333251,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2050,2.9382162389877733,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2051,2.72050476766983,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2052,3.221780357964372,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2053,3.21080936270416,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2054,2.840455822542418,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2055,3.5457277508724543,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2056,3.420099455131697,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2057,3.4482328114280665,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2058,3.4106549676791786,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2059,3.674045718940316,ZERO-C,KKW60
+Stromverbrauch Elektrolyseure,TWh,2060,4.021060445925491,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2020,0.00209094269704141,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2021,0.017993212869571548,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2022,0.0321162181006568,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2023,0.049776030057164716,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2024,0.07105584009433148,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2025,0.09609338288674316,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2026,0.125523423326871,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2027,0.15717093701598311,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2028,0.1907945209372368,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2029,0.2260772841413462,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2030,0.26264987274865537,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2031,0.30945318817621187,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2032,0.363917120899901,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2033,0.42568503033059146,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2034,0.49458779127911623,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2035,0.9877315461395308,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2036,0.9877315461395308,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2037,0.9776010742904655,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2038,1.1187051026284265,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2039,1.1187051026284265,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2040,1.2942614291633217,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2041,1.2942614291633217,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2042,1.411176169968471,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2043,1.411176169968471,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2044,1.1951254340500603,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2045,1.4891451548280574,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2046,1.4891451548280574,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2047,1.5333477138767477,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2048,1.5333477138767477,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2049,1.4476067378623185,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2050,1.4844285291972943,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2051,1.4844285291972943,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2052,1.6108901789821857,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2053,1.6108901789821857,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2054,1.6108901789821857,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2055,1.772863875436227,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2056,1.772863875436227,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2057,1.7241164057140332,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2058,1.7241164057140332,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2059,1.8370228594701576,ZERO-C,KKW60
+Installierte Leistung Elektrolyseure,GW,2060,2.0105302229627453,ZERO-C,KKW60
+H2-Erzeugung im Inland,PJ,2020,0.0103943674154704,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2021,0.0178576139562641,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2022,0.02727534346401376,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2023,0.03874045299718951,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2024,0.05092426424875459,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2025,0.25634941015075907,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2026,0.3231937950077745,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2027,0.39659225107470725,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2028,0.47549631620280336,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2029,0.559038824949907,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2030,0.6463519812820913,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2031,0.7413160601997089,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2032,0.8430041383413336,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2033,0.9505855057311667,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2034,1.063857542570238,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2035,1.1831256787383964,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2036,1.3255767201629067,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2037,1.4899505843073682,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2038,1.6780207044898305,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2039,1.889388978631405,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2040,2.1236471586358907,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2041,2.379067921783034,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2042,2.6574327967866043,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2043,2.9582445937694857,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2044,3.2810697840765255,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2045,3.6254592143630657,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2046,3.995776239109579,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2047,4.393379606683267,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2048,4.813400802671515,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2049,5.256699464405716,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2050,5.722604465159195,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2051,6.189682582769867,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2052,6.6563336495817325,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2053,7.12118041337936,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2054,7.582808777650733,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2055,8.040115250719165,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2056,8.498213019540827,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2057,8.955989269896778,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2058,9.412533154475526,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2059,9.866952207608051,WWB,KKW60
+H2-Erzeugung im Inland,PJ,2060,10.319035619467972,WWB,KKW60
+Anteil inl. Erzeugung,%,2020,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2021,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2022,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2023,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2024,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2025,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2026,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2027,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2028,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2029,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2030,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2031,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2032,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2033,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2034,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2035,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2036,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2037,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2038,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2039,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2040,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2041,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2042,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2043,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2044,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2045,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2046,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2047,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2048,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2049,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2050,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2051,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2052,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2053,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2054,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2055,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2056,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2057,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2058,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2059,1.0,WWB,KKW60
+Anteil inl. Erzeugung,%,2060,1.0,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2020,0.004929202035271821,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2021,0.00838621202362912,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2022,0.01273440097829821,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2023,0.01807728632899257,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2024,0.023679004742636157,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2025,0.11913398443165892,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2026,0.15183173756667145,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2027,0.18502799585689347,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2028,0.2187851334169645,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2029,0.25521167234923336,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2030,0.29398668068387507,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2031,0.33597135613694595,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2032,0.3680476496489743,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2033,0.42971547282256334,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2034,0.4776492933108775,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2035,0.5269808639129975,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2036,0.5865460019382351,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2037,0.5473303730618038,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2038,0.49864169156447735,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2039,0.8243625315170598,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2040,0.9239385802093105,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2041,1.032363416473275,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2042,1.1623833597520834,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2043,1.2618065725683103,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2044,1.3971501095986445,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2045,1.5455963137230528,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2046,1.6947296850219542,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2047,1.8718478550052335,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2048,2.035929616880934,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2049,2.2048209990457805,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2050,2.3734823312855675,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2051,2.5530485320326486,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2052,2.738718349557975,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2053,2.926578041648859,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2054,3.123823753303788,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2055,3.3078626843281786,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2056,3.526414415049536,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2057,3.742160790168645,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2058,3.8235340104098543,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2059,4.0237415317543315,WWB,KKW60
+Stromverbrauch Elektrolyseure,TWh,2060,4.18038239661635,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2020,0.00209094269704141,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2021,0.017993212869571548,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2022,0.0321162181006568,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2023,0.049776030057164716,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2024,0.07105584009433148,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2025,0.09609338288674316,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2026,0.125523423326871,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2027,0.15717093701598311,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2028,0.1907945209372368,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2029,0.2260772841413462,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2030,0.26264987274865537,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2031,0.30945318817621187,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2032,0.363917120899901,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2033,0.42568503033059146,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2034,0.49458779127911623,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2035,0.9877315461395308,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2036,0.9877315461395308,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2037,0.9776010742904655,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2038,1.1187051026284265,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2039,1.1187051026284265,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2040,1.2942614291633217,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2041,1.2942614291633217,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2042,1.411176169968471,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2043,1.411176169968471,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2044,1.1951254340500603,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2045,1.4891451548280574,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2046,1.4891451548280574,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2047,1.5333477138767477,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2048,1.5333477138767477,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2049,1.4476067378623185,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2050,1.4844285291972943,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2051,1.4844285291972943,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2052,1.6108901789821857,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2053,1.6108901789821857,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2054,1.6108901789821857,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2055,1.772863875436227,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2056,1.772863875436227,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2057,1.7241164057140332,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2058,1.7241164057140332,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2059,1.8370228594701576,WWB,KKW60
+Installierte Leistung Elektrolyseure,GW,2060,2.0105302229627453,WWB,KKW60

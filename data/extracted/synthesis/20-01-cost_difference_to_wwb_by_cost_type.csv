@@ -1,0 +1,689 @@
+cost_type,year,value,scenario,variant,unit
+Investitionen (annuisiert),2020,0.029,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2021,0.167,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2022,0.29,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2023,0.442,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2024,0.618,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2025,0.818,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2026,1.031,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2027,1.248,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2028,1.479,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2029,1.701,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2030,1.955,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2031,2.215,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2032,2.503,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2033,2.85,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2034,3.189,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2035,3.512,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2036,3.866,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2037,4.151,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2038,4.431,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2039,4.736,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2040,4.927,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2041,5.153,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2042,5.415,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2043,5.553,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2044,5.8,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2045,6.028,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2046,6.147,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2047,6.372,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2048,6.653,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2049,7.387,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2050,7.917,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2051,7.915,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2052,7.852,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2053,7.764,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2054,7.662,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2055,7.512,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2056,7.357,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2057,7.207,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2058,7.09,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2059,6.987,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2060,6.942,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),kumuliert 2020-50,108.58,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),kumuliert 2020-60,182.869,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2020,0.005,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2021,0.01,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2022,0.015,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2023,0.022,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2024,0.029,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2025,0.035,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2026,0.05,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2027,0.064,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2028,0.082,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2029,0.097,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2030,0.123,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2031,0.153,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2032,0.205,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2033,0.261,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2034,0.322,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2035,0.391,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2036,0.454,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2037,0.523,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2038,0.595,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2039,0.661,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2040,0.739,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2041,0.779,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2042,0.83,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2043,0.86,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2044,0.894,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2045,0.922,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2046,0.957,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2047,0.99,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2048,1.022,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2049,1.042,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2050,1.072,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2051,1.069,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2052,1.04,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2053,1.0,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2054,0.951,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2055,0.893,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2056,0.821,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2057,0.752,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2058,0.683,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2059,0.628,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2060,0.591,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,kumuliert 2020-50,14.204,ZERO-Basis,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,kumuliert 2020-60,22.632,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2020,-0.214,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2021,-0.463,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2022,-0.463,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2023,-0.456,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2024,-0.629,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2025,-0.746,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2026,-0.872,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2027,-0.988,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2028,-1.116,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2029,-1.327,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2030,-1.464,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2031,-1.607,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2032,-1.746,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2033,-1.927,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2034,-2.118,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2035,-2.212,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2036,-2.408,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2037,-2.518,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2038,-2.677,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2039,-2.8,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2040,-2.917,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2041,-2.84,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2042,-2.834,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2043,-2.801,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2044,-2.755,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2045,-2.154,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2046,-1.598,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2047,-1.163,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2048,-0.806,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2049,-0.564,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2050,-0.305,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2051,-0.734,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2052,-1.123,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2053,-1.474,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2054,-1.717,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2055,-1.991,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2056,-2.233,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2057,-2.431,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2058,-2.692,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2059,-2.887,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,2060,-3.164,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,kumuliert 2020-50,-49.557,ZERO-Basis,KKW50,Mrd. CHF
+Energiekosten*,kumuliert 2020-60,-69.933,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2020,-0.18,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2021,-0.287,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2022,-0.158,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2023,0.008,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2024,0.019,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2025,0.106,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2026,0.209,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2027,0.323,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2028,0.445,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2029,0.47,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2030,0.615,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2031,0.762,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2032,0.962,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2033,1.184,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2034,1.393,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2035,1.691,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2036,1.912,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2037,2.156,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2038,2.349,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2039,2.597,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2040,2.749,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2041,3.091,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2042,3.412,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2043,3.612,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2044,3.938,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2045,4.796,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2046,5.506,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2047,6.199,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2048,6.87,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2049,7.866,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2050,8.684,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2051,8.25,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2052,7.769,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2053,7.291,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2054,6.896,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2055,6.415,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2056,5.944,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2057,5.528,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2058,5.081,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2059,4.729,ZERO-Basis,KKW50,Mrd. CHF
+Summe,2060,4.369,ZERO-Basis,KKW50,Mrd. CHF
+Summe,kumuliert 2020-50,73.297,ZERO-Basis,KKW50,Mrd. CHF
+Summe,kumuliert 2020-60,135.568,ZERO-Basis,KKW50,Mrd. CHF
+Investitionen (annuisiert),2020,0.027,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2021,0.172,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2022,0.31,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2023,0.477,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2024,0.671,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2025,0.883,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2026,1.107,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2027,1.336,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2028,1.581,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2029,1.824,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2030,2.086,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2031,2.363,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2032,2.66,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2033,3.026,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2034,3.359,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2035,3.683,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2036,4.032,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2037,4.327,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2038,4.62,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2039,4.946,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2040,5.163,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2041,5.461,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2042,5.83,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2043,6.029,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2044,6.373,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2045,6.716,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2046,6.854,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2047,7.223,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2048,7.634,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2049,8.514,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2050,9.198,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2051,9.202,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2052,9.185,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2053,9.067,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2054,8.955,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2055,8.815,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2056,8.652,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2057,8.511,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2058,8.377,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2059,8.287,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2060,8.239,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),kumuliert 2020-50,118.514,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),kumuliert 2020-60,205.804,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2020,0.008,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2021,0.011,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2022,0.018,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2023,0.027,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2024,0.037,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2025,0.045,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2026,0.062,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2027,0.076,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2028,0.095,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2029,0.111,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2030,0.143,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2031,0.164,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2032,0.214,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2033,0.271,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2034,0.331,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2035,0.397,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2036,0.459,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2037,0.523,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2038,0.585,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2039,0.642,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2040,0.728,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2041,0.759,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2042,0.819,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2043,0.858,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2044,0.901,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2045,0.938,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2046,0.981,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2047,1.022,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2048,1.077,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2049,1.12,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2050,1.19,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2051,1.179,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2052,1.161,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2053,1.106,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2054,1.046,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2055,0.982,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2056,0.904,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2057,0.832,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2058,0.76,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2059,0.705,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2060,0.667,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,kumuliert 2020-50,14.621,ZERO-A,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,kumuliert 2020-60,23.96,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2020,-0.201,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2021,-0.465,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2022,-0.465,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2023,-0.466,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2024,-0.65,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2025,-0.796,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2026,-0.899,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2027,-1.014,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2028,-1.146,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2029,-1.37,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2030,-1.47,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2031,-1.613,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2032,-1.758,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2033,-1.962,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2034,-2.151,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2035,-2.262,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2036,-2.468,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2037,-2.573,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2038,-2.739,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2039,-2.847,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2040,-2.988,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2041,-2.906,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2042,-2.891,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2043,-2.837,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2044,-2.86,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2045,-2.346,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2046,-1.946,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2047,-1.676,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2048,-1.504,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2049,-1.456,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2050,-1.401,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2051,-1.915,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2052,-2.365,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2053,-2.765,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2054,-3.031,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2055,-3.314,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2056,-3.554,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2057,-3.705,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2058,-3.95,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2059,-4.132,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,2060,-4.37,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,kumuliert 2020-50,-54.127,ZERO-A,KKW50,Mrd. CHF
+Energiekosten*,kumuliert 2020-60,-87.227,ZERO-A,KKW50,Mrd. CHF
+Summe,2020,-0.166,ZERO-A,KKW50,Mrd. CHF
+Summe,2021,-0.282,ZERO-A,KKW50,Mrd. CHF
+Summe,2022,-0.136,ZERO-A,KKW50,Mrd. CHF
+Summe,2023,0.038,ZERO-A,KKW50,Mrd. CHF
+Summe,2024,0.057,ZERO-A,KKW50,Mrd. CHF
+Summe,2025,0.132,ZERO-A,KKW50,Mrd. CHF
+Summe,2026,0.27,ZERO-A,KKW50,Mrd. CHF
+Summe,2027,0.398,ZERO-A,KKW50,Mrd. CHF
+Summe,2028,0.529,ZERO-A,KKW50,Mrd. CHF
+Summe,2029,0.565,ZERO-A,KKW50,Mrd. CHF
+Summe,2030,0.759,ZERO-A,KKW50,Mrd. CHF
+Summe,2031,0.914,ZERO-A,KKW50,Mrd. CHF
+Summe,2032,1.116,ZERO-A,KKW50,Mrd. CHF
+Summe,2033,1.336,ZERO-A,KKW50,Mrd. CHF
+Summe,2034,1.539,ZERO-A,KKW50,Mrd. CHF
+Summe,2035,1.818,ZERO-A,KKW50,Mrd. CHF
+Summe,2036,2.023,ZERO-A,KKW50,Mrd. CHF
+Summe,2037,2.277,ZERO-A,KKW50,Mrd. CHF
+Summe,2038,2.466,ZERO-A,KKW50,Mrd. CHF
+Summe,2039,2.741,ZERO-A,KKW50,Mrd. CHF
+Summe,2040,2.903,ZERO-A,KKW50,Mrd. CHF
+Summe,2041,3.315,ZERO-A,KKW50,Mrd. CHF
+Summe,2042,3.759,ZERO-A,KKW50,Mrd. CHF
+Summe,2043,4.05,ZERO-A,KKW50,Mrd. CHF
+Summe,2044,4.413,ZERO-A,KKW50,Mrd. CHF
+Summe,2045,5.307,ZERO-A,KKW50,Mrd. CHF
+Summe,2046,5.889,ZERO-A,KKW50,Mrd. CHF
+Summe,2047,6.57,ZERO-A,KKW50,Mrd. CHF
+Summe,2048,7.206,ZERO-A,KKW50,Mrd. CHF
+Summe,2049,8.177,ZERO-A,KKW50,Mrd. CHF
+Summe,2050,8.986,ZERO-A,KKW50,Mrd. CHF
+Summe,2051,8.466,ZERO-A,KKW50,Mrd. CHF
+Summe,2052,7.981,ZERO-A,KKW50,Mrd. CHF
+Summe,2053,7.408,ZERO-A,KKW50,Mrd. CHF
+Summe,2054,6.97,ZERO-A,KKW50,Mrd. CHF
+Summe,2055,6.483,ZERO-A,KKW50,Mrd. CHF
+Summe,2056,6.002,ZERO-A,KKW50,Mrd. CHF
+Summe,2057,5.637,ZERO-A,KKW50,Mrd. CHF
+Summe,2058,5.186,ZERO-A,KKW50,Mrd. CHF
+Summe,2059,4.86,ZERO-A,KKW50,Mrd. CHF
+Summe,2060,4.536,ZERO-A,KKW50,Mrd. CHF
+Summe,kumuliert 2020-50,78.806,ZERO-A,KKW50,Mrd. CHF
+Summe,kumuliert 2020-60,142.335,ZERO-A,KKW50,Mrd. CHF
+Investitionen (annuisiert),2020,0.024,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2021,0.159,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2022,0.282,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2023,0.424,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2024,0.589,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2025,0.765,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2026,0.957,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2027,1.143,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2028,1.35,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2029,1.551,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2030,1.791,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2031,2.045,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2032,2.324,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2033,2.662,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2034,2.932,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2035,3.187,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2036,3.457,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2037,3.673,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2038,3.83,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2039,3.943,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2040,3.986,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2041,4.065,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2042,4.214,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2043,4.19,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2044,4.301,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2045,4.418,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2046,4.263,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2047,4.425,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2048,4.61,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2049,5.182,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2050,5.635,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2051,5.549,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2052,5.478,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2053,5.396,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2054,5.327,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2055,5.228,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2056,5.105,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2057,5.016,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2058,4.937,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2059,4.899,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2060,4.887,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),kumuliert 2020-50,86.376,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),kumuliert 2020-60,138.198,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2020,0.008,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2021,0.011,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2022,0.017,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2023,0.024,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2024,0.031,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2025,0.037,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2026,0.053,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2027,0.067,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2028,0.086,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2029,0.102,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2030,0.14,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2031,0.181,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2032,0.244,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2033,0.314,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2034,0.373,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2035,0.435,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2036,0.487,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2037,0.538,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2038,0.56,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2039,0.566,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2040,0.578,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2041,0.573,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2042,0.572,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2043,0.56,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2044,0.548,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2045,0.536,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2046,0.53,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2047,0.528,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2048,0.524,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2049,0.511,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2050,0.504,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2051,0.483,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2052,0.455,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2053,0.422,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2054,0.383,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2055,0.339,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2056,0.279,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2057,0.223,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2058,0.164,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2059,0.12,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2060,0.082,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,kumuliert 2020-50,10.239,ZERO-B,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,kumuliert 2020-60,13.19,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2020,-0.152,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2021,-0.355,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2022,-0.3,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2023,-0.233,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2024,-0.361,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2025,-0.439,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2026,-0.511,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2027,-0.575,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2028,-0.669,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2029,-0.837,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2030,-0.923,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2031,-0.943,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2032,-0.929,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2033,-0.93,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2034,-0.947,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2035,-0.886,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2036,-0.796,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2037,-0.623,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2038,-0.509,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2039,-0.368,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2040,-0.259,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2041,0.185,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2042,0.597,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2043,1.049,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2044,1.528,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2045,2.475,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2046,3.495,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2047,4.366,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2048,5.136,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2049,5.793,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2050,6.471,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2051,6.336,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2052,5.955,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2053,5.78,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2054,5.549,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2055,5.353,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2056,5.154,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2057,5.14,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2058,4.633,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2059,4.434,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,2060,4.19,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,kumuliert 2020-50,18.553,ZERO-B,KKW50,Mrd. CHF
+Energiekosten*,kumuliert 2020-60,71.077,ZERO-B,KKW50,Mrd. CHF
+Summe,2020,-0.12,ZERO-B,KKW50,Mrd. CHF
+Summe,2021,-0.186,ZERO-B,KKW50,Mrd. CHF
+Summe,2022,-0.001,ZERO-B,KKW50,Mrd. CHF
+Summe,2023,0.214,ZERO-B,KKW50,Mrd. CHF
+Summe,2024,0.259,ZERO-B,KKW50,Mrd. CHF
+Summe,2025,0.363,ZERO-B,KKW50,Mrd. CHF
+Summe,2026,0.5,ZERO-B,KKW50,Mrd. CHF
+Summe,2027,0.635,ZERO-B,KKW50,Mrd. CHF
+Summe,2028,0.767,ZERO-B,KKW50,Mrd. CHF
+Summe,2029,0.816,ZERO-B,KKW50,Mrd. CHF
+Summe,2030,1.008,ZERO-B,KKW50,Mrd. CHF
+Summe,2031,1.284,ZERO-B,KKW50,Mrd. CHF
+Summe,2032,1.639,ZERO-B,KKW50,Mrd. CHF
+Summe,2033,2.047,ZERO-B,KKW50,Mrd. CHF
+Summe,2034,2.359,ZERO-B,KKW50,Mrd. CHF
+Summe,2035,2.736,ZERO-B,KKW50,Mrd. CHF
+Summe,2036,3.148,ZERO-B,KKW50,Mrd. CHF
+Summe,2037,3.588,ZERO-B,KKW50,Mrd. CHF
+Summe,2038,3.881,ZERO-B,KKW50,Mrd. CHF
+Summe,2039,4.142,ZERO-B,KKW50,Mrd. CHF
+Summe,2040,4.306,ZERO-B,KKW50,Mrd. CHF
+Summe,2041,4.824,ZERO-B,KKW50,Mrd. CHF
+Summe,2042,5.384,ZERO-B,KKW50,Mrd. CHF
+Summe,2043,5.799,ZERO-B,KKW50,Mrd. CHF
+Summe,2044,6.376,ZERO-B,KKW50,Mrd. CHF
+Summe,2045,7.429,ZERO-B,KKW50,Mrd. CHF
+Summe,2046,8.288,ZERO-B,KKW50,Mrd. CHF
+Summe,2047,9.319,ZERO-B,KKW50,Mrd. CHF
+Summe,2048,10.27,ZERO-B,KKW50,Mrd. CHF
+Summe,2049,11.486,ZERO-B,KKW50,Mrd. CHF
+Summe,2050,12.61,ZERO-B,KKW50,Mrd. CHF
+Summe,2051,12.367,ZERO-B,KKW50,Mrd. CHF
+Summe,2052,11.888,ZERO-B,KKW50,Mrd. CHF
+Summe,2053,11.597,ZERO-B,KKW50,Mrd. CHF
+Summe,2054,11.259,ZERO-B,KKW50,Mrd. CHF
+Summe,2055,10.92,ZERO-B,KKW50,Mrd. CHF
+Summe,2056,10.538,ZERO-B,KKW50,Mrd. CHF
+Summe,2057,10.38,ZERO-B,KKW50,Mrd. CHF
+Summe,2058,9.735,ZERO-B,KKW50,Mrd. CHF
+Summe,2059,9.453,ZERO-B,KKW50,Mrd. CHF
+Summe,2060,9.158,ZERO-B,KKW50,Mrd. CHF
+Summe,kumuliert 2020-50,115.168,ZERO-B,KKW50,Mrd. CHF
+Summe,kumuliert 2020-60,222.465,ZERO-B,KKW50,Mrd. CHF
+Investitionen (annuisiert),2020,0.026,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2021,0.166,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2022,0.301,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2023,0.462,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2024,0.65,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2025,0.865,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2026,1.095,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2027,1.333,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2028,1.592,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2029,1.852,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2030,2.141,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2031,2.445,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2032,2.781,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2033,3.184,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2034,3.555,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2035,3.924,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2036,4.324,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2037,4.676,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2038,5.017,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2039,5.37,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2040,5.631,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2041,5.926,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2042,6.279,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2043,6.423,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2044,6.705,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2045,6.911,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2046,7.026,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2047,7.206,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2048,7.392,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2049,7.78,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2050,8.142,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2051,8.09,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2052,8.018,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2053,7.925,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2054,7.833,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2055,7.717,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2056,7.56,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2057,7.435,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2058,7.309,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2059,7.23,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),2060,7.187,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),kumuliert 2020-50,121.181,ZERO-C,KKW50,Mrd. CHF
+Investitionen (annuisiert),kumuliert 2020-60,197.484,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2020,0.008,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2021,0.01,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2022,0.017,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2023,0.026,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2024,0.035,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2025,0.043,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2026,0.06,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2027,0.076,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2028,0.098,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2029,0.117,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2030,0.155,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2031,0.18,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2032,0.236,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2033,0.3,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2034,0.368,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2035,0.443,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2036,0.515,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2037,0.588,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2038,0.662,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2039,0.732,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2040,0.826,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2041,0.863,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2042,0.918,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2043,0.939,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2044,0.965,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2045,0.966,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2046,0.974,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2047,0.982,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2048,0.99,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2049,0.986,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2050,1.01,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2051,0.994,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2052,0.972,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2053,0.941,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2054,0.904,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2055,0.861,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2056,0.801,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2057,0.744,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2058,0.686,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2059,0.643,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,2060,0.615,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,kumuliert 2020-50,15.088,ZERO-C,KKW50,Mrd. CHF
+Betriebskosten/Unterhalt,kumuliert 2020-60,23.249,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2020,-0.098,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2021,-0.283,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2022,-0.205,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2023,-0.155,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2024,-0.298,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2025,-0.402,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2026,-0.507,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2027,-0.603,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2028,-0.704,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2029,-0.895,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2030,-1.002,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2031,-1.106,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2032,-1.21,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2033,-1.364,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2034,-1.493,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2035,-1.583,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2036,-1.712,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2037,-1.768,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2038,-1.887,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2039,-1.93,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2040,-2.004,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2041,-1.732,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2042,-1.523,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2043,-1.258,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2044,-1.039,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2045,-0.029,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2046,0.859,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2047,1.635,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2048,2.301,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2049,2.893,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2050,3.536,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2051,3.085,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2052,2.694,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2053,2.291,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2054,1.986,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2055,1.706,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2056,1.404,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2057,1.201,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2058,0.891,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2059,0.666,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,2060,0.369,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,kumuliert 2020-50,-15.565,ZERO-C,KKW50,Mrd. CHF
+Energiekosten*,kumuliert 2020-60,0.758,ZERO-C,KKW50,Mrd. CHF
+Summe,2020,-0.064,ZERO-C,KKW50,Mrd. CHF
+Summe,2021,-0.106,ZERO-C,KKW50,Mrd. CHF
+Summe,2022,0.113,ZERO-C,KKW50,Mrd. CHF
+Summe,2023,0.333,ZERO-C,KKW50,Mrd. CHF
+Summe,2024,0.387,ZERO-C,KKW50,Mrd. CHF
+Summe,2025,0.505,ZERO-C,KKW50,Mrd. CHF
+Summe,2026,0.648,ZERO-C,KKW50,Mrd. CHF
+Summe,2027,0.807,ZERO-C,KKW50,Mrd. CHF
+Summe,2028,0.987,ZERO-C,KKW50,Mrd. CHF
+Summe,2029,1.074,ZERO-C,KKW50,Mrd. CHF
+Summe,2030,1.294,ZERO-C,KKW50,Mrd. CHF
+Summe,2031,1.52,ZERO-C,KKW50,Mrd. CHF
+Summe,2032,1.807,ZERO-C,KKW50,Mrd. CHF
+Summe,2033,2.12,ZERO-C,KKW50,Mrd. CHF
+Summe,2034,2.43,ZERO-C,KKW50,Mrd. CHF
+Summe,2035,2.784,ZERO-C,KKW50,Mrd. CHF
+Summe,2036,3.127,ZERO-C,KKW50,Mrd. CHF
+Summe,2037,3.496,ZERO-C,KKW50,Mrd. CHF
+Summe,2038,3.793,ZERO-C,KKW50,Mrd. CHF
+Summe,2039,4.172,ZERO-C,KKW50,Mrd. CHF
+Summe,2040,4.453,ZERO-C,KKW50,Mrd. CHF
+Summe,2041,5.057,ZERO-C,KKW50,Mrd. CHF
+Summe,2042,5.675,ZERO-C,KKW50,Mrd. CHF
+Summe,2043,6.105,ZERO-C,KKW50,Mrd. CHF
+Summe,2044,6.631,ZERO-C,KKW50,Mrd. CHF
+Summe,2045,7.849,ZERO-C,KKW50,Mrd. CHF
+Summe,2046,8.86,ZERO-C,KKW50,Mrd. CHF
+Summe,2047,9.823,ZERO-C,KKW50,Mrd. CHF
+Summe,2048,10.683,ZERO-C,KKW50,Mrd. CHF
+Summe,2049,11.659,ZERO-C,KKW50,Mrd. CHF
+Summe,2050,12.687,ZERO-C,KKW50,Mrd. CHF
+Summe,2051,12.17,ZERO-C,KKW50,Mrd. CHF
+Summe,2052,11.684,ZERO-C,KKW50,Mrd. CHF
+Summe,2053,11.157,ZERO-C,KKW50,Mrd. CHF
+Summe,2054,10.723,ZERO-C,KKW50,Mrd. CHF
+Summe,2055,10.283,ZERO-C,KKW50,Mrd. CHF
+Summe,2056,9.765,ZERO-C,KKW50,Mrd. CHF
+Summe,2057,9.38,ZERO-C,KKW50,Mrd. CHF
+Summe,2058,8.886,ZERO-C,KKW50,Mrd. CHF
+Summe,2059,8.538,ZERO-C,KKW50,Mrd. CHF
+Summe,2060,8.171,ZERO-C,KKW50,Mrd. CHF
+Summe,kumuliert 2020-50,120.704,ZERO-C,KKW50,Mrd. CHF
+Summe,kumuliert 2020-60,221.4603,ZERO-C,KKW50,Mrd. CHF

@@ -1,0 +1,2746 @@
+fuel,year,value,scenario,variant,unit
+Kohle,2000,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2001,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2002,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2003,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2004,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2005,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2006,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2007,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2008,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2009,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2010,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2011,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2012,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2013,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2014,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2015,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2016,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2017,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2018,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2019,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2020,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2021,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2022,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2023,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2024,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2025,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2026,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2027,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2028,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2029,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2030,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2031,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2032,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2033,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2034,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2035,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2036,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2037,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2038,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2039,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2040,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2041,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2042,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2043,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2044,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2045,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2046,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2047,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2048,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2049,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2050,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2051,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2052,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2053,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2054,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2055,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2056,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2057,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2058,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2059,0.0,ZERO-Basis,KKW50,PJ
+Kohle,2060,0.0,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2000,22.35,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2001,22.23,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2002,21.34,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2003,21.580000000000002,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2004,23.27,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2005,22.79,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2006,23.95,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2007,22.59,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2008,22.91,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2009,20.3,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2010,22.1,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2011,22.95,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2012,20.05,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2013,20.38,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2014,20.78,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2015,20.900000000000002,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2016,16.76,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2017,20.46,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2018,20.541464,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2019,20.46648,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2020,20.391496,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2021,20.316512,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2022,20.241528,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2023,20.166544000000002,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2024,20.09156,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2025,20.016576,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2026,19.941592,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2027,19.866608,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2028,19.791624,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2029,19.716639999999998,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2030,19.641656,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2031,19.566672,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2032,19.491688000000003,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2033,19.416704000000003,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2034,19.341720000000002,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2035,19.266736,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2036,19.191752,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2037,19.116768,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2038,19.041784,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2039,18.9668,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2040,18.891816,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2041,18.816832,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2042,18.741848,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2043,18.666864,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2044,18.59188,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2045,18.516896000000003,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2046,18.441912000000002,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2047,18.366928,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2048,18.291944,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2049,18.21696,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2050,18.141976000000003,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2051,18.066992,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2052,17.992008000000002,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2053,17.917024,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2054,17.84204,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2055,17.767056,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2056,17.692072,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2057,17.617088,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2058,17.542104,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2059,17.46712,ZERO-Basis,KKW50,PJ
+Erdölprodukte,2060,17.392136,ZERO-Basis,KKW50,PJ
+Erdgase,2000,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2001,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2002,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2003,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2004,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2005,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2006,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2007,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2008,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2009,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2010,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2011,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2012,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2013,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2014,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2015,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2016,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2017,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2018,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2019,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2020,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2021,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2022,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2023,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2024,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2025,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2026,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2027,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2028,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2029,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2030,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2031,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2032,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2033,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2034,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2035,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2036,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2037,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2038,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2039,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2040,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2041,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2042,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2043,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2044,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2045,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2046,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2047,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2048,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2049,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2050,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2051,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2052,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2053,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2054,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2055,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2056,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2057,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2058,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2059,0.0,ZERO-Basis,KKW50,PJ
+Erdgase,2060,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2000,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2001,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2002,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2003,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2004,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2005,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2006,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2007,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2008,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2009,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2010,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2011,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2012,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2013,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2014,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2015,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2016,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2017,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2018,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2019,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2020,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2021,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2022,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2023,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2024,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2025,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2026,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2027,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2028,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2029,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2030,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2031,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2032,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2033,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2034,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2035,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2036,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2037,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2038,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2039,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2040,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2041,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2042,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2043,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2044,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2045,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2046,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2047,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2048,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2049,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2050,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2051,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2052,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2053,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2054,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2055,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2056,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2057,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2058,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2059,0.0,ZERO-Basis,KKW50,PJ
+Sonstige Energieträger,2060,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2000,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2001,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2002,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2003,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2004,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2005,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2006,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2007,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2008,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2009,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2010,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2011,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2012,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2013,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2014,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2015,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2016,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2017,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2018,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2019,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2020,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2021,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2022,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2023,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2024,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2025,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2026,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2027,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2028,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2029,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2030,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2031,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2032,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2033,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2034,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2035,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2036,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2037,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2038,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2039,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2040,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2041,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2042,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2043,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2044,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2045,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2046,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2047,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2048,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2049,0.0,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2050,0.11,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2051,0.22000000000000006,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2052,0.385,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2053,0.605,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2054,0.8250000000000001,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2055,1.0450000000000002,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2056,1.2100000000000002,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2057,1.43,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2058,1.595,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2059,1.815,ZERO-Basis,KKW50,PJ
+Erneuerbare Energien,2060,2.035,ZERO-Basis,KKW50,PJ
+Elektrizität,2000,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2001,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2002,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2003,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2004,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2005,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2006,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2007,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2008,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2009,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2010,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2011,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2012,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2013,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2014,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2015,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2016,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2017,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2018,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2019,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2020,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2021,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2022,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2023,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2024,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2025,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2026,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2027,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2028,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2029,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2030,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2031,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2032,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2033,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2034,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2035,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2036,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2037,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2038,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2039,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2040,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2041,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2042,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2043,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2044,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2045,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2046,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2047,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2048,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2049,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2050,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2051,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2052,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2053,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2054,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2055,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2056,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2057,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2058,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2059,0.0,ZERO-Basis,KKW50,PJ
+Elektrizität,2060,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2000,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2001,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2002,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2003,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2004,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2005,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2006,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2007,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2008,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2009,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2010,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2011,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2012,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2013,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2014,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2015,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2016,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2017,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2018,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2019,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2020,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2021,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2022,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2023,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2024,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2025,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2026,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2027,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2028,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2029,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2030,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2031,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2032,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2033,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2034,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2035,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2036,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2037,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2038,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2039,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2040,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2041,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2042,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2043,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2044,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2045,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2046,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2047,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2048,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2049,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2050,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2051,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2052,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2053,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2054,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2055,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2056,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2057,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2058,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2059,0.0,ZERO-Basis,KKW50,PJ
+Fernwärme,2060,0.0,ZERO-Basis,KKW50,PJ
+PtX,2000,0.0,ZERO-Basis,KKW50,PJ
+PtX,2001,0.0,ZERO-Basis,KKW50,PJ
+PtX,2002,0.0,ZERO-Basis,KKW50,PJ
+PtX,2003,0.0,ZERO-Basis,KKW50,PJ
+PtX,2004,0.0,ZERO-Basis,KKW50,PJ
+PtX,2005,0.0,ZERO-Basis,KKW50,PJ
+PtX,2006,0.0,ZERO-Basis,KKW50,PJ
+PtX,2007,0.0,ZERO-Basis,KKW50,PJ
+PtX,2008,0.0,ZERO-Basis,KKW50,PJ
+PtX,2009,0.0,ZERO-Basis,KKW50,PJ
+PtX,2010,0.0,ZERO-Basis,KKW50,PJ
+PtX,2011,0.0,ZERO-Basis,KKW50,PJ
+PtX,2012,0.0,ZERO-Basis,KKW50,PJ
+PtX,2013,0.0,ZERO-Basis,KKW50,PJ
+PtX,2014,0.0,ZERO-Basis,KKW50,PJ
+PtX,2015,0.0,ZERO-Basis,KKW50,PJ
+PtX,2016,0.0,ZERO-Basis,KKW50,PJ
+PtX,2017,0.0,ZERO-Basis,KKW50,PJ
+PtX,2018,0.0,ZERO-Basis,KKW50,PJ
+PtX,2019,0.0,ZERO-Basis,KKW50,PJ
+PtX,2020,0.0,ZERO-Basis,KKW50,PJ
+PtX,2021,0.0,ZERO-Basis,KKW50,PJ
+PtX,2022,0.0,ZERO-Basis,KKW50,PJ
+PtX,2023,0.0,ZERO-Basis,KKW50,PJ
+PtX,2024,0.0,ZERO-Basis,KKW50,PJ
+PtX,2025,0.0,ZERO-Basis,KKW50,PJ
+PtX,2026,0.0,ZERO-Basis,KKW50,PJ
+PtX,2027,0.0,ZERO-Basis,KKW50,PJ
+PtX,2028,0.0,ZERO-Basis,KKW50,PJ
+PtX,2029,0.0,ZERO-Basis,KKW50,PJ
+PtX,2030,0.0,ZERO-Basis,KKW50,PJ
+PtX,2031,0.0,ZERO-Basis,KKW50,PJ
+PtX,2032,0.0,ZERO-Basis,KKW50,PJ
+PtX,2033,0.0,ZERO-Basis,KKW50,PJ
+PtX,2034,0.0,ZERO-Basis,KKW50,PJ
+PtX,2035,0.0,ZERO-Basis,KKW50,PJ
+PtX,2036,0.0,ZERO-Basis,KKW50,PJ
+PtX,2037,0.0,ZERO-Basis,KKW50,PJ
+PtX,2038,0.0,ZERO-Basis,KKW50,PJ
+PtX,2039,0.0,ZERO-Basis,KKW50,PJ
+PtX,2040,0.0,ZERO-Basis,KKW50,PJ
+PtX,2041,0.0,ZERO-Basis,KKW50,PJ
+PtX,2042,0.0,ZERO-Basis,KKW50,PJ
+PtX,2043,0.0,ZERO-Basis,KKW50,PJ
+PtX,2044,0.0,ZERO-Basis,KKW50,PJ
+PtX,2045,0.0,ZERO-Basis,KKW50,PJ
+PtX,2046,0.0,ZERO-Basis,KKW50,PJ
+PtX,2047,0.0,ZERO-Basis,KKW50,PJ
+PtX,2048,0.0,ZERO-Basis,KKW50,PJ
+PtX,2049,0.0,ZERO-Basis,KKW50,PJ
+PtX,2050,0.0,ZERO-Basis,KKW50,PJ
+PtX,2051,0.0,ZERO-Basis,KKW50,PJ
+PtX,2052,0.0,ZERO-Basis,KKW50,PJ
+PtX,2053,0.0,ZERO-Basis,KKW50,PJ
+PtX,2054,0.0,ZERO-Basis,KKW50,PJ
+PtX,2055,0.0,ZERO-Basis,KKW50,PJ
+PtX,2056,0.0,ZERO-Basis,KKW50,PJ
+PtX,2057,0.0,ZERO-Basis,KKW50,PJ
+PtX,2058,0.0,ZERO-Basis,KKW50,PJ
+PtX,2059,0.0,ZERO-Basis,KKW50,PJ
+PtX,2060,0.0,ZERO-Basis,KKW50,PJ
+Summe,2000,22.35,ZERO-Basis,KKW50,PJ
+Summe,2001,22.23,ZERO-Basis,KKW50,PJ
+Summe,2002,21.34,ZERO-Basis,KKW50,PJ
+Summe,2003,21.580000000000002,ZERO-Basis,KKW50,PJ
+Summe,2004,23.27,ZERO-Basis,KKW50,PJ
+Summe,2005,22.79,ZERO-Basis,KKW50,PJ
+Summe,2006,23.95,ZERO-Basis,KKW50,PJ
+Summe,2007,22.59,ZERO-Basis,KKW50,PJ
+Summe,2008,22.91,ZERO-Basis,KKW50,PJ
+Summe,2009,20.3,ZERO-Basis,KKW50,PJ
+Summe,2010,22.1,ZERO-Basis,KKW50,PJ
+Summe,2011,22.95,ZERO-Basis,KKW50,PJ
+Summe,2012,20.05,ZERO-Basis,KKW50,PJ
+Summe,2013,20.38,ZERO-Basis,KKW50,PJ
+Summe,2014,20.78,ZERO-Basis,KKW50,PJ
+Summe,2015,20.900000000000002,ZERO-Basis,KKW50,PJ
+Summe,2016,16.76,ZERO-Basis,KKW50,PJ
+Summe,2017,20.46,ZERO-Basis,KKW50,PJ
+Summe,2018,20.541464,ZERO-Basis,KKW50,PJ
+Summe,2019,20.46648,ZERO-Basis,KKW50,PJ
+Summe,2020,20.391496,ZERO-Basis,KKW50,PJ
+Summe,2021,20.316512,ZERO-Basis,KKW50,PJ
+Summe,2022,20.241528,ZERO-Basis,KKW50,PJ
+Summe,2023,20.166544000000002,ZERO-Basis,KKW50,PJ
+Summe,2024,20.09156,ZERO-Basis,KKW50,PJ
+Summe,2025,20.016576,ZERO-Basis,KKW50,PJ
+Summe,2026,19.941592,ZERO-Basis,KKW50,PJ
+Summe,2027,19.866608,ZERO-Basis,KKW50,PJ
+Summe,2028,19.791624,ZERO-Basis,KKW50,PJ
+Summe,2029,19.716639999999998,ZERO-Basis,KKW50,PJ
+Summe,2030,19.641656,ZERO-Basis,KKW50,PJ
+Summe,2031,19.566672,ZERO-Basis,KKW50,PJ
+Summe,2032,19.491688000000003,ZERO-Basis,KKW50,PJ
+Summe,2033,19.416704000000003,ZERO-Basis,KKW50,PJ
+Summe,2034,19.341720000000002,ZERO-Basis,KKW50,PJ
+Summe,2035,19.266736,ZERO-Basis,KKW50,PJ
+Summe,2036,19.191752,ZERO-Basis,KKW50,PJ
+Summe,2037,19.116768,ZERO-Basis,KKW50,PJ
+Summe,2038,19.041784,ZERO-Basis,KKW50,PJ
+Summe,2039,18.9668,ZERO-Basis,KKW50,PJ
+Summe,2040,18.891816,ZERO-Basis,KKW50,PJ
+Summe,2041,18.816832,ZERO-Basis,KKW50,PJ
+Summe,2042,18.741848,ZERO-Basis,KKW50,PJ
+Summe,2043,18.666864,ZERO-Basis,KKW50,PJ
+Summe,2044,18.59188,ZERO-Basis,KKW50,PJ
+Summe,2045,18.516896000000003,ZERO-Basis,KKW50,PJ
+Summe,2046,18.441912000000002,ZERO-Basis,KKW50,PJ
+Summe,2047,18.366928,ZERO-Basis,KKW50,PJ
+Summe,2048,18.291944,ZERO-Basis,KKW50,PJ
+Summe,2049,18.21696,ZERO-Basis,KKW50,PJ
+Summe,2050,18.251976000000003,ZERO-Basis,KKW50,PJ
+Summe,2051,18.286991999999998,ZERO-Basis,KKW50,PJ
+Summe,2052,18.377008000000004,ZERO-Basis,KKW50,PJ
+Summe,2053,18.522024000000002,ZERO-Basis,KKW50,PJ
+Summe,2054,18.66704,ZERO-Basis,KKW50,PJ
+Summe,2055,18.812056000000002,ZERO-Basis,KKW50,PJ
+Summe,2056,18.902072,ZERO-Basis,KKW50,PJ
+Summe,2057,19.047088,ZERO-Basis,KKW50,PJ
+Summe,2058,19.137103999999997,ZERO-Basis,KKW50,PJ
+Summe,2059,19.282120000000003,ZERO-Basis,KKW50,PJ
+Summe,2060,19.427136,ZERO-Basis,KKW50,PJ
+Kohle,2000,0.0,ZERO-A,KKW50,PJ
+Kohle,2001,0.0,ZERO-A,KKW50,PJ
+Kohle,2002,0.0,ZERO-A,KKW50,PJ
+Kohle,2003,0.0,ZERO-A,KKW50,PJ
+Kohle,2004,0.0,ZERO-A,KKW50,PJ
+Kohle,2005,0.0,ZERO-A,KKW50,PJ
+Kohle,2006,0.0,ZERO-A,KKW50,PJ
+Kohle,2007,0.0,ZERO-A,KKW50,PJ
+Kohle,2008,0.0,ZERO-A,KKW50,PJ
+Kohle,2009,0.0,ZERO-A,KKW50,PJ
+Kohle,2010,0.0,ZERO-A,KKW50,PJ
+Kohle,2011,0.0,ZERO-A,KKW50,PJ
+Kohle,2012,0.0,ZERO-A,KKW50,PJ
+Kohle,2013,0.0,ZERO-A,KKW50,PJ
+Kohle,2014,0.0,ZERO-A,KKW50,PJ
+Kohle,2015,0.0,ZERO-A,KKW50,PJ
+Kohle,2016,0.0,ZERO-A,KKW50,PJ
+Kohle,2017,0.0,ZERO-A,KKW50,PJ
+Kohle,2018,0.0,ZERO-A,KKW50,PJ
+Kohle,2019,0.0,ZERO-A,KKW50,PJ
+Kohle,2020,0.0,ZERO-A,KKW50,PJ
+Kohle,2021,0.0,ZERO-A,KKW50,PJ
+Kohle,2022,0.0,ZERO-A,KKW50,PJ
+Kohle,2023,0.0,ZERO-A,KKW50,PJ
+Kohle,2024,0.0,ZERO-A,KKW50,PJ
+Kohle,2025,0.0,ZERO-A,KKW50,PJ
+Kohle,2026,0.0,ZERO-A,KKW50,PJ
+Kohle,2027,0.0,ZERO-A,KKW50,PJ
+Kohle,2028,0.0,ZERO-A,KKW50,PJ
+Kohle,2029,0.0,ZERO-A,KKW50,PJ
+Kohle,2030,0.0,ZERO-A,KKW50,PJ
+Kohle,2031,0.0,ZERO-A,KKW50,PJ
+Kohle,2032,0.0,ZERO-A,KKW50,PJ
+Kohle,2033,0.0,ZERO-A,KKW50,PJ
+Kohle,2034,0.0,ZERO-A,KKW50,PJ
+Kohle,2035,0.0,ZERO-A,KKW50,PJ
+Kohle,2036,0.0,ZERO-A,KKW50,PJ
+Kohle,2037,0.0,ZERO-A,KKW50,PJ
+Kohle,2038,0.0,ZERO-A,KKW50,PJ
+Kohle,2039,0.0,ZERO-A,KKW50,PJ
+Kohle,2040,0.0,ZERO-A,KKW50,PJ
+Kohle,2041,0.0,ZERO-A,KKW50,PJ
+Kohle,2042,0.0,ZERO-A,KKW50,PJ
+Kohle,2043,0.0,ZERO-A,KKW50,PJ
+Kohle,2044,0.0,ZERO-A,KKW50,PJ
+Kohle,2045,0.0,ZERO-A,KKW50,PJ
+Kohle,2046,0.0,ZERO-A,KKW50,PJ
+Kohle,2047,0.0,ZERO-A,KKW50,PJ
+Kohle,2048,0.0,ZERO-A,KKW50,PJ
+Kohle,2049,0.0,ZERO-A,KKW50,PJ
+Kohle,2050,0.0,ZERO-A,KKW50,PJ
+Kohle,2051,0.0,ZERO-A,KKW50,PJ
+Kohle,2052,0.0,ZERO-A,KKW50,PJ
+Kohle,2053,0.0,ZERO-A,KKW50,PJ
+Kohle,2054,0.0,ZERO-A,KKW50,PJ
+Kohle,2055,0.0,ZERO-A,KKW50,PJ
+Kohle,2056,0.0,ZERO-A,KKW50,PJ
+Kohle,2057,0.0,ZERO-A,KKW50,PJ
+Kohle,2058,0.0,ZERO-A,KKW50,PJ
+Kohle,2059,0.0,ZERO-A,KKW50,PJ
+Kohle,2060,0.0,ZERO-A,KKW50,PJ
+Erdölprodukte,2000,22.35,ZERO-A,KKW50,PJ
+Erdölprodukte,2001,22.23,ZERO-A,KKW50,PJ
+Erdölprodukte,2002,21.34,ZERO-A,KKW50,PJ
+Erdölprodukte,2003,21.580000000000002,ZERO-A,KKW50,PJ
+Erdölprodukte,2004,23.27,ZERO-A,KKW50,PJ
+Erdölprodukte,2005,22.79,ZERO-A,KKW50,PJ
+Erdölprodukte,2006,23.95,ZERO-A,KKW50,PJ
+Erdölprodukte,2007,22.59,ZERO-A,KKW50,PJ
+Erdölprodukte,2008,22.91,ZERO-A,KKW50,PJ
+Erdölprodukte,2009,20.3,ZERO-A,KKW50,PJ
+Erdölprodukte,2010,22.1,ZERO-A,KKW50,PJ
+Erdölprodukte,2011,22.95,ZERO-A,KKW50,PJ
+Erdölprodukte,2012,20.05,ZERO-A,KKW50,PJ
+Erdölprodukte,2013,20.38,ZERO-A,KKW50,PJ
+Erdölprodukte,2014,20.78,ZERO-A,KKW50,PJ
+Erdölprodukte,2015,20.900000000000002,ZERO-A,KKW50,PJ
+Erdölprodukte,2016,16.76,ZERO-A,KKW50,PJ
+Erdölprodukte,2017,20.46,ZERO-A,KKW50,PJ
+Erdölprodukte,2018,20.541464,ZERO-A,KKW50,PJ
+Erdölprodukte,2019,20.46648,ZERO-A,KKW50,PJ
+Erdölprodukte,2020,20.391496,ZERO-A,KKW50,PJ
+Erdölprodukte,2021,20.316512,ZERO-A,KKW50,PJ
+Erdölprodukte,2022,20.241528,ZERO-A,KKW50,PJ
+Erdölprodukte,2023,20.166544000000002,ZERO-A,KKW50,PJ
+Erdölprodukte,2024,20.09156,ZERO-A,KKW50,PJ
+Erdölprodukte,2025,20.016576,ZERO-A,KKW50,PJ
+Erdölprodukte,2026,19.941592,ZERO-A,KKW50,PJ
+Erdölprodukte,2027,19.866608,ZERO-A,KKW50,PJ
+Erdölprodukte,2028,19.791624,ZERO-A,KKW50,PJ
+Erdölprodukte,2029,19.716639999999998,ZERO-A,KKW50,PJ
+Erdölprodukte,2030,19.641656,ZERO-A,KKW50,PJ
+Erdölprodukte,2031,19.566672,ZERO-A,KKW50,PJ
+Erdölprodukte,2032,19.491688000000003,ZERO-A,KKW50,PJ
+Erdölprodukte,2033,19.416704000000003,ZERO-A,KKW50,PJ
+Erdölprodukte,2034,19.341720000000002,ZERO-A,KKW50,PJ
+Erdölprodukte,2035,19.266736,ZERO-A,KKW50,PJ
+Erdölprodukte,2036,19.191752,ZERO-A,KKW50,PJ
+Erdölprodukte,2037,19.116768,ZERO-A,KKW50,PJ
+Erdölprodukte,2038,19.041784,ZERO-A,KKW50,PJ
+Erdölprodukte,2039,18.9668,ZERO-A,KKW50,PJ
+Erdölprodukte,2040,18.891816,ZERO-A,KKW50,PJ
+Erdölprodukte,2041,18.816832,ZERO-A,KKW50,PJ
+Erdölprodukte,2042,18.741848,ZERO-A,KKW50,PJ
+Erdölprodukte,2043,18.666864,ZERO-A,KKW50,PJ
+Erdölprodukte,2044,18.59188,ZERO-A,KKW50,PJ
+Erdölprodukte,2045,18.516896000000003,ZERO-A,KKW50,PJ
+Erdölprodukte,2046,18.441912000000002,ZERO-A,KKW50,PJ
+Erdölprodukte,2047,18.366928,ZERO-A,KKW50,PJ
+Erdölprodukte,2048,18.291944,ZERO-A,KKW50,PJ
+Erdölprodukte,2049,18.21696,ZERO-A,KKW50,PJ
+Erdölprodukte,2050,18.141976000000003,ZERO-A,KKW50,PJ
+Erdölprodukte,2051,18.066992,ZERO-A,KKW50,PJ
+Erdölprodukte,2052,17.992008000000002,ZERO-A,KKW50,PJ
+Erdölprodukte,2053,17.917024,ZERO-A,KKW50,PJ
+Erdölprodukte,2054,17.84204,ZERO-A,KKW50,PJ
+Erdölprodukte,2055,17.767056,ZERO-A,KKW50,PJ
+Erdölprodukte,2056,17.692072,ZERO-A,KKW50,PJ
+Erdölprodukte,2057,17.617088,ZERO-A,KKW50,PJ
+Erdölprodukte,2058,17.542104,ZERO-A,KKW50,PJ
+Erdölprodukte,2059,17.46712,ZERO-A,KKW50,PJ
+Erdölprodukte,2060,17.392136,ZERO-A,KKW50,PJ
+Erdgase,2000,0.0,ZERO-A,KKW50,PJ
+Erdgase,2001,0.0,ZERO-A,KKW50,PJ
+Erdgase,2002,0.0,ZERO-A,KKW50,PJ
+Erdgase,2003,0.0,ZERO-A,KKW50,PJ
+Erdgase,2004,0.0,ZERO-A,KKW50,PJ
+Erdgase,2005,0.0,ZERO-A,KKW50,PJ
+Erdgase,2006,0.0,ZERO-A,KKW50,PJ
+Erdgase,2007,0.0,ZERO-A,KKW50,PJ
+Erdgase,2008,0.0,ZERO-A,KKW50,PJ
+Erdgase,2009,0.0,ZERO-A,KKW50,PJ
+Erdgase,2010,0.0,ZERO-A,KKW50,PJ
+Erdgase,2011,0.0,ZERO-A,KKW50,PJ
+Erdgase,2012,0.0,ZERO-A,KKW50,PJ
+Erdgase,2013,0.0,ZERO-A,KKW50,PJ
+Erdgase,2014,0.0,ZERO-A,KKW50,PJ
+Erdgase,2015,0.0,ZERO-A,KKW50,PJ
+Erdgase,2016,0.0,ZERO-A,KKW50,PJ
+Erdgase,2017,0.0,ZERO-A,KKW50,PJ
+Erdgase,2018,0.0,ZERO-A,KKW50,PJ
+Erdgase,2019,0.0,ZERO-A,KKW50,PJ
+Erdgase,2020,0.0,ZERO-A,KKW50,PJ
+Erdgase,2021,0.0,ZERO-A,KKW50,PJ
+Erdgase,2022,0.0,ZERO-A,KKW50,PJ
+Erdgase,2023,0.0,ZERO-A,KKW50,PJ
+Erdgase,2024,0.0,ZERO-A,KKW50,PJ
+Erdgase,2025,0.0,ZERO-A,KKW50,PJ
+Erdgase,2026,0.0,ZERO-A,KKW50,PJ
+Erdgase,2027,0.0,ZERO-A,KKW50,PJ
+Erdgase,2028,0.0,ZERO-A,KKW50,PJ
+Erdgase,2029,0.0,ZERO-A,KKW50,PJ
+Erdgase,2030,0.0,ZERO-A,KKW50,PJ
+Erdgase,2031,0.0,ZERO-A,KKW50,PJ
+Erdgase,2032,0.0,ZERO-A,KKW50,PJ
+Erdgase,2033,0.0,ZERO-A,KKW50,PJ
+Erdgase,2034,0.0,ZERO-A,KKW50,PJ
+Erdgase,2035,0.0,ZERO-A,KKW50,PJ
+Erdgase,2036,0.0,ZERO-A,KKW50,PJ
+Erdgase,2037,0.0,ZERO-A,KKW50,PJ
+Erdgase,2038,0.0,ZERO-A,KKW50,PJ
+Erdgase,2039,0.0,ZERO-A,KKW50,PJ
+Erdgase,2040,0.0,ZERO-A,KKW50,PJ
+Erdgase,2041,0.0,ZERO-A,KKW50,PJ
+Erdgase,2042,0.0,ZERO-A,KKW50,PJ
+Erdgase,2043,0.0,ZERO-A,KKW50,PJ
+Erdgase,2044,0.0,ZERO-A,KKW50,PJ
+Erdgase,2045,0.0,ZERO-A,KKW50,PJ
+Erdgase,2046,0.0,ZERO-A,KKW50,PJ
+Erdgase,2047,0.0,ZERO-A,KKW50,PJ
+Erdgase,2048,0.0,ZERO-A,KKW50,PJ
+Erdgase,2049,0.0,ZERO-A,KKW50,PJ
+Erdgase,2050,0.0,ZERO-A,KKW50,PJ
+Erdgase,2051,0.0,ZERO-A,KKW50,PJ
+Erdgase,2052,0.0,ZERO-A,KKW50,PJ
+Erdgase,2053,0.0,ZERO-A,KKW50,PJ
+Erdgase,2054,0.0,ZERO-A,KKW50,PJ
+Erdgase,2055,0.0,ZERO-A,KKW50,PJ
+Erdgase,2056,0.0,ZERO-A,KKW50,PJ
+Erdgase,2057,0.0,ZERO-A,KKW50,PJ
+Erdgase,2058,0.0,ZERO-A,KKW50,PJ
+Erdgase,2059,0.0,ZERO-A,KKW50,PJ
+Erdgase,2060,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2000,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2001,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2002,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2003,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2004,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2005,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2006,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2007,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2008,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2009,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2010,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2011,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2012,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2013,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2014,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2015,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2016,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2017,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2018,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2019,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2020,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2021,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2022,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2023,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2024,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2025,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2026,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2027,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2028,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2029,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2030,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2031,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2032,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2033,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2034,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2035,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2036,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2037,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2038,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2039,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2040,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2041,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2042,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2043,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2044,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2045,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2046,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2047,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2048,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2049,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2050,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2051,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2052,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2053,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2054,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2055,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2056,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2057,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2058,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2059,0.0,ZERO-A,KKW50,PJ
+Sonstige Energieträger,2060,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2000,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2001,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2002,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2003,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2004,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2005,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2006,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2007,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2008,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2009,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2010,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2011,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2012,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2013,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2014,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2015,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2016,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2017,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2018,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2019,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2020,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2021,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2022,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2023,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2024,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2025,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2026,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2027,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2028,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2029,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2030,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2031,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2032,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2033,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2034,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2035,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2036,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2037,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2038,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2039,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2040,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2041,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2042,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2043,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2044,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2045,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2046,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2047,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2048,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2049,0.0,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2050,0.11,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2051,0.22000000000000006,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2052,0.385,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2053,0.605,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2054,0.8250000000000001,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2055,1.0450000000000002,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2056,1.2100000000000002,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2057,1.43,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2058,1.595,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2059,1.815,ZERO-A,KKW50,PJ
+Erneuerbare Energien,2060,2.035,ZERO-A,KKW50,PJ
+Elektrizität,2000,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2001,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2002,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2003,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2004,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2005,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2006,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2007,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2008,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2009,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2010,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2011,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2012,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2013,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2014,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2015,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2016,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2017,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2018,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2019,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2020,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2021,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2022,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2023,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2024,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2025,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2026,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2027,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2028,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2029,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2030,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2031,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2032,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2033,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2034,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2035,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2036,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2037,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2038,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2039,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2040,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2041,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2042,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2043,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2044,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2045,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2046,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2047,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2048,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2049,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2050,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2051,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2052,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2053,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2054,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2055,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2056,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2057,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2058,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2059,0.0,ZERO-A,KKW50,PJ
+Elektrizität,2060,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2000,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2001,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2002,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2003,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2004,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2005,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2006,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2007,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2008,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2009,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2010,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2011,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2012,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2013,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2014,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2015,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2016,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2017,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2018,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2019,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2020,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2021,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2022,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2023,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2024,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2025,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2026,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2027,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2028,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2029,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2030,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2031,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2032,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2033,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2034,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2035,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2036,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2037,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2038,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2039,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2040,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2041,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2042,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2043,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2044,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2045,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2046,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2047,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2048,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2049,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2050,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2051,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2052,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2053,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2054,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2055,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2056,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2057,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2058,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2059,0.0,ZERO-A,KKW50,PJ
+Fernwärme,2060,0.0,ZERO-A,KKW50,PJ
+PtX,2000,0.0,ZERO-A,KKW50,PJ
+PtX,2001,0.0,ZERO-A,KKW50,PJ
+PtX,2002,0.0,ZERO-A,KKW50,PJ
+PtX,2003,0.0,ZERO-A,KKW50,PJ
+PtX,2004,0.0,ZERO-A,KKW50,PJ
+PtX,2005,0.0,ZERO-A,KKW50,PJ
+PtX,2006,0.0,ZERO-A,KKW50,PJ
+PtX,2007,0.0,ZERO-A,KKW50,PJ
+PtX,2008,0.0,ZERO-A,KKW50,PJ
+PtX,2009,0.0,ZERO-A,KKW50,PJ
+PtX,2010,0.0,ZERO-A,KKW50,PJ
+PtX,2011,0.0,ZERO-A,KKW50,PJ
+PtX,2012,0.0,ZERO-A,KKW50,PJ
+PtX,2013,0.0,ZERO-A,KKW50,PJ
+PtX,2014,0.0,ZERO-A,KKW50,PJ
+PtX,2015,0.0,ZERO-A,KKW50,PJ
+PtX,2016,0.0,ZERO-A,KKW50,PJ
+PtX,2017,0.0,ZERO-A,KKW50,PJ
+PtX,2018,0.0,ZERO-A,KKW50,PJ
+PtX,2019,0.0,ZERO-A,KKW50,PJ
+PtX,2020,0.0,ZERO-A,KKW50,PJ
+PtX,2021,0.0,ZERO-A,KKW50,PJ
+PtX,2022,0.0,ZERO-A,KKW50,PJ
+PtX,2023,0.0,ZERO-A,KKW50,PJ
+PtX,2024,0.0,ZERO-A,KKW50,PJ
+PtX,2025,0.0,ZERO-A,KKW50,PJ
+PtX,2026,0.0,ZERO-A,KKW50,PJ
+PtX,2027,0.0,ZERO-A,KKW50,PJ
+PtX,2028,0.0,ZERO-A,KKW50,PJ
+PtX,2029,0.0,ZERO-A,KKW50,PJ
+PtX,2030,0.0,ZERO-A,KKW50,PJ
+PtX,2031,0.0,ZERO-A,KKW50,PJ
+PtX,2032,0.0,ZERO-A,KKW50,PJ
+PtX,2033,0.0,ZERO-A,KKW50,PJ
+PtX,2034,0.0,ZERO-A,KKW50,PJ
+PtX,2035,0.0,ZERO-A,KKW50,PJ
+PtX,2036,0.0,ZERO-A,KKW50,PJ
+PtX,2037,0.0,ZERO-A,KKW50,PJ
+PtX,2038,0.0,ZERO-A,KKW50,PJ
+PtX,2039,0.0,ZERO-A,KKW50,PJ
+PtX,2040,0.0,ZERO-A,KKW50,PJ
+PtX,2041,0.0,ZERO-A,KKW50,PJ
+PtX,2042,0.0,ZERO-A,KKW50,PJ
+PtX,2043,0.0,ZERO-A,KKW50,PJ
+PtX,2044,0.0,ZERO-A,KKW50,PJ
+PtX,2045,0.0,ZERO-A,KKW50,PJ
+PtX,2046,0.0,ZERO-A,KKW50,PJ
+PtX,2047,0.0,ZERO-A,KKW50,PJ
+PtX,2048,0.0,ZERO-A,KKW50,PJ
+PtX,2049,0.0,ZERO-A,KKW50,PJ
+PtX,2050,0.0,ZERO-A,KKW50,PJ
+PtX,2051,0.0,ZERO-A,KKW50,PJ
+PtX,2052,0.0,ZERO-A,KKW50,PJ
+PtX,2053,0.0,ZERO-A,KKW50,PJ
+PtX,2054,0.0,ZERO-A,KKW50,PJ
+PtX,2055,0.0,ZERO-A,KKW50,PJ
+PtX,2056,0.0,ZERO-A,KKW50,PJ
+PtX,2057,0.0,ZERO-A,KKW50,PJ
+PtX,2058,0.0,ZERO-A,KKW50,PJ
+PtX,2059,0.0,ZERO-A,KKW50,PJ
+PtX,2060,0.0,ZERO-A,KKW50,PJ
+Summe,2000,22.35,ZERO-A,KKW50,PJ
+Summe,2001,22.23,ZERO-A,KKW50,PJ
+Summe,2002,21.34,ZERO-A,KKW50,PJ
+Summe,2003,21.580000000000002,ZERO-A,KKW50,PJ
+Summe,2004,23.27,ZERO-A,KKW50,PJ
+Summe,2005,22.79,ZERO-A,KKW50,PJ
+Summe,2006,23.95,ZERO-A,KKW50,PJ
+Summe,2007,22.59,ZERO-A,KKW50,PJ
+Summe,2008,22.91,ZERO-A,KKW50,PJ
+Summe,2009,20.3,ZERO-A,KKW50,PJ
+Summe,2010,22.1,ZERO-A,KKW50,PJ
+Summe,2011,22.95,ZERO-A,KKW50,PJ
+Summe,2012,20.05,ZERO-A,KKW50,PJ
+Summe,2013,20.38,ZERO-A,KKW50,PJ
+Summe,2014,20.78,ZERO-A,KKW50,PJ
+Summe,2015,20.900000000000002,ZERO-A,KKW50,PJ
+Summe,2016,16.76,ZERO-A,KKW50,PJ
+Summe,2017,20.46,ZERO-A,KKW50,PJ
+Summe,2018,20.541464,ZERO-A,KKW50,PJ
+Summe,2019,20.46648,ZERO-A,KKW50,PJ
+Summe,2020,20.391496,ZERO-A,KKW50,PJ
+Summe,2021,20.316512,ZERO-A,KKW50,PJ
+Summe,2022,20.241528,ZERO-A,KKW50,PJ
+Summe,2023,20.166544000000002,ZERO-A,KKW50,PJ
+Summe,2024,20.09156,ZERO-A,KKW50,PJ
+Summe,2025,20.016576,ZERO-A,KKW50,PJ
+Summe,2026,19.941592,ZERO-A,KKW50,PJ
+Summe,2027,19.866608,ZERO-A,KKW50,PJ
+Summe,2028,19.791624,ZERO-A,KKW50,PJ
+Summe,2029,19.716639999999998,ZERO-A,KKW50,PJ
+Summe,2030,19.641656,ZERO-A,KKW50,PJ
+Summe,2031,19.566672,ZERO-A,KKW50,PJ
+Summe,2032,19.491688000000003,ZERO-A,KKW50,PJ
+Summe,2033,19.416704000000003,ZERO-A,KKW50,PJ
+Summe,2034,19.341720000000002,ZERO-A,KKW50,PJ
+Summe,2035,19.266736,ZERO-A,KKW50,PJ
+Summe,2036,19.191752,ZERO-A,KKW50,PJ
+Summe,2037,19.116768,ZERO-A,KKW50,PJ
+Summe,2038,19.041784,ZERO-A,KKW50,PJ
+Summe,2039,18.9668,ZERO-A,KKW50,PJ
+Summe,2040,18.891816,ZERO-A,KKW50,PJ
+Summe,2041,18.816832,ZERO-A,KKW50,PJ
+Summe,2042,18.741848,ZERO-A,KKW50,PJ
+Summe,2043,18.666864,ZERO-A,KKW50,PJ
+Summe,2044,18.59188,ZERO-A,KKW50,PJ
+Summe,2045,18.516896000000003,ZERO-A,KKW50,PJ
+Summe,2046,18.441912000000002,ZERO-A,KKW50,PJ
+Summe,2047,18.366928,ZERO-A,KKW50,PJ
+Summe,2048,18.291944,ZERO-A,KKW50,PJ
+Summe,2049,18.21696,ZERO-A,KKW50,PJ
+Summe,2050,18.251976000000003,ZERO-A,KKW50,PJ
+Summe,2051,18.286991999999998,ZERO-A,KKW50,PJ
+Summe,2052,18.377008000000004,ZERO-A,KKW50,PJ
+Summe,2053,18.522024000000002,ZERO-A,KKW50,PJ
+Summe,2054,18.66704,ZERO-A,KKW50,PJ
+Summe,2055,18.812056000000002,ZERO-A,KKW50,PJ
+Summe,2056,18.902072,ZERO-A,KKW50,PJ
+Summe,2057,19.047088,ZERO-A,KKW50,PJ
+Summe,2058,19.137103999999997,ZERO-A,KKW50,PJ
+Summe,2059,19.282120000000003,ZERO-A,KKW50,PJ
+Summe,2060,19.427136,ZERO-A,KKW50,PJ
+Kohle,2000,0.0,ZERO-B,KKW50,PJ
+Kohle,2001,0.0,ZERO-B,KKW50,PJ
+Kohle,2002,0.0,ZERO-B,KKW50,PJ
+Kohle,2003,0.0,ZERO-B,KKW50,PJ
+Kohle,2004,0.0,ZERO-B,KKW50,PJ
+Kohle,2005,0.0,ZERO-B,KKW50,PJ
+Kohle,2006,0.0,ZERO-B,KKW50,PJ
+Kohle,2007,0.0,ZERO-B,KKW50,PJ
+Kohle,2008,0.0,ZERO-B,KKW50,PJ
+Kohle,2009,0.0,ZERO-B,KKW50,PJ
+Kohle,2010,0.0,ZERO-B,KKW50,PJ
+Kohle,2011,0.0,ZERO-B,KKW50,PJ
+Kohle,2012,0.0,ZERO-B,KKW50,PJ
+Kohle,2013,0.0,ZERO-B,KKW50,PJ
+Kohle,2014,0.0,ZERO-B,KKW50,PJ
+Kohle,2015,0.0,ZERO-B,KKW50,PJ
+Kohle,2016,0.0,ZERO-B,KKW50,PJ
+Kohle,2017,0.0,ZERO-B,KKW50,PJ
+Kohle,2018,0.0,ZERO-B,KKW50,PJ
+Kohle,2019,0.0,ZERO-B,KKW50,PJ
+Kohle,2020,0.0,ZERO-B,KKW50,PJ
+Kohle,2021,0.0,ZERO-B,KKW50,PJ
+Kohle,2022,0.0,ZERO-B,KKW50,PJ
+Kohle,2023,0.0,ZERO-B,KKW50,PJ
+Kohle,2024,0.0,ZERO-B,KKW50,PJ
+Kohle,2025,0.0,ZERO-B,KKW50,PJ
+Kohle,2026,0.0,ZERO-B,KKW50,PJ
+Kohle,2027,0.0,ZERO-B,KKW50,PJ
+Kohle,2028,0.0,ZERO-B,KKW50,PJ
+Kohle,2029,0.0,ZERO-B,KKW50,PJ
+Kohle,2030,0.0,ZERO-B,KKW50,PJ
+Kohle,2031,0.0,ZERO-B,KKW50,PJ
+Kohle,2032,0.0,ZERO-B,KKW50,PJ
+Kohle,2033,0.0,ZERO-B,KKW50,PJ
+Kohle,2034,0.0,ZERO-B,KKW50,PJ
+Kohle,2035,0.0,ZERO-B,KKW50,PJ
+Kohle,2036,0.0,ZERO-B,KKW50,PJ
+Kohle,2037,0.0,ZERO-B,KKW50,PJ
+Kohle,2038,0.0,ZERO-B,KKW50,PJ
+Kohle,2039,0.0,ZERO-B,KKW50,PJ
+Kohle,2040,0.0,ZERO-B,KKW50,PJ
+Kohle,2041,0.0,ZERO-B,KKW50,PJ
+Kohle,2042,0.0,ZERO-B,KKW50,PJ
+Kohle,2043,0.0,ZERO-B,KKW50,PJ
+Kohle,2044,0.0,ZERO-B,KKW50,PJ
+Kohle,2045,0.0,ZERO-B,KKW50,PJ
+Kohle,2046,0.0,ZERO-B,KKW50,PJ
+Kohle,2047,0.0,ZERO-B,KKW50,PJ
+Kohle,2048,0.0,ZERO-B,KKW50,PJ
+Kohle,2049,0.0,ZERO-B,KKW50,PJ
+Kohle,2050,0.0,ZERO-B,KKW50,PJ
+Kohle,2051,0.0,ZERO-B,KKW50,PJ
+Kohle,2052,0.0,ZERO-B,KKW50,PJ
+Kohle,2053,0.0,ZERO-B,KKW50,PJ
+Kohle,2054,0.0,ZERO-B,KKW50,PJ
+Kohle,2055,0.0,ZERO-B,KKW50,PJ
+Kohle,2056,0.0,ZERO-B,KKW50,PJ
+Kohle,2057,0.0,ZERO-B,KKW50,PJ
+Kohle,2058,0.0,ZERO-B,KKW50,PJ
+Kohle,2059,0.0,ZERO-B,KKW50,PJ
+Kohle,2060,0.0,ZERO-B,KKW50,PJ
+Erdölprodukte,2000,22.35,ZERO-B,KKW50,PJ
+Erdölprodukte,2001,22.23,ZERO-B,KKW50,PJ
+Erdölprodukte,2002,21.34,ZERO-B,KKW50,PJ
+Erdölprodukte,2003,21.580000000000002,ZERO-B,KKW50,PJ
+Erdölprodukte,2004,23.27,ZERO-B,KKW50,PJ
+Erdölprodukte,2005,22.79,ZERO-B,KKW50,PJ
+Erdölprodukte,2006,23.95,ZERO-B,KKW50,PJ
+Erdölprodukte,2007,22.59,ZERO-B,KKW50,PJ
+Erdölprodukte,2008,22.91,ZERO-B,KKW50,PJ
+Erdölprodukte,2009,20.3,ZERO-B,KKW50,PJ
+Erdölprodukte,2010,22.1,ZERO-B,KKW50,PJ
+Erdölprodukte,2011,22.95,ZERO-B,KKW50,PJ
+Erdölprodukte,2012,20.05,ZERO-B,KKW50,PJ
+Erdölprodukte,2013,20.38,ZERO-B,KKW50,PJ
+Erdölprodukte,2014,20.78,ZERO-B,KKW50,PJ
+Erdölprodukte,2015,20.900000000000002,ZERO-B,KKW50,PJ
+Erdölprodukte,2016,16.76,ZERO-B,KKW50,PJ
+Erdölprodukte,2017,20.46,ZERO-B,KKW50,PJ
+Erdölprodukte,2018,20.541464,ZERO-B,KKW50,PJ
+Erdölprodukte,2019,20.46648,ZERO-B,KKW50,PJ
+Erdölprodukte,2020,20.391496,ZERO-B,KKW50,PJ
+Erdölprodukte,2021,20.316512,ZERO-B,KKW50,PJ
+Erdölprodukte,2022,20.241528,ZERO-B,KKW50,PJ
+Erdölprodukte,2023,20.166544000000002,ZERO-B,KKW50,PJ
+Erdölprodukte,2024,20.09156,ZERO-B,KKW50,PJ
+Erdölprodukte,2025,20.016576,ZERO-B,KKW50,PJ
+Erdölprodukte,2026,19.941592,ZERO-B,KKW50,PJ
+Erdölprodukte,2027,19.866608,ZERO-B,KKW50,PJ
+Erdölprodukte,2028,19.791624,ZERO-B,KKW50,PJ
+Erdölprodukte,2029,19.716639999999998,ZERO-B,KKW50,PJ
+Erdölprodukte,2030,19.641656,ZERO-B,KKW50,PJ
+Erdölprodukte,2031,19.566672,ZERO-B,KKW50,PJ
+Erdölprodukte,2032,19.491688000000003,ZERO-B,KKW50,PJ
+Erdölprodukte,2033,19.416704000000003,ZERO-B,KKW50,PJ
+Erdölprodukte,2034,19.341720000000002,ZERO-B,KKW50,PJ
+Erdölprodukte,2035,19.266736,ZERO-B,KKW50,PJ
+Erdölprodukte,2036,19.191752,ZERO-B,KKW50,PJ
+Erdölprodukte,2037,19.116768,ZERO-B,KKW50,PJ
+Erdölprodukte,2038,19.041784,ZERO-B,KKW50,PJ
+Erdölprodukte,2039,18.9668,ZERO-B,KKW50,PJ
+Erdölprodukte,2040,18.891816,ZERO-B,KKW50,PJ
+Erdölprodukte,2041,18.816832,ZERO-B,KKW50,PJ
+Erdölprodukte,2042,18.741848,ZERO-B,KKW50,PJ
+Erdölprodukte,2043,18.666864,ZERO-B,KKW50,PJ
+Erdölprodukte,2044,18.59188,ZERO-B,KKW50,PJ
+Erdölprodukte,2045,18.516896000000003,ZERO-B,KKW50,PJ
+Erdölprodukte,2046,18.441912000000002,ZERO-B,KKW50,PJ
+Erdölprodukte,2047,18.366928,ZERO-B,KKW50,PJ
+Erdölprodukte,2048,18.291944,ZERO-B,KKW50,PJ
+Erdölprodukte,2049,18.21696,ZERO-B,KKW50,PJ
+Erdölprodukte,2050,18.141976000000003,ZERO-B,KKW50,PJ
+Erdölprodukte,2051,18.066992,ZERO-B,KKW50,PJ
+Erdölprodukte,2052,17.992008000000002,ZERO-B,KKW50,PJ
+Erdölprodukte,2053,17.917024,ZERO-B,KKW50,PJ
+Erdölprodukte,2054,17.84204,ZERO-B,KKW50,PJ
+Erdölprodukte,2055,17.767056,ZERO-B,KKW50,PJ
+Erdölprodukte,2056,17.692072,ZERO-B,KKW50,PJ
+Erdölprodukte,2057,17.617088,ZERO-B,KKW50,PJ
+Erdölprodukte,2058,17.542104,ZERO-B,KKW50,PJ
+Erdölprodukte,2059,17.46712,ZERO-B,KKW50,PJ
+Erdölprodukte,2060,17.392136,ZERO-B,KKW50,PJ
+Erdgase,2000,0.0,ZERO-B,KKW50,PJ
+Erdgase,2001,0.0,ZERO-B,KKW50,PJ
+Erdgase,2002,0.0,ZERO-B,KKW50,PJ
+Erdgase,2003,0.0,ZERO-B,KKW50,PJ
+Erdgase,2004,0.0,ZERO-B,KKW50,PJ
+Erdgase,2005,0.0,ZERO-B,KKW50,PJ
+Erdgase,2006,0.0,ZERO-B,KKW50,PJ
+Erdgase,2007,0.0,ZERO-B,KKW50,PJ
+Erdgase,2008,0.0,ZERO-B,KKW50,PJ
+Erdgase,2009,0.0,ZERO-B,KKW50,PJ
+Erdgase,2010,0.0,ZERO-B,KKW50,PJ
+Erdgase,2011,0.0,ZERO-B,KKW50,PJ
+Erdgase,2012,0.0,ZERO-B,KKW50,PJ
+Erdgase,2013,0.0,ZERO-B,KKW50,PJ
+Erdgase,2014,0.0,ZERO-B,KKW50,PJ
+Erdgase,2015,0.0,ZERO-B,KKW50,PJ
+Erdgase,2016,0.0,ZERO-B,KKW50,PJ
+Erdgase,2017,0.0,ZERO-B,KKW50,PJ
+Erdgase,2018,0.0,ZERO-B,KKW50,PJ
+Erdgase,2019,0.0,ZERO-B,KKW50,PJ
+Erdgase,2020,0.0,ZERO-B,KKW50,PJ
+Erdgase,2021,0.0,ZERO-B,KKW50,PJ
+Erdgase,2022,0.0,ZERO-B,KKW50,PJ
+Erdgase,2023,0.0,ZERO-B,KKW50,PJ
+Erdgase,2024,0.0,ZERO-B,KKW50,PJ
+Erdgase,2025,0.0,ZERO-B,KKW50,PJ
+Erdgase,2026,0.0,ZERO-B,KKW50,PJ
+Erdgase,2027,0.0,ZERO-B,KKW50,PJ
+Erdgase,2028,0.0,ZERO-B,KKW50,PJ
+Erdgase,2029,0.0,ZERO-B,KKW50,PJ
+Erdgase,2030,0.0,ZERO-B,KKW50,PJ
+Erdgase,2031,0.0,ZERO-B,KKW50,PJ
+Erdgase,2032,0.0,ZERO-B,KKW50,PJ
+Erdgase,2033,0.0,ZERO-B,KKW50,PJ
+Erdgase,2034,0.0,ZERO-B,KKW50,PJ
+Erdgase,2035,0.0,ZERO-B,KKW50,PJ
+Erdgase,2036,0.0,ZERO-B,KKW50,PJ
+Erdgase,2037,0.0,ZERO-B,KKW50,PJ
+Erdgase,2038,0.0,ZERO-B,KKW50,PJ
+Erdgase,2039,0.0,ZERO-B,KKW50,PJ
+Erdgase,2040,0.0,ZERO-B,KKW50,PJ
+Erdgase,2041,0.0,ZERO-B,KKW50,PJ
+Erdgase,2042,0.0,ZERO-B,KKW50,PJ
+Erdgase,2043,0.0,ZERO-B,KKW50,PJ
+Erdgase,2044,0.0,ZERO-B,KKW50,PJ
+Erdgase,2045,0.0,ZERO-B,KKW50,PJ
+Erdgase,2046,0.0,ZERO-B,KKW50,PJ
+Erdgase,2047,0.0,ZERO-B,KKW50,PJ
+Erdgase,2048,0.0,ZERO-B,KKW50,PJ
+Erdgase,2049,0.0,ZERO-B,KKW50,PJ
+Erdgase,2050,0.0,ZERO-B,KKW50,PJ
+Erdgase,2051,0.0,ZERO-B,KKW50,PJ
+Erdgase,2052,0.0,ZERO-B,KKW50,PJ
+Erdgase,2053,0.0,ZERO-B,KKW50,PJ
+Erdgase,2054,0.0,ZERO-B,KKW50,PJ
+Erdgase,2055,0.0,ZERO-B,KKW50,PJ
+Erdgase,2056,0.0,ZERO-B,KKW50,PJ
+Erdgase,2057,0.0,ZERO-B,KKW50,PJ
+Erdgase,2058,0.0,ZERO-B,KKW50,PJ
+Erdgase,2059,0.0,ZERO-B,KKW50,PJ
+Erdgase,2060,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2000,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2001,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2002,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2003,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2004,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2005,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2006,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2007,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2008,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2009,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2010,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2011,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2012,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2013,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2014,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2015,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2016,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2017,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2018,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2019,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2020,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2021,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2022,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2023,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2024,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2025,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2026,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2027,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2028,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2029,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2030,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2031,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2032,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2033,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2034,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2035,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2036,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2037,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2038,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2039,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2040,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2041,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2042,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2043,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2044,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2045,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2046,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2047,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2048,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2049,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2050,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2051,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2052,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2053,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2054,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2055,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2056,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2057,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2058,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2059,0.0,ZERO-B,KKW50,PJ
+Sonstige Energieträger,2060,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2000,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2001,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2002,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2003,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2004,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2005,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2006,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2007,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2008,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2009,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2010,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2011,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2012,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2013,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2014,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2015,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2016,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2017,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2018,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2019,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2020,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2021,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2022,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2023,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2024,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2025,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2026,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2027,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2028,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2029,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2030,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2031,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2032,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2033,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2034,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2035,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2036,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2037,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2038,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2039,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2040,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2041,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2042,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2043,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2044,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2045,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2046,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2047,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2048,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2049,0.0,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2050,0.11,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2051,0.22000000000000006,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2052,0.385,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2053,0.605,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2054,0.8250000000000001,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2055,1.0450000000000002,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2056,1.2100000000000002,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2057,1.43,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2058,1.595,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2059,1.815,ZERO-B,KKW50,PJ
+Erneuerbare Energien,2060,2.035,ZERO-B,KKW50,PJ
+Elektrizität,2000,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2001,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2002,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2003,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2004,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2005,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2006,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2007,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2008,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2009,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2010,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2011,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2012,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2013,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2014,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2015,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2016,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2017,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2018,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2019,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2020,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2021,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2022,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2023,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2024,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2025,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2026,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2027,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2028,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2029,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2030,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2031,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2032,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2033,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2034,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2035,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2036,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2037,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2038,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2039,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2040,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2041,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2042,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2043,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2044,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2045,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2046,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2047,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2048,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2049,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2050,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2051,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2052,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2053,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2054,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2055,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2056,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2057,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2058,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2059,0.0,ZERO-B,KKW50,PJ
+Elektrizität,2060,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2000,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2001,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2002,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2003,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2004,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2005,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2006,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2007,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2008,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2009,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2010,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2011,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2012,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2013,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2014,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2015,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2016,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2017,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2018,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2019,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2020,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2021,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2022,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2023,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2024,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2025,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2026,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2027,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2028,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2029,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2030,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2031,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2032,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2033,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2034,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2035,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2036,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2037,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2038,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2039,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2040,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2041,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2042,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2043,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2044,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2045,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2046,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2047,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2048,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2049,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2050,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2051,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2052,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2053,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2054,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2055,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2056,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2057,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2058,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2059,0.0,ZERO-B,KKW50,PJ
+Fernwärme,2060,0.0,ZERO-B,KKW50,PJ
+PtX,2000,0.0,ZERO-B,KKW50,PJ
+PtX,2001,0.0,ZERO-B,KKW50,PJ
+PtX,2002,0.0,ZERO-B,KKW50,PJ
+PtX,2003,0.0,ZERO-B,KKW50,PJ
+PtX,2004,0.0,ZERO-B,KKW50,PJ
+PtX,2005,0.0,ZERO-B,KKW50,PJ
+PtX,2006,0.0,ZERO-B,KKW50,PJ
+PtX,2007,0.0,ZERO-B,KKW50,PJ
+PtX,2008,0.0,ZERO-B,KKW50,PJ
+PtX,2009,0.0,ZERO-B,KKW50,PJ
+PtX,2010,0.0,ZERO-B,KKW50,PJ
+PtX,2011,0.0,ZERO-B,KKW50,PJ
+PtX,2012,0.0,ZERO-B,KKW50,PJ
+PtX,2013,0.0,ZERO-B,KKW50,PJ
+PtX,2014,0.0,ZERO-B,KKW50,PJ
+PtX,2015,0.0,ZERO-B,KKW50,PJ
+PtX,2016,0.0,ZERO-B,KKW50,PJ
+PtX,2017,0.0,ZERO-B,KKW50,PJ
+PtX,2018,0.0,ZERO-B,KKW50,PJ
+PtX,2019,0.0,ZERO-B,KKW50,PJ
+PtX,2020,0.0,ZERO-B,KKW50,PJ
+PtX,2021,0.0,ZERO-B,KKW50,PJ
+PtX,2022,0.0,ZERO-B,KKW50,PJ
+PtX,2023,0.0,ZERO-B,KKW50,PJ
+PtX,2024,0.0,ZERO-B,KKW50,PJ
+PtX,2025,0.0,ZERO-B,KKW50,PJ
+PtX,2026,0.0,ZERO-B,KKW50,PJ
+PtX,2027,0.0,ZERO-B,KKW50,PJ
+PtX,2028,0.0,ZERO-B,KKW50,PJ
+PtX,2029,0.0,ZERO-B,KKW50,PJ
+PtX,2030,0.0,ZERO-B,KKW50,PJ
+PtX,2031,0.0,ZERO-B,KKW50,PJ
+PtX,2032,0.0,ZERO-B,KKW50,PJ
+PtX,2033,0.0,ZERO-B,KKW50,PJ
+PtX,2034,0.0,ZERO-B,KKW50,PJ
+PtX,2035,0.0,ZERO-B,KKW50,PJ
+PtX,2036,0.0,ZERO-B,KKW50,PJ
+PtX,2037,0.0,ZERO-B,KKW50,PJ
+PtX,2038,0.0,ZERO-B,KKW50,PJ
+PtX,2039,0.0,ZERO-B,KKW50,PJ
+PtX,2040,0.0,ZERO-B,KKW50,PJ
+PtX,2041,0.0,ZERO-B,KKW50,PJ
+PtX,2042,0.0,ZERO-B,KKW50,PJ
+PtX,2043,0.0,ZERO-B,KKW50,PJ
+PtX,2044,0.0,ZERO-B,KKW50,PJ
+PtX,2045,0.0,ZERO-B,KKW50,PJ
+PtX,2046,0.0,ZERO-B,KKW50,PJ
+PtX,2047,0.0,ZERO-B,KKW50,PJ
+PtX,2048,0.0,ZERO-B,KKW50,PJ
+PtX,2049,0.0,ZERO-B,KKW50,PJ
+PtX,2050,0.0,ZERO-B,KKW50,PJ
+PtX,2051,0.0,ZERO-B,KKW50,PJ
+PtX,2052,0.0,ZERO-B,KKW50,PJ
+PtX,2053,0.0,ZERO-B,KKW50,PJ
+PtX,2054,0.0,ZERO-B,KKW50,PJ
+PtX,2055,0.0,ZERO-B,KKW50,PJ
+PtX,2056,0.0,ZERO-B,KKW50,PJ
+PtX,2057,0.0,ZERO-B,KKW50,PJ
+PtX,2058,0.0,ZERO-B,KKW50,PJ
+PtX,2059,0.0,ZERO-B,KKW50,PJ
+PtX,2060,0.0,ZERO-B,KKW50,PJ
+Summe,2000,22.35,ZERO-B,KKW50,PJ
+Summe,2001,22.23,ZERO-B,KKW50,PJ
+Summe,2002,21.34,ZERO-B,KKW50,PJ
+Summe,2003,21.580000000000002,ZERO-B,KKW50,PJ
+Summe,2004,23.27,ZERO-B,KKW50,PJ
+Summe,2005,22.79,ZERO-B,KKW50,PJ
+Summe,2006,23.95,ZERO-B,KKW50,PJ
+Summe,2007,22.59,ZERO-B,KKW50,PJ
+Summe,2008,22.91,ZERO-B,KKW50,PJ
+Summe,2009,20.3,ZERO-B,KKW50,PJ
+Summe,2010,22.1,ZERO-B,KKW50,PJ
+Summe,2011,22.95,ZERO-B,KKW50,PJ
+Summe,2012,20.05,ZERO-B,KKW50,PJ
+Summe,2013,20.38,ZERO-B,KKW50,PJ
+Summe,2014,20.78,ZERO-B,KKW50,PJ
+Summe,2015,20.900000000000002,ZERO-B,KKW50,PJ
+Summe,2016,16.76,ZERO-B,KKW50,PJ
+Summe,2017,20.46,ZERO-B,KKW50,PJ
+Summe,2018,20.541464,ZERO-B,KKW50,PJ
+Summe,2019,20.46648,ZERO-B,KKW50,PJ
+Summe,2020,20.391496,ZERO-B,KKW50,PJ
+Summe,2021,20.316512,ZERO-B,KKW50,PJ
+Summe,2022,20.241528,ZERO-B,KKW50,PJ
+Summe,2023,20.166544000000002,ZERO-B,KKW50,PJ
+Summe,2024,20.09156,ZERO-B,KKW50,PJ
+Summe,2025,20.016576,ZERO-B,KKW50,PJ
+Summe,2026,19.941592,ZERO-B,KKW50,PJ
+Summe,2027,19.866608,ZERO-B,KKW50,PJ
+Summe,2028,19.791624,ZERO-B,KKW50,PJ
+Summe,2029,19.716639999999998,ZERO-B,KKW50,PJ
+Summe,2030,19.641656,ZERO-B,KKW50,PJ
+Summe,2031,19.566672,ZERO-B,KKW50,PJ
+Summe,2032,19.491688000000003,ZERO-B,KKW50,PJ
+Summe,2033,19.416704000000003,ZERO-B,KKW50,PJ
+Summe,2034,19.341720000000002,ZERO-B,KKW50,PJ
+Summe,2035,19.266736,ZERO-B,KKW50,PJ
+Summe,2036,19.191752,ZERO-B,KKW50,PJ
+Summe,2037,19.116768,ZERO-B,KKW50,PJ
+Summe,2038,19.041784,ZERO-B,KKW50,PJ
+Summe,2039,18.9668,ZERO-B,KKW50,PJ
+Summe,2040,18.891816,ZERO-B,KKW50,PJ
+Summe,2041,18.816832,ZERO-B,KKW50,PJ
+Summe,2042,18.741848,ZERO-B,KKW50,PJ
+Summe,2043,18.666864,ZERO-B,KKW50,PJ
+Summe,2044,18.59188,ZERO-B,KKW50,PJ
+Summe,2045,18.516896000000003,ZERO-B,KKW50,PJ
+Summe,2046,18.441912000000002,ZERO-B,KKW50,PJ
+Summe,2047,18.366928,ZERO-B,KKW50,PJ
+Summe,2048,18.291944,ZERO-B,KKW50,PJ
+Summe,2049,18.21696,ZERO-B,KKW50,PJ
+Summe,2050,18.251976000000003,ZERO-B,KKW50,PJ
+Summe,2051,18.286991999999998,ZERO-B,KKW50,PJ
+Summe,2052,18.377008000000004,ZERO-B,KKW50,PJ
+Summe,2053,18.522024000000002,ZERO-B,KKW50,PJ
+Summe,2054,18.66704,ZERO-B,KKW50,PJ
+Summe,2055,18.812056000000002,ZERO-B,KKW50,PJ
+Summe,2056,18.902072,ZERO-B,KKW50,PJ
+Summe,2057,19.047088,ZERO-B,KKW50,PJ
+Summe,2058,19.137103999999997,ZERO-B,KKW50,PJ
+Summe,2059,19.282120000000003,ZERO-B,KKW50,PJ
+Summe,2060,19.427136,ZERO-B,KKW50,PJ
+Kohle,2000,0.0,ZERO-C,KKW50,PJ
+Kohle,2001,0.0,ZERO-C,KKW50,PJ
+Kohle,2002,0.0,ZERO-C,KKW50,PJ
+Kohle,2003,0.0,ZERO-C,KKW50,PJ
+Kohle,2004,0.0,ZERO-C,KKW50,PJ
+Kohle,2005,0.0,ZERO-C,KKW50,PJ
+Kohle,2006,0.0,ZERO-C,KKW50,PJ
+Kohle,2007,0.0,ZERO-C,KKW50,PJ
+Kohle,2008,0.0,ZERO-C,KKW50,PJ
+Kohle,2009,0.0,ZERO-C,KKW50,PJ
+Kohle,2010,0.0,ZERO-C,KKW50,PJ
+Kohle,2011,0.0,ZERO-C,KKW50,PJ
+Kohle,2012,0.0,ZERO-C,KKW50,PJ
+Kohle,2013,0.0,ZERO-C,KKW50,PJ
+Kohle,2014,0.0,ZERO-C,KKW50,PJ
+Kohle,2015,0.0,ZERO-C,KKW50,PJ
+Kohle,2016,0.0,ZERO-C,KKW50,PJ
+Kohle,2017,0.0,ZERO-C,KKW50,PJ
+Kohle,2018,0.0,ZERO-C,KKW50,PJ
+Kohle,2019,0.0,ZERO-C,KKW50,PJ
+Kohle,2020,0.0,ZERO-C,KKW50,PJ
+Kohle,2021,0.0,ZERO-C,KKW50,PJ
+Kohle,2022,0.0,ZERO-C,KKW50,PJ
+Kohle,2023,0.0,ZERO-C,KKW50,PJ
+Kohle,2024,0.0,ZERO-C,KKW50,PJ
+Kohle,2025,0.0,ZERO-C,KKW50,PJ
+Kohle,2026,0.0,ZERO-C,KKW50,PJ
+Kohle,2027,0.0,ZERO-C,KKW50,PJ
+Kohle,2028,0.0,ZERO-C,KKW50,PJ
+Kohle,2029,0.0,ZERO-C,KKW50,PJ
+Kohle,2030,0.0,ZERO-C,KKW50,PJ
+Kohle,2031,0.0,ZERO-C,KKW50,PJ
+Kohle,2032,0.0,ZERO-C,KKW50,PJ
+Kohle,2033,0.0,ZERO-C,KKW50,PJ
+Kohle,2034,0.0,ZERO-C,KKW50,PJ
+Kohle,2035,0.0,ZERO-C,KKW50,PJ
+Kohle,2036,0.0,ZERO-C,KKW50,PJ
+Kohle,2037,0.0,ZERO-C,KKW50,PJ
+Kohle,2038,0.0,ZERO-C,KKW50,PJ
+Kohle,2039,0.0,ZERO-C,KKW50,PJ
+Kohle,2040,0.0,ZERO-C,KKW50,PJ
+Kohle,2041,0.0,ZERO-C,KKW50,PJ
+Kohle,2042,0.0,ZERO-C,KKW50,PJ
+Kohle,2043,0.0,ZERO-C,KKW50,PJ
+Kohle,2044,0.0,ZERO-C,KKW50,PJ
+Kohle,2045,0.0,ZERO-C,KKW50,PJ
+Kohle,2046,0.0,ZERO-C,KKW50,PJ
+Kohle,2047,0.0,ZERO-C,KKW50,PJ
+Kohle,2048,0.0,ZERO-C,KKW50,PJ
+Kohle,2049,0.0,ZERO-C,KKW50,PJ
+Kohle,2050,0.0,ZERO-C,KKW50,PJ
+Kohle,2051,0.0,ZERO-C,KKW50,PJ
+Kohle,2052,0.0,ZERO-C,KKW50,PJ
+Kohle,2053,0.0,ZERO-C,KKW50,PJ
+Kohle,2054,0.0,ZERO-C,KKW50,PJ
+Kohle,2055,0.0,ZERO-C,KKW50,PJ
+Kohle,2056,0.0,ZERO-C,KKW50,PJ
+Kohle,2057,0.0,ZERO-C,KKW50,PJ
+Kohle,2058,0.0,ZERO-C,KKW50,PJ
+Kohle,2059,0.0,ZERO-C,KKW50,PJ
+Kohle,2060,0.0,ZERO-C,KKW50,PJ
+Erdölprodukte,2000,22.35,ZERO-C,KKW50,PJ
+Erdölprodukte,2001,22.23,ZERO-C,KKW50,PJ
+Erdölprodukte,2002,21.34,ZERO-C,KKW50,PJ
+Erdölprodukte,2003,21.580000000000002,ZERO-C,KKW50,PJ
+Erdölprodukte,2004,23.27,ZERO-C,KKW50,PJ
+Erdölprodukte,2005,22.79,ZERO-C,KKW50,PJ
+Erdölprodukte,2006,23.95,ZERO-C,KKW50,PJ
+Erdölprodukte,2007,22.59,ZERO-C,KKW50,PJ
+Erdölprodukte,2008,22.91,ZERO-C,KKW50,PJ
+Erdölprodukte,2009,20.3,ZERO-C,KKW50,PJ
+Erdölprodukte,2010,22.1,ZERO-C,KKW50,PJ
+Erdölprodukte,2011,22.95,ZERO-C,KKW50,PJ
+Erdölprodukte,2012,20.05,ZERO-C,KKW50,PJ
+Erdölprodukte,2013,20.38,ZERO-C,KKW50,PJ
+Erdölprodukte,2014,20.78,ZERO-C,KKW50,PJ
+Erdölprodukte,2015,20.900000000000002,ZERO-C,KKW50,PJ
+Erdölprodukte,2016,16.76,ZERO-C,KKW50,PJ
+Erdölprodukte,2017,20.46,ZERO-C,KKW50,PJ
+Erdölprodukte,2018,20.541464,ZERO-C,KKW50,PJ
+Erdölprodukte,2019,20.46648,ZERO-C,KKW50,PJ
+Erdölprodukte,2020,20.391496,ZERO-C,KKW50,PJ
+Erdölprodukte,2021,20.316512,ZERO-C,KKW50,PJ
+Erdölprodukte,2022,20.241528,ZERO-C,KKW50,PJ
+Erdölprodukte,2023,20.166544000000002,ZERO-C,KKW50,PJ
+Erdölprodukte,2024,20.09156,ZERO-C,KKW50,PJ
+Erdölprodukte,2025,20.016576,ZERO-C,KKW50,PJ
+Erdölprodukte,2026,19.941592,ZERO-C,KKW50,PJ
+Erdölprodukte,2027,19.866608,ZERO-C,KKW50,PJ
+Erdölprodukte,2028,19.791624,ZERO-C,KKW50,PJ
+Erdölprodukte,2029,19.716639999999998,ZERO-C,KKW50,PJ
+Erdölprodukte,2030,19.641656,ZERO-C,KKW50,PJ
+Erdölprodukte,2031,19.566672,ZERO-C,KKW50,PJ
+Erdölprodukte,2032,19.491688000000003,ZERO-C,KKW50,PJ
+Erdölprodukte,2033,19.416704000000003,ZERO-C,KKW50,PJ
+Erdölprodukte,2034,19.341720000000002,ZERO-C,KKW50,PJ
+Erdölprodukte,2035,19.266736,ZERO-C,KKW50,PJ
+Erdölprodukte,2036,19.191752,ZERO-C,KKW50,PJ
+Erdölprodukte,2037,19.116768,ZERO-C,KKW50,PJ
+Erdölprodukte,2038,19.041784,ZERO-C,KKW50,PJ
+Erdölprodukte,2039,18.9668,ZERO-C,KKW50,PJ
+Erdölprodukte,2040,18.891816,ZERO-C,KKW50,PJ
+Erdölprodukte,2041,18.816832,ZERO-C,KKW50,PJ
+Erdölprodukte,2042,18.741848,ZERO-C,KKW50,PJ
+Erdölprodukte,2043,18.666864,ZERO-C,KKW50,PJ
+Erdölprodukte,2044,18.59188,ZERO-C,KKW50,PJ
+Erdölprodukte,2045,18.516896000000003,ZERO-C,KKW50,PJ
+Erdölprodukte,2046,18.441912000000002,ZERO-C,KKW50,PJ
+Erdölprodukte,2047,18.366928,ZERO-C,KKW50,PJ
+Erdölprodukte,2048,18.291944,ZERO-C,KKW50,PJ
+Erdölprodukte,2049,18.21696,ZERO-C,KKW50,PJ
+Erdölprodukte,2050,18.141976000000003,ZERO-C,KKW50,PJ
+Erdölprodukte,2051,18.066992,ZERO-C,KKW50,PJ
+Erdölprodukte,2052,17.992008000000002,ZERO-C,KKW50,PJ
+Erdölprodukte,2053,17.917024,ZERO-C,KKW50,PJ
+Erdölprodukte,2054,17.84204,ZERO-C,KKW50,PJ
+Erdölprodukte,2055,17.767056,ZERO-C,KKW50,PJ
+Erdölprodukte,2056,17.692072,ZERO-C,KKW50,PJ
+Erdölprodukte,2057,17.617088,ZERO-C,KKW50,PJ
+Erdölprodukte,2058,17.542104,ZERO-C,KKW50,PJ
+Erdölprodukte,2059,17.46712,ZERO-C,KKW50,PJ
+Erdölprodukte,2060,17.392136,ZERO-C,KKW50,PJ
+Erdgase,2000,0.0,ZERO-C,KKW50,PJ
+Erdgase,2001,0.0,ZERO-C,KKW50,PJ
+Erdgase,2002,0.0,ZERO-C,KKW50,PJ
+Erdgase,2003,0.0,ZERO-C,KKW50,PJ
+Erdgase,2004,0.0,ZERO-C,KKW50,PJ
+Erdgase,2005,0.0,ZERO-C,KKW50,PJ
+Erdgase,2006,0.0,ZERO-C,KKW50,PJ
+Erdgase,2007,0.0,ZERO-C,KKW50,PJ
+Erdgase,2008,0.0,ZERO-C,KKW50,PJ
+Erdgase,2009,0.0,ZERO-C,KKW50,PJ
+Erdgase,2010,0.0,ZERO-C,KKW50,PJ
+Erdgase,2011,0.0,ZERO-C,KKW50,PJ
+Erdgase,2012,0.0,ZERO-C,KKW50,PJ
+Erdgase,2013,0.0,ZERO-C,KKW50,PJ
+Erdgase,2014,0.0,ZERO-C,KKW50,PJ
+Erdgase,2015,0.0,ZERO-C,KKW50,PJ
+Erdgase,2016,0.0,ZERO-C,KKW50,PJ
+Erdgase,2017,0.0,ZERO-C,KKW50,PJ
+Erdgase,2018,0.0,ZERO-C,KKW50,PJ
+Erdgase,2019,0.0,ZERO-C,KKW50,PJ
+Erdgase,2020,0.0,ZERO-C,KKW50,PJ
+Erdgase,2021,0.0,ZERO-C,KKW50,PJ
+Erdgase,2022,0.0,ZERO-C,KKW50,PJ
+Erdgase,2023,0.0,ZERO-C,KKW50,PJ
+Erdgase,2024,0.0,ZERO-C,KKW50,PJ
+Erdgase,2025,0.0,ZERO-C,KKW50,PJ
+Erdgase,2026,0.0,ZERO-C,KKW50,PJ
+Erdgase,2027,0.0,ZERO-C,KKW50,PJ
+Erdgase,2028,0.0,ZERO-C,KKW50,PJ
+Erdgase,2029,0.0,ZERO-C,KKW50,PJ
+Erdgase,2030,0.0,ZERO-C,KKW50,PJ
+Erdgase,2031,0.0,ZERO-C,KKW50,PJ
+Erdgase,2032,0.0,ZERO-C,KKW50,PJ
+Erdgase,2033,0.0,ZERO-C,KKW50,PJ
+Erdgase,2034,0.0,ZERO-C,KKW50,PJ
+Erdgase,2035,0.0,ZERO-C,KKW50,PJ
+Erdgase,2036,0.0,ZERO-C,KKW50,PJ
+Erdgase,2037,0.0,ZERO-C,KKW50,PJ
+Erdgase,2038,0.0,ZERO-C,KKW50,PJ
+Erdgase,2039,0.0,ZERO-C,KKW50,PJ
+Erdgase,2040,0.0,ZERO-C,KKW50,PJ
+Erdgase,2041,0.0,ZERO-C,KKW50,PJ
+Erdgase,2042,0.0,ZERO-C,KKW50,PJ
+Erdgase,2043,0.0,ZERO-C,KKW50,PJ
+Erdgase,2044,0.0,ZERO-C,KKW50,PJ
+Erdgase,2045,0.0,ZERO-C,KKW50,PJ
+Erdgase,2046,0.0,ZERO-C,KKW50,PJ
+Erdgase,2047,0.0,ZERO-C,KKW50,PJ
+Erdgase,2048,0.0,ZERO-C,KKW50,PJ
+Erdgase,2049,0.0,ZERO-C,KKW50,PJ
+Erdgase,2050,0.0,ZERO-C,KKW50,PJ
+Erdgase,2051,0.0,ZERO-C,KKW50,PJ
+Erdgase,2052,0.0,ZERO-C,KKW50,PJ
+Erdgase,2053,0.0,ZERO-C,KKW50,PJ
+Erdgase,2054,0.0,ZERO-C,KKW50,PJ
+Erdgase,2055,0.0,ZERO-C,KKW50,PJ
+Erdgase,2056,0.0,ZERO-C,KKW50,PJ
+Erdgase,2057,0.0,ZERO-C,KKW50,PJ
+Erdgase,2058,0.0,ZERO-C,KKW50,PJ
+Erdgase,2059,0.0,ZERO-C,KKW50,PJ
+Erdgase,2060,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2000,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2001,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2002,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2003,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2004,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2005,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2006,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2007,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2008,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2009,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2010,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2011,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2012,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2013,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2014,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2015,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2016,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2017,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2018,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2019,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2020,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2021,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2022,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2023,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2024,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2025,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2026,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2027,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2028,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2029,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2030,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2031,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2032,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2033,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2034,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2035,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2036,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2037,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2038,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2039,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2040,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2041,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2042,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2043,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2044,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2045,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2046,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2047,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2048,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2049,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2050,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2051,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2052,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2053,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2054,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2055,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2056,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2057,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2058,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2059,0.0,ZERO-C,KKW50,PJ
+Sonstige Energieträger,2060,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2000,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2001,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2002,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2003,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2004,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2005,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2006,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2007,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2008,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2009,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2010,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2011,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2012,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2013,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2014,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2015,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2016,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2017,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2018,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2019,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2020,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2021,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2022,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2023,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2024,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2025,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2026,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2027,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2028,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2029,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2030,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2031,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2032,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2033,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2034,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2035,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2036,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2037,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2038,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2039,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2040,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2041,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2042,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2043,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2044,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2045,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2046,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2047,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2048,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2049,0.0,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2050,0.11,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2051,0.22000000000000006,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2052,0.385,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2053,0.605,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2054,0.8250000000000001,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2055,1.0450000000000002,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2056,1.2100000000000002,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2057,1.43,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2058,1.595,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2059,1.815,ZERO-C,KKW50,PJ
+Erneuerbare Energien,2060,2.035,ZERO-C,KKW50,PJ
+Elektrizität,2000,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2001,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2002,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2003,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2004,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2005,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2006,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2007,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2008,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2009,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2010,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2011,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2012,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2013,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2014,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2015,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2016,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2017,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2018,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2019,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2020,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2021,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2022,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2023,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2024,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2025,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2026,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2027,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2028,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2029,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2030,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2031,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2032,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2033,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2034,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2035,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2036,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2037,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2038,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2039,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2040,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2041,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2042,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2043,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2044,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2045,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2046,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2047,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2048,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2049,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2050,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2051,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2052,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2053,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2054,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2055,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2056,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2057,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2058,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2059,0.0,ZERO-C,KKW50,PJ
+Elektrizität,2060,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2000,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2001,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2002,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2003,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2004,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2005,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2006,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2007,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2008,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2009,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2010,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2011,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2012,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2013,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2014,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2015,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2016,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2017,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2018,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2019,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2020,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2021,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2022,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2023,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2024,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2025,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2026,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2027,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2028,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2029,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2030,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2031,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2032,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2033,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2034,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2035,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2036,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2037,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2038,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2039,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2040,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2041,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2042,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2043,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2044,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2045,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2046,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2047,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2048,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2049,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2050,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2051,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2052,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2053,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2054,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2055,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2056,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2057,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2058,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2059,0.0,ZERO-C,KKW50,PJ
+Fernwärme,2060,0.0,ZERO-C,KKW50,PJ
+PtX,2000,0.0,ZERO-C,KKW50,PJ
+PtX,2001,0.0,ZERO-C,KKW50,PJ
+PtX,2002,0.0,ZERO-C,KKW50,PJ
+PtX,2003,0.0,ZERO-C,KKW50,PJ
+PtX,2004,0.0,ZERO-C,KKW50,PJ
+PtX,2005,0.0,ZERO-C,KKW50,PJ
+PtX,2006,0.0,ZERO-C,KKW50,PJ
+PtX,2007,0.0,ZERO-C,KKW50,PJ
+PtX,2008,0.0,ZERO-C,KKW50,PJ
+PtX,2009,0.0,ZERO-C,KKW50,PJ
+PtX,2010,0.0,ZERO-C,KKW50,PJ
+PtX,2011,0.0,ZERO-C,KKW50,PJ
+PtX,2012,0.0,ZERO-C,KKW50,PJ
+PtX,2013,0.0,ZERO-C,KKW50,PJ
+PtX,2014,0.0,ZERO-C,KKW50,PJ
+PtX,2015,0.0,ZERO-C,KKW50,PJ
+PtX,2016,0.0,ZERO-C,KKW50,PJ
+PtX,2017,0.0,ZERO-C,KKW50,PJ
+PtX,2018,0.0,ZERO-C,KKW50,PJ
+PtX,2019,0.0,ZERO-C,KKW50,PJ
+PtX,2020,0.0,ZERO-C,KKW50,PJ
+PtX,2021,0.0,ZERO-C,KKW50,PJ
+PtX,2022,0.0,ZERO-C,KKW50,PJ
+PtX,2023,0.0,ZERO-C,KKW50,PJ
+PtX,2024,0.0,ZERO-C,KKW50,PJ
+PtX,2025,0.0,ZERO-C,KKW50,PJ
+PtX,2026,0.0,ZERO-C,KKW50,PJ
+PtX,2027,0.0,ZERO-C,KKW50,PJ
+PtX,2028,0.0,ZERO-C,KKW50,PJ
+PtX,2029,0.0,ZERO-C,KKW50,PJ
+PtX,2030,0.0,ZERO-C,KKW50,PJ
+PtX,2031,0.0,ZERO-C,KKW50,PJ
+PtX,2032,0.0,ZERO-C,KKW50,PJ
+PtX,2033,0.0,ZERO-C,KKW50,PJ
+PtX,2034,0.0,ZERO-C,KKW50,PJ
+PtX,2035,0.0,ZERO-C,KKW50,PJ
+PtX,2036,0.0,ZERO-C,KKW50,PJ
+PtX,2037,0.0,ZERO-C,KKW50,PJ
+PtX,2038,0.0,ZERO-C,KKW50,PJ
+PtX,2039,0.0,ZERO-C,KKW50,PJ
+PtX,2040,0.0,ZERO-C,KKW50,PJ
+PtX,2041,0.0,ZERO-C,KKW50,PJ
+PtX,2042,0.0,ZERO-C,KKW50,PJ
+PtX,2043,0.0,ZERO-C,KKW50,PJ
+PtX,2044,0.0,ZERO-C,KKW50,PJ
+PtX,2045,0.0,ZERO-C,KKW50,PJ
+PtX,2046,0.0,ZERO-C,KKW50,PJ
+PtX,2047,0.0,ZERO-C,KKW50,PJ
+PtX,2048,0.0,ZERO-C,KKW50,PJ
+PtX,2049,0.0,ZERO-C,KKW50,PJ
+PtX,2050,0.0,ZERO-C,KKW50,PJ
+PtX,2051,0.0,ZERO-C,KKW50,PJ
+PtX,2052,0.0,ZERO-C,KKW50,PJ
+PtX,2053,0.0,ZERO-C,KKW50,PJ
+PtX,2054,0.0,ZERO-C,KKW50,PJ
+PtX,2055,0.0,ZERO-C,KKW50,PJ
+PtX,2056,0.0,ZERO-C,KKW50,PJ
+PtX,2057,0.0,ZERO-C,KKW50,PJ
+PtX,2058,0.0,ZERO-C,KKW50,PJ
+PtX,2059,0.0,ZERO-C,KKW50,PJ
+PtX,2060,0.0,ZERO-C,KKW50,PJ
+Summe,2000,22.35,ZERO-C,KKW50,PJ
+Summe,2001,22.23,ZERO-C,KKW50,PJ
+Summe,2002,21.34,ZERO-C,KKW50,PJ
+Summe,2003,21.580000000000002,ZERO-C,KKW50,PJ
+Summe,2004,23.27,ZERO-C,KKW50,PJ
+Summe,2005,22.79,ZERO-C,KKW50,PJ
+Summe,2006,23.95,ZERO-C,KKW50,PJ
+Summe,2007,22.59,ZERO-C,KKW50,PJ
+Summe,2008,22.91,ZERO-C,KKW50,PJ
+Summe,2009,20.3,ZERO-C,KKW50,PJ
+Summe,2010,22.1,ZERO-C,KKW50,PJ
+Summe,2011,22.95,ZERO-C,KKW50,PJ
+Summe,2012,20.05,ZERO-C,KKW50,PJ
+Summe,2013,20.38,ZERO-C,KKW50,PJ
+Summe,2014,20.78,ZERO-C,KKW50,PJ
+Summe,2015,20.900000000000002,ZERO-C,KKW50,PJ
+Summe,2016,16.76,ZERO-C,KKW50,PJ
+Summe,2017,20.46,ZERO-C,KKW50,PJ
+Summe,2018,20.541464,ZERO-C,KKW50,PJ
+Summe,2019,20.46648,ZERO-C,KKW50,PJ
+Summe,2020,20.391496,ZERO-C,KKW50,PJ
+Summe,2021,20.316512,ZERO-C,KKW50,PJ
+Summe,2022,20.241528,ZERO-C,KKW50,PJ
+Summe,2023,20.166544000000002,ZERO-C,KKW50,PJ
+Summe,2024,20.09156,ZERO-C,KKW50,PJ
+Summe,2025,20.016576,ZERO-C,KKW50,PJ
+Summe,2026,19.941592,ZERO-C,KKW50,PJ
+Summe,2027,19.866608,ZERO-C,KKW50,PJ
+Summe,2028,19.791624,ZERO-C,KKW50,PJ
+Summe,2029,19.716639999999998,ZERO-C,KKW50,PJ
+Summe,2030,19.641656,ZERO-C,KKW50,PJ
+Summe,2031,19.566672,ZERO-C,KKW50,PJ
+Summe,2032,19.491688000000003,ZERO-C,KKW50,PJ
+Summe,2033,19.416704000000003,ZERO-C,KKW50,PJ
+Summe,2034,19.341720000000002,ZERO-C,KKW50,PJ
+Summe,2035,19.266736,ZERO-C,KKW50,PJ
+Summe,2036,19.191752,ZERO-C,KKW50,PJ
+Summe,2037,19.116768,ZERO-C,KKW50,PJ
+Summe,2038,19.041784,ZERO-C,KKW50,PJ
+Summe,2039,18.9668,ZERO-C,KKW50,PJ
+Summe,2040,18.891816,ZERO-C,KKW50,PJ
+Summe,2041,18.816832,ZERO-C,KKW50,PJ
+Summe,2042,18.741848,ZERO-C,KKW50,PJ
+Summe,2043,18.666864,ZERO-C,KKW50,PJ
+Summe,2044,18.59188,ZERO-C,KKW50,PJ
+Summe,2045,18.516896000000003,ZERO-C,KKW50,PJ
+Summe,2046,18.441912000000002,ZERO-C,KKW50,PJ
+Summe,2047,18.366928,ZERO-C,KKW50,PJ
+Summe,2048,18.291944,ZERO-C,KKW50,PJ
+Summe,2049,18.21696,ZERO-C,KKW50,PJ
+Summe,2050,18.251976000000003,ZERO-C,KKW50,PJ
+Summe,2051,18.286991999999998,ZERO-C,KKW50,PJ
+Summe,2052,18.377008000000004,ZERO-C,KKW50,PJ
+Summe,2053,18.522024000000002,ZERO-C,KKW50,PJ
+Summe,2054,18.66704,ZERO-C,KKW50,PJ
+Summe,2055,18.812056000000002,ZERO-C,KKW50,PJ
+Summe,2056,18.902072,ZERO-C,KKW50,PJ
+Summe,2057,19.047088,ZERO-C,KKW50,PJ
+Summe,2058,19.137103999999997,ZERO-C,KKW50,PJ
+Summe,2059,19.282120000000003,ZERO-C,KKW50,PJ
+Summe,2060,19.427136,ZERO-C,KKW50,PJ
+Kohle,2000,0.0,WWB,KKW50,PJ
+Kohle,2001,0.0,WWB,KKW50,PJ
+Kohle,2002,0.0,WWB,KKW50,PJ
+Kohle,2003,0.0,WWB,KKW50,PJ
+Kohle,2004,0.0,WWB,KKW50,PJ
+Kohle,2005,0.0,WWB,KKW50,PJ
+Kohle,2006,0.0,WWB,KKW50,PJ
+Kohle,2007,0.0,WWB,KKW50,PJ
+Kohle,2008,0.0,WWB,KKW50,PJ
+Kohle,2009,0.0,WWB,KKW50,PJ
+Kohle,2010,0.0,WWB,KKW50,PJ
+Kohle,2011,0.0,WWB,KKW50,PJ
+Kohle,2012,0.0,WWB,KKW50,PJ
+Kohle,2013,0.0,WWB,KKW50,PJ
+Kohle,2014,0.0,WWB,KKW50,PJ
+Kohle,2015,0.0,WWB,KKW50,PJ
+Kohle,2016,0.0,WWB,KKW50,PJ
+Kohle,2017,0.0,WWB,KKW50,PJ
+Kohle,2018,0.0,WWB,KKW50,PJ
+Kohle,2019,0.0,WWB,KKW50,PJ
+Kohle,2020,0.0,WWB,KKW50,PJ
+Kohle,2021,0.0,WWB,KKW50,PJ
+Kohle,2022,0.0,WWB,KKW50,PJ
+Kohle,2023,0.0,WWB,KKW50,PJ
+Kohle,2024,0.0,WWB,KKW50,PJ
+Kohle,2025,0.0,WWB,KKW50,PJ
+Kohle,2026,0.0,WWB,KKW50,PJ
+Kohle,2027,0.0,WWB,KKW50,PJ
+Kohle,2028,0.0,WWB,KKW50,PJ
+Kohle,2029,0.0,WWB,KKW50,PJ
+Kohle,2030,0.0,WWB,KKW50,PJ
+Kohle,2031,0.0,WWB,KKW50,PJ
+Kohle,2032,0.0,WWB,KKW50,PJ
+Kohle,2033,0.0,WWB,KKW50,PJ
+Kohle,2034,0.0,WWB,KKW50,PJ
+Kohle,2035,0.0,WWB,KKW50,PJ
+Kohle,2036,0.0,WWB,KKW50,PJ
+Kohle,2037,0.0,WWB,KKW50,PJ
+Kohle,2038,0.0,WWB,KKW50,PJ
+Kohle,2039,0.0,WWB,KKW50,PJ
+Kohle,2040,0.0,WWB,KKW50,PJ
+Kohle,2041,0.0,WWB,KKW50,PJ
+Kohle,2042,0.0,WWB,KKW50,PJ
+Kohle,2043,0.0,WWB,KKW50,PJ
+Kohle,2044,0.0,WWB,KKW50,PJ
+Kohle,2045,0.0,WWB,KKW50,PJ
+Kohle,2046,0.0,WWB,KKW50,PJ
+Kohle,2047,0.0,WWB,KKW50,PJ
+Kohle,2048,0.0,WWB,KKW50,PJ
+Kohle,2049,0.0,WWB,KKW50,PJ
+Kohle,2050,0.0,WWB,KKW50,PJ
+Kohle,2051,0.0,WWB,KKW50,PJ
+Kohle,2052,0.0,WWB,KKW50,PJ
+Kohle,2053,0.0,WWB,KKW50,PJ
+Kohle,2054,0.0,WWB,KKW50,PJ
+Kohle,2055,0.0,WWB,KKW50,PJ
+Kohle,2056,0.0,WWB,KKW50,PJ
+Kohle,2057,0.0,WWB,KKW50,PJ
+Kohle,2058,0.0,WWB,KKW50,PJ
+Kohle,2059,0.0,WWB,KKW50,PJ
+Kohle,2060,0.0,WWB,KKW50,PJ
+Erdölprodukte,2000,22.35,WWB,KKW50,PJ
+Erdölprodukte,2001,22.23,WWB,KKW50,PJ
+Erdölprodukte,2002,21.34,WWB,KKW50,PJ
+Erdölprodukte,2003,21.580000000000002,WWB,KKW50,PJ
+Erdölprodukte,2004,23.27,WWB,KKW50,PJ
+Erdölprodukte,2005,22.79,WWB,KKW50,PJ
+Erdölprodukte,2006,23.95,WWB,KKW50,PJ
+Erdölprodukte,2007,22.59,WWB,KKW50,PJ
+Erdölprodukte,2008,22.91,WWB,KKW50,PJ
+Erdölprodukte,2009,20.3,WWB,KKW50,PJ
+Erdölprodukte,2010,22.1,WWB,KKW50,PJ
+Erdölprodukte,2011,22.95,WWB,KKW50,PJ
+Erdölprodukte,2012,20.05,WWB,KKW50,PJ
+Erdölprodukte,2013,20.38,WWB,KKW50,PJ
+Erdölprodukte,2014,20.78,WWB,KKW50,PJ
+Erdölprodukte,2015,20.900000000000002,WWB,KKW50,PJ
+Erdölprodukte,2016,16.76,WWB,KKW50,PJ
+Erdölprodukte,2017,20.46,WWB,KKW50,PJ
+Erdölprodukte,2018,20.541464,WWB,KKW50,PJ
+Erdölprodukte,2019,20.46648,WWB,KKW50,PJ
+Erdölprodukte,2020,20.391496,WWB,KKW50,PJ
+Erdölprodukte,2021,20.316512,WWB,KKW50,PJ
+Erdölprodukte,2022,20.241528,WWB,KKW50,PJ
+Erdölprodukte,2023,20.166544000000002,WWB,KKW50,PJ
+Erdölprodukte,2024,20.09156,WWB,KKW50,PJ
+Erdölprodukte,2025,20.016576,WWB,KKW50,PJ
+Erdölprodukte,2026,19.941592,WWB,KKW50,PJ
+Erdölprodukte,2027,19.866608,WWB,KKW50,PJ
+Erdölprodukte,2028,19.791624,WWB,KKW50,PJ
+Erdölprodukte,2029,19.716639999999998,WWB,KKW50,PJ
+Erdölprodukte,2030,19.641656,WWB,KKW50,PJ
+Erdölprodukte,2031,19.566672,WWB,KKW50,PJ
+Erdölprodukte,2032,19.491688000000003,WWB,KKW50,PJ
+Erdölprodukte,2033,19.416704000000003,WWB,KKW50,PJ
+Erdölprodukte,2034,19.341720000000002,WWB,KKW50,PJ
+Erdölprodukte,2035,19.266736,WWB,KKW50,PJ
+Erdölprodukte,2036,19.191752,WWB,KKW50,PJ
+Erdölprodukte,2037,19.116768,WWB,KKW50,PJ
+Erdölprodukte,2038,19.041784,WWB,KKW50,PJ
+Erdölprodukte,2039,18.9668,WWB,KKW50,PJ
+Erdölprodukte,2040,18.891816,WWB,KKW50,PJ
+Erdölprodukte,2041,18.816832,WWB,KKW50,PJ
+Erdölprodukte,2042,18.741848,WWB,KKW50,PJ
+Erdölprodukte,2043,18.666864,WWB,KKW50,PJ
+Erdölprodukte,2044,18.59188,WWB,KKW50,PJ
+Erdölprodukte,2045,18.516896000000003,WWB,KKW50,PJ
+Erdölprodukte,2046,18.441912000000002,WWB,KKW50,PJ
+Erdölprodukte,2047,18.366928,WWB,KKW50,PJ
+Erdölprodukte,2048,18.291944,WWB,KKW50,PJ
+Erdölprodukte,2049,18.21696,WWB,KKW50,PJ
+Erdölprodukte,2050,18.141976000000003,WWB,KKW50,PJ
+Erdölprodukte,2051,18.066992,WWB,KKW50,PJ
+Erdölprodukte,2052,17.992008000000002,WWB,KKW50,PJ
+Erdölprodukte,2053,17.917024,WWB,KKW50,PJ
+Erdölprodukte,2054,17.84204,WWB,KKW50,PJ
+Erdölprodukte,2055,17.767056,WWB,KKW50,PJ
+Erdölprodukte,2056,17.692072,WWB,KKW50,PJ
+Erdölprodukte,2057,17.617088,WWB,KKW50,PJ
+Erdölprodukte,2058,17.542104,WWB,KKW50,PJ
+Erdölprodukte,2059,17.46712,WWB,KKW50,PJ
+Erdölprodukte,2060,17.392136,WWB,KKW50,PJ
+Erdgase,2000,0.0,WWB,KKW50,PJ
+Erdgase,2001,0.0,WWB,KKW50,PJ
+Erdgase,2002,0.0,WWB,KKW50,PJ
+Erdgase,2003,0.0,WWB,KKW50,PJ
+Erdgase,2004,0.0,WWB,KKW50,PJ
+Erdgase,2005,0.0,WWB,KKW50,PJ
+Erdgase,2006,0.0,WWB,KKW50,PJ
+Erdgase,2007,0.0,WWB,KKW50,PJ
+Erdgase,2008,0.0,WWB,KKW50,PJ
+Erdgase,2009,0.0,WWB,KKW50,PJ
+Erdgase,2010,0.0,WWB,KKW50,PJ
+Erdgase,2011,0.0,WWB,KKW50,PJ
+Erdgase,2012,0.0,WWB,KKW50,PJ
+Erdgase,2013,0.0,WWB,KKW50,PJ
+Erdgase,2014,0.0,WWB,KKW50,PJ
+Erdgase,2015,0.0,WWB,KKW50,PJ
+Erdgase,2016,0.0,WWB,KKW50,PJ
+Erdgase,2017,0.0,WWB,KKW50,PJ
+Erdgase,2018,0.0,WWB,KKW50,PJ
+Erdgase,2019,0.0,WWB,KKW50,PJ
+Erdgase,2020,0.0,WWB,KKW50,PJ
+Erdgase,2021,0.0,WWB,KKW50,PJ
+Erdgase,2022,0.0,WWB,KKW50,PJ
+Erdgase,2023,0.0,WWB,KKW50,PJ
+Erdgase,2024,0.0,WWB,KKW50,PJ
+Erdgase,2025,0.0,WWB,KKW50,PJ
+Erdgase,2026,0.0,WWB,KKW50,PJ
+Erdgase,2027,0.0,WWB,KKW50,PJ
+Erdgase,2028,0.0,WWB,KKW50,PJ
+Erdgase,2029,0.0,WWB,KKW50,PJ
+Erdgase,2030,0.0,WWB,KKW50,PJ
+Erdgase,2031,0.0,WWB,KKW50,PJ
+Erdgase,2032,0.0,WWB,KKW50,PJ
+Erdgase,2033,0.0,WWB,KKW50,PJ
+Erdgase,2034,0.0,WWB,KKW50,PJ
+Erdgase,2035,0.0,WWB,KKW50,PJ
+Erdgase,2036,0.0,WWB,KKW50,PJ
+Erdgase,2037,0.0,WWB,KKW50,PJ
+Erdgase,2038,0.0,WWB,KKW50,PJ
+Erdgase,2039,0.0,WWB,KKW50,PJ
+Erdgase,2040,0.0,WWB,KKW50,PJ
+Erdgase,2041,0.0,WWB,KKW50,PJ
+Erdgase,2042,0.0,WWB,KKW50,PJ
+Erdgase,2043,0.0,WWB,KKW50,PJ
+Erdgase,2044,0.0,WWB,KKW50,PJ
+Erdgase,2045,0.0,WWB,KKW50,PJ
+Erdgase,2046,0.0,WWB,KKW50,PJ
+Erdgase,2047,0.0,WWB,KKW50,PJ
+Erdgase,2048,0.0,WWB,KKW50,PJ
+Erdgase,2049,0.0,WWB,KKW50,PJ
+Erdgase,2050,0.0,WWB,KKW50,PJ
+Erdgase,2051,0.0,WWB,KKW50,PJ
+Erdgase,2052,0.0,WWB,KKW50,PJ
+Erdgase,2053,0.0,WWB,KKW50,PJ
+Erdgase,2054,0.0,WWB,KKW50,PJ
+Erdgase,2055,0.0,WWB,KKW50,PJ
+Erdgase,2056,0.0,WWB,KKW50,PJ
+Erdgase,2057,0.0,WWB,KKW50,PJ
+Erdgase,2058,0.0,WWB,KKW50,PJ
+Erdgase,2059,0.0,WWB,KKW50,PJ
+Erdgase,2060,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2000,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2001,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2002,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2003,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2004,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2005,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2006,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2007,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2008,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2009,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2010,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2011,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2012,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2013,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2014,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2015,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2016,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2017,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2018,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2019,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2020,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2021,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2022,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2023,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2024,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2025,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2026,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2027,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2028,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2029,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2030,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2031,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2032,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2033,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2034,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2035,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2036,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2037,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2038,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2039,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2040,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2041,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2042,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2043,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2044,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2045,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2046,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2047,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2048,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2049,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2050,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2051,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2052,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2053,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2054,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2055,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2056,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2057,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2058,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2059,0.0,WWB,KKW50,PJ
+Sonstige Energieträger,2060,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2000,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2001,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2002,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2003,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2004,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2005,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2006,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2007,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2008,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2009,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2010,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2011,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2012,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2013,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2014,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2015,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2016,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2017,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2018,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2019,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2020,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2021,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2022,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2023,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2024,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2025,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2026,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2027,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2028,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2029,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2030,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2031,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2032,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2033,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2034,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2035,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2036,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2037,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2038,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2039,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2040,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2041,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2042,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2043,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2044,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2045,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2046,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2047,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2048,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2049,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2050,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2051,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2052,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2053,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2054,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2055,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2056,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2057,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2058,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2059,0.0,WWB,KKW50,PJ
+Erneuerbare Energien,2060,0.0,WWB,KKW50,PJ
+Elektrizität,2000,0.0,WWB,KKW50,PJ
+Elektrizität,2001,0.0,WWB,KKW50,PJ
+Elektrizität,2002,0.0,WWB,KKW50,PJ
+Elektrizität,2003,0.0,WWB,KKW50,PJ
+Elektrizität,2004,0.0,WWB,KKW50,PJ
+Elektrizität,2005,0.0,WWB,KKW50,PJ
+Elektrizität,2006,0.0,WWB,KKW50,PJ
+Elektrizität,2007,0.0,WWB,KKW50,PJ
+Elektrizität,2008,0.0,WWB,KKW50,PJ
+Elektrizität,2009,0.0,WWB,KKW50,PJ
+Elektrizität,2010,0.0,WWB,KKW50,PJ
+Elektrizität,2011,0.0,WWB,KKW50,PJ
+Elektrizität,2012,0.0,WWB,KKW50,PJ
+Elektrizität,2013,0.0,WWB,KKW50,PJ
+Elektrizität,2014,0.0,WWB,KKW50,PJ
+Elektrizität,2015,0.0,WWB,KKW50,PJ
+Elektrizität,2016,0.0,WWB,KKW50,PJ
+Elektrizität,2017,0.0,WWB,KKW50,PJ
+Elektrizität,2018,0.0,WWB,KKW50,PJ
+Elektrizität,2019,0.0,WWB,KKW50,PJ
+Elektrizität,2020,0.0,WWB,KKW50,PJ
+Elektrizität,2021,0.0,WWB,KKW50,PJ
+Elektrizität,2022,0.0,WWB,KKW50,PJ
+Elektrizität,2023,0.0,WWB,KKW50,PJ
+Elektrizität,2024,0.0,WWB,KKW50,PJ
+Elektrizität,2025,0.0,WWB,KKW50,PJ
+Elektrizität,2026,0.0,WWB,KKW50,PJ
+Elektrizität,2027,0.0,WWB,KKW50,PJ
+Elektrizität,2028,0.0,WWB,KKW50,PJ
+Elektrizität,2029,0.0,WWB,KKW50,PJ
+Elektrizität,2030,0.0,WWB,KKW50,PJ
+Elektrizität,2031,0.0,WWB,KKW50,PJ
+Elektrizität,2032,0.0,WWB,KKW50,PJ
+Elektrizität,2033,0.0,WWB,KKW50,PJ
+Elektrizität,2034,0.0,WWB,KKW50,PJ
+Elektrizität,2035,0.0,WWB,KKW50,PJ
+Elektrizität,2036,0.0,WWB,KKW50,PJ
+Elektrizität,2037,0.0,WWB,KKW50,PJ
+Elektrizität,2038,0.0,WWB,KKW50,PJ
+Elektrizität,2039,0.0,WWB,KKW50,PJ
+Elektrizität,2040,0.0,WWB,KKW50,PJ
+Elektrizität,2041,0.0,WWB,KKW50,PJ
+Elektrizität,2042,0.0,WWB,KKW50,PJ
+Elektrizität,2043,0.0,WWB,KKW50,PJ
+Elektrizität,2044,0.0,WWB,KKW50,PJ
+Elektrizität,2045,0.0,WWB,KKW50,PJ
+Elektrizität,2046,0.0,WWB,KKW50,PJ
+Elektrizität,2047,0.0,WWB,KKW50,PJ
+Elektrizität,2048,0.0,WWB,KKW50,PJ
+Elektrizität,2049,0.0,WWB,KKW50,PJ
+Elektrizität,2050,0.0,WWB,KKW50,PJ
+Elektrizität,2051,0.0,WWB,KKW50,PJ
+Elektrizität,2052,0.0,WWB,KKW50,PJ
+Elektrizität,2053,0.0,WWB,KKW50,PJ
+Elektrizität,2054,0.0,WWB,KKW50,PJ
+Elektrizität,2055,0.0,WWB,KKW50,PJ
+Elektrizität,2056,0.0,WWB,KKW50,PJ
+Elektrizität,2057,0.0,WWB,KKW50,PJ
+Elektrizität,2058,0.0,WWB,KKW50,PJ
+Elektrizität,2059,0.0,WWB,KKW50,PJ
+Elektrizität,2060,0.0,WWB,KKW50,PJ
+Fernwärme,2000,0.0,WWB,KKW50,PJ
+Fernwärme,2001,0.0,WWB,KKW50,PJ
+Fernwärme,2002,0.0,WWB,KKW50,PJ
+Fernwärme,2003,0.0,WWB,KKW50,PJ
+Fernwärme,2004,0.0,WWB,KKW50,PJ
+Fernwärme,2005,0.0,WWB,KKW50,PJ
+Fernwärme,2006,0.0,WWB,KKW50,PJ
+Fernwärme,2007,0.0,WWB,KKW50,PJ
+Fernwärme,2008,0.0,WWB,KKW50,PJ
+Fernwärme,2009,0.0,WWB,KKW50,PJ
+Fernwärme,2010,0.0,WWB,KKW50,PJ
+Fernwärme,2011,0.0,WWB,KKW50,PJ
+Fernwärme,2012,0.0,WWB,KKW50,PJ
+Fernwärme,2013,0.0,WWB,KKW50,PJ
+Fernwärme,2014,0.0,WWB,KKW50,PJ
+Fernwärme,2015,0.0,WWB,KKW50,PJ
+Fernwärme,2016,0.0,WWB,KKW50,PJ
+Fernwärme,2017,0.0,WWB,KKW50,PJ
+Fernwärme,2018,0.0,WWB,KKW50,PJ
+Fernwärme,2019,0.0,WWB,KKW50,PJ
+Fernwärme,2020,0.0,WWB,KKW50,PJ
+Fernwärme,2021,0.0,WWB,KKW50,PJ
+Fernwärme,2022,0.0,WWB,KKW50,PJ
+Fernwärme,2023,0.0,WWB,KKW50,PJ
+Fernwärme,2024,0.0,WWB,KKW50,PJ
+Fernwärme,2025,0.0,WWB,KKW50,PJ
+Fernwärme,2026,0.0,WWB,KKW50,PJ
+Fernwärme,2027,0.0,WWB,KKW50,PJ
+Fernwärme,2028,0.0,WWB,KKW50,PJ
+Fernwärme,2029,0.0,WWB,KKW50,PJ
+Fernwärme,2030,0.0,WWB,KKW50,PJ
+Fernwärme,2031,0.0,WWB,KKW50,PJ
+Fernwärme,2032,0.0,WWB,KKW50,PJ
+Fernwärme,2033,0.0,WWB,KKW50,PJ
+Fernwärme,2034,0.0,WWB,KKW50,PJ
+Fernwärme,2035,0.0,WWB,KKW50,PJ
+Fernwärme,2036,0.0,WWB,KKW50,PJ
+Fernwärme,2037,0.0,WWB,KKW50,PJ
+Fernwärme,2038,0.0,WWB,KKW50,PJ
+Fernwärme,2039,0.0,WWB,KKW50,PJ
+Fernwärme,2040,0.0,WWB,KKW50,PJ
+Fernwärme,2041,0.0,WWB,KKW50,PJ
+Fernwärme,2042,0.0,WWB,KKW50,PJ
+Fernwärme,2043,0.0,WWB,KKW50,PJ
+Fernwärme,2044,0.0,WWB,KKW50,PJ
+Fernwärme,2045,0.0,WWB,KKW50,PJ
+Fernwärme,2046,0.0,WWB,KKW50,PJ
+Fernwärme,2047,0.0,WWB,KKW50,PJ
+Fernwärme,2048,0.0,WWB,KKW50,PJ
+Fernwärme,2049,0.0,WWB,KKW50,PJ
+Fernwärme,2050,0.0,WWB,KKW50,PJ
+Fernwärme,2051,0.0,WWB,KKW50,PJ
+Fernwärme,2052,0.0,WWB,KKW50,PJ
+Fernwärme,2053,0.0,WWB,KKW50,PJ
+Fernwärme,2054,0.0,WWB,KKW50,PJ
+Fernwärme,2055,0.0,WWB,KKW50,PJ
+Fernwärme,2056,0.0,WWB,KKW50,PJ
+Fernwärme,2057,0.0,WWB,KKW50,PJ
+Fernwärme,2058,0.0,WWB,KKW50,PJ
+Fernwärme,2059,0.0,WWB,KKW50,PJ
+Fernwärme,2060,0.0,WWB,KKW50,PJ
+PtX,2000,0.0,WWB,KKW50,PJ
+PtX,2001,0.0,WWB,KKW50,PJ
+PtX,2002,0.0,WWB,KKW50,PJ
+PtX,2003,0.0,WWB,KKW50,PJ
+PtX,2004,0.0,WWB,KKW50,PJ
+PtX,2005,0.0,WWB,KKW50,PJ
+PtX,2006,0.0,WWB,KKW50,PJ
+PtX,2007,0.0,WWB,KKW50,PJ
+PtX,2008,0.0,WWB,KKW50,PJ
+PtX,2009,0.0,WWB,KKW50,PJ
+PtX,2010,0.0,WWB,KKW50,PJ
+PtX,2011,0.0,WWB,KKW50,PJ
+PtX,2012,0.0,WWB,KKW50,PJ
+PtX,2013,0.0,WWB,KKW50,PJ
+PtX,2014,0.0,WWB,KKW50,PJ
+PtX,2015,0.0,WWB,KKW50,PJ
+PtX,2016,0.0,WWB,KKW50,PJ
+PtX,2017,0.0,WWB,KKW50,PJ
+PtX,2018,0.0,WWB,KKW50,PJ
+PtX,2019,0.0,WWB,KKW50,PJ
+PtX,2020,0.0,WWB,KKW50,PJ
+PtX,2021,0.0,WWB,KKW50,PJ
+PtX,2022,0.0,WWB,KKW50,PJ
+PtX,2023,0.0,WWB,KKW50,PJ
+PtX,2024,0.0,WWB,KKW50,PJ
+PtX,2025,0.0,WWB,KKW50,PJ
+PtX,2026,0.0,WWB,KKW50,PJ
+PtX,2027,0.0,WWB,KKW50,PJ
+PtX,2028,0.0,WWB,KKW50,PJ
+PtX,2029,0.0,WWB,KKW50,PJ
+PtX,2030,0.0,WWB,KKW50,PJ
+PtX,2031,0.0,WWB,KKW50,PJ
+PtX,2032,0.0,WWB,KKW50,PJ
+PtX,2033,0.0,WWB,KKW50,PJ
+PtX,2034,0.0,WWB,KKW50,PJ
+PtX,2035,0.0,WWB,KKW50,PJ
+PtX,2036,0.0,WWB,KKW50,PJ
+PtX,2037,0.0,WWB,KKW50,PJ
+PtX,2038,0.0,WWB,KKW50,PJ
+PtX,2039,0.0,WWB,KKW50,PJ
+PtX,2040,0.0,WWB,KKW50,PJ
+PtX,2041,0.0,WWB,KKW50,PJ
+PtX,2042,0.0,WWB,KKW50,PJ
+PtX,2043,0.0,WWB,KKW50,PJ
+PtX,2044,0.0,WWB,KKW50,PJ
+PtX,2045,0.0,WWB,KKW50,PJ
+PtX,2046,0.0,WWB,KKW50,PJ
+PtX,2047,0.0,WWB,KKW50,PJ
+PtX,2048,0.0,WWB,KKW50,PJ
+PtX,2049,0.0,WWB,KKW50,PJ
+PtX,2050,0.0,WWB,KKW50,PJ
+PtX,2051,0.0,WWB,KKW50,PJ
+PtX,2052,0.0,WWB,KKW50,PJ
+PtX,2053,0.0,WWB,KKW50,PJ
+PtX,2054,0.0,WWB,KKW50,PJ
+PtX,2055,0.0,WWB,KKW50,PJ
+PtX,2056,0.0,WWB,KKW50,PJ
+PtX,2057,0.0,WWB,KKW50,PJ
+PtX,2058,0.0,WWB,KKW50,PJ
+PtX,2059,0.0,WWB,KKW50,PJ
+PtX,2060,0.0,WWB,KKW50,PJ
+Summe,2000,22.35,WWB,KKW50,PJ
+Summe,2001,22.23,WWB,KKW50,PJ
+Summe,2002,21.34,WWB,KKW50,PJ
+Summe,2003,21.580000000000002,WWB,KKW50,PJ
+Summe,2004,23.27,WWB,KKW50,PJ
+Summe,2005,22.79,WWB,KKW50,PJ
+Summe,2006,23.95,WWB,KKW50,PJ
+Summe,2007,22.59,WWB,KKW50,PJ
+Summe,2008,22.91,WWB,KKW50,PJ
+Summe,2009,20.3,WWB,KKW50,PJ
+Summe,2010,22.1,WWB,KKW50,PJ
+Summe,2011,22.95,WWB,KKW50,PJ
+Summe,2012,20.05,WWB,KKW50,PJ
+Summe,2013,20.38,WWB,KKW50,PJ
+Summe,2014,20.78,WWB,KKW50,PJ
+Summe,2015,20.900000000000002,WWB,KKW50,PJ
+Summe,2016,16.76,WWB,KKW50,PJ
+Summe,2017,20.46,WWB,KKW50,PJ
+Summe,2018,20.541464,WWB,KKW50,PJ
+Summe,2019,20.46648,WWB,KKW50,PJ
+Summe,2020,20.391496,WWB,KKW50,PJ
+Summe,2021,20.316512,WWB,KKW50,PJ
+Summe,2022,20.241528,WWB,KKW50,PJ
+Summe,2023,20.166544000000002,WWB,KKW50,PJ
+Summe,2024,20.09156,WWB,KKW50,PJ
+Summe,2025,20.016576,WWB,KKW50,PJ
+Summe,2026,19.941592,WWB,KKW50,PJ
+Summe,2027,19.866608,WWB,KKW50,PJ
+Summe,2028,19.791624,WWB,KKW50,PJ
+Summe,2029,19.716639999999998,WWB,KKW50,PJ
+Summe,2030,19.641656,WWB,KKW50,PJ
+Summe,2031,19.566672,WWB,KKW50,PJ
+Summe,2032,19.491688000000003,WWB,KKW50,PJ
+Summe,2033,19.416704000000003,WWB,KKW50,PJ
+Summe,2034,19.341720000000002,WWB,KKW50,PJ
+Summe,2035,19.266736,WWB,KKW50,PJ
+Summe,2036,19.191752,WWB,KKW50,PJ
+Summe,2037,19.116768,WWB,KKW50,PJ
+Summe,2038,19.041784,WWB,KKW50,PJ
+Summe,2039,18.9668,WWB,KKW50,PJ
+Summe,2040,18.891816,WWB,KKW50,PJ
+Summe,2041,18.816832,WWB,KKW50,PJ
+Summe,2042,18.741848,WWB,KKW50,PJ
+Summe,2043,18.666864,WWB,KKW50,PJ
+Summe,2044,18.59188,WWB,KKW50,PJ
+Summe,2045,18.516896000000003,WWB,KKW50,PJ
+Summe,2046,18.441912000000002,WWB,KKW50,PJ
+Summe,2047,18.366928,WWB,KKW50,PJ
+Summe,2048,18.291944,WWB,KKW50,PJ
+Summe,2049,18.21696,WWB,KKW50,PJ
+Summe,2050,18.141976000000003,WWB,KKW50,PJ
+Summe,2051,18.066992,WWB,KKW50,PJ
+Summe,2052,17.992008000000002,WWB,KKW50,PJ
+Summe,2053,17.917024,WWB,KKW50,PJ
+Summe,2054,17.84204,WWB,KKW50,PJ
+Summe,2055,17.767056,WWB,KKW50,PJ
+Summe,2056,17.692072,WWB,KKW50,PJ
+Summe,2057,17.617088,WWB,KKW50,PJ
+Summe,2058,17.542104,WWB,KKW50,PJ
+Summe,2059,17.46712,WWB,KKW50,PJ
+Summe,2060,17.392136,WWB,KKW50,PJ

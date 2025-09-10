@@ -18,14 +18,14 @@ The easiest way to run this project is using Docker Compose:
 
 3. Start the services using Docker Compose:
    ```bash
-   docker-compose up -d
+   docker compose up -d
    ```
 
 4. Access the Jupyter notebooks at [http://localhost:8888](http://localhost:8888)
 
 5. To stop the services:
    ```bash
-   docker-compose down
+   docker compose down
    ```
 
 ## Folder Structure

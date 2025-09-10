@@ -1,0 +1,72 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ./docker/data/ollama:/root/.ollama
+    restart: unless-stopped
+    # Optional: Enable GPU support if you have one.
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: all
+    #           capabilities: [gpu]
+
+  # unstructured-api:
+  #   image: quay.io/unstructured-io/unstructured:latest
+  #   container_name: unstructured-api
+  #   ports:
+  #     - "8000:8000"
+  #   restart: unless-stopped
+
+  postgres:
+    image: postgres:latest
+    container_name: postgres_db
+    ports:
+      - "5433:5432"
+    volumes:
+      - ./docker/data/postgres:/var/lib/postgresql/data
+    restart: unless-stopped
+    environment:
+      - POSTGRES_DB=${DB_NAME:-energyscenarios}
+      - POSTGRES_USER=${DB_USER:-admin}
+      - POSTGRES_PASSWORD=${DB_PASSWORD:-admin_password}
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "pg_isready -U ${DB_USER:-admin} -d ${DB_NAME:-energyscenarios}",
+        ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  notebook_server:
+    build:
+      context: ./docker
+      dockerfile: NotebookDockerfile
+    container_name: jupyter_notebook
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/home/appuser/app/notebooks
+      - ./data:/home/appuser/app/data
+    depends_on:
+      ollama:
+        condition: service_started
+      # - unstructured-api
+      postgres:
+        condition: service_healthy
+    environment:
+      - OLLAMA_HOST=http://ollama:11434
+      - UNSTRUCTURED_API_URL=http://unstructured-api:8000
+      - TESSDATA_PREFIX=/usr/share/tesseract-ocr/4.0/tessdata/
+      - POSTGRES_HOST=postgres
+      - POSTGRES_DB=${DB_NAME:-energyscenarios}
+      - POSTGRES_USER=${DB_USER:-admin}
+      - POSTGRES_PASSWORD=${DB_PASSWORD:-admin_password}
+    command: jupyter lab --ip=0.0.0.0 --no-browser --NotebookApp.token=''

@@ -1,0 +1,39 @@
+# Core LangChain packages
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# LangChain integrations
+langchain-ollama
+langchain_unstructured
+langchain-chroma
+langchain-openai
+langchain-anthropic
+langchain-huggingface
+langchain-experimental
+
+# Vector databases
+chromadb
+faiss-cpu
+
+# Document processing 
+unstructured[all-docs]
+pytesseract
+pypdf
+pdfminer
+
+# Jupyter and visualization
+jupyterlab
+jupyter
+pandas
+numpy
+matplotlib
+seaborn
+ipywidgets
+openpyxl
+pyarrow
+
+# SQL related
+sqlmodel
+psycopg2-binary

@@ -1,0 +1,31 @@
+# Dockerfile
+FROM python:3.13-slim
+
+# Install system dependencies for Unstructured PDF parsing
+RUN apt-get update && apt-get install -y \
+    poppler-utils \
+    tesseract-ocr \
+    tesseract-ocr-deu \
+    tesseract-ocr-eng \
+    libreoffice \
+    pandoc \
+    && rm -rf /var/lib/apt/lists/*
+
+# Create a non-root user for security
+RUN useradd -m appuser
+
+# Set the working directory
+WORKDIR /home/appuser/app
+
+# Create directories for notebooks and data
+RUN mkdir -p /home/appuser/app/notebooks /home/appuser/app/data
+
+# Install Python packages
+COPY requirements_notebook.txt .
+RUN pip install --no-cache-dir -r requirements_notebook.txt
+
+# Set ownership of the app directory to appuser
+RUN chown -R appuser:appuser /home/appuser
+
+# Switch to the non-root user
+USER appuser

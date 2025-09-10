@@ -1,5 +1,11 @@
 # Dockerfile
-FROM python:3.13-slim
+FROM jupyter/scipy-notebook:latest
+
+USER root
+
+# Set environment variables to ensure non-interactive installations
+ENV DEBIAN_FRONTEND=noninteractive
+ENV PYTHONUNBUFFERED=1
 
 # Install system dependencies for Unstructured PDF parsing
 RUN apt-get update && apt-get install -y --no-install-recommends \
@@ -8,25 +14,15 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     tesseract-ocr-deu \
     tesseract-ocr-eng \
     libreoffice \
-    pandoc \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-# Create a non-root user for security
-RUN useradd -m appuser
-
-# Set the working directory
-WORKDIR /home/appuser/app
-
-# Create directories for notebooks and data
-RUN mkdir -p /home/appuser/app/notebooks /home/appuser/app/data
+# Create directories for data
+RUN mkdir -p /home/jovyan/data
 
 # Install Python packages
 COPY requirements_notebook.txt .
 RUN pip install --no-cache-dir -r requirements_notebook.txt
 
-# Set ownership of the app directory to appuser
-RUN chown -R appuser:appuser /home/appuser
-
-# Switch to the non-root user
-USER appuser
+# Switch back to jovyan user (the default user in Jupyter images)
+USER jovyan

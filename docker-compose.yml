@@ -53,8 +53,8 @@ services:
     ports:
       - "8888:8888"
     volumes:
-      - ./notebooks:/home/appuser/app/notebooks
-      - ./data:/home/appuser/app/data
+      - ./notebooks:/home/jovyan/work/notebooks
+      - ./data:/home/jovyan/work/data
     depends_on:
       ollama:
         condition: service_started
@@ -64,9 +64,9 @@ services:
     environment:
       - OLLAMA_HOST=http://ollama:11434
       - UNSTRUCTURED_API_URL=http://unstructured-api:8000
-      - TESSDATA_PREFIX=/usr/share/tesseract-ocr/4.0/tessdata/
+      - TESSDATA_PREFIX=/usr/share/tesseract-ocr/4.00/tessdata
       - POSTGRES_HOST=postgres
       - POSTGRES_DB=${DB_NAME:-energyscenarios}
       - POSTGRES_USER=${DB_USER:-admin}
       - POSTGRES_PASSWORD=${DB_PASSWORD:-admin_password}
-    command: jupyter lab --ip=0.0.0.0 --no-browser --NotebookApp.token=''
+    command: start-notebook.sh --NotebookApp.token='' --NotebookApp.notebook_dir=/home/jovyan/work

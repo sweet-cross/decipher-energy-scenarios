@@ -1,0 +1,28 @@
+The problem:
+Energy scenarios are difficult to understand, difficult to access
+
+Why does it matter?
+Decisions need understanding
+
+
+Citizens, journalists, students,
+even policymakers need quick
+answers.
+
+Trust in energy transition grows
+when people grasp scenarios.
+
+Today: only experts (or not even)
+can interpret energy scenarios
+
+The website conatining the data is https://www.bfe.admin.ch/bfe/en/home/policy/energy-perspectives-2050-plus.html/
+
+The more prominent data is in data/extracted and data/reports
+
+These reports are mostly In German and may be French and English. 
+
+Imagine you are organization create a Multiagent application which will cater to such scenario questions that may come from the user.
+
+Propose me a design first
+
+

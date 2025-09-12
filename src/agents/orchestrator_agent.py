@@ -69,7 +69,7 @@ Adapt your communication style based on user type:
         return final_response
     
     async def _analyze_query_routing(self, query: str, context: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
-        """Analyze query to determine which agents to route to."""
+        """Analyze query to determine which agents to route to, with heuristics."""
         analysis_prompt = f"""
         Analyze this query about Swiss energy scenarios and determine which agents should handle it:
         
@@ -81,6 +81,13 @@ Adapt your communication style based on user type:
         - DocumentIntelligence: Processes PDF reports and documents
         - PolicyContext: Provides policy implications and regulatory context
         
+        Routing guidance:
+        - If the query is definitional or conceptual (e.g., starts with "what is", "define", "explain", or asks for methodology/assumptions/provenance), include DocumentIntelligence.
+        - If the query mentions "source", "citation", "page", "figure", or "table", include DocumentIntelligence.
+        - For numeric/statistical questions, include DataInterpreter; for comparisons across scenarios/variants, include ScenarioAnalyst.
+        - For policy/implementation/regulatory questions, include PolicyContext (optionally with DocumentIntelligence for citations).
+        - When in doubt, include both DataInterpreter and DocumentIntelligence to provide grounded, cited answers.
+        
         Respond with JSON format:
         {{
             "primary_agents": ["agent1", "agent2"],
@@ -90,23 +97,35 @@ Adapt your communication style based on user type:
             "data_needs": ["csv_data", "pdf_reports", "scenario_comparison", "policy_context"]
         }}
         """
-        
         messages = self._prepare_messages(analysis_prompt, context)
         response_text = await self._call_openai(messages)
-        
         try:
             import json
             routing_info = json.loads(response_text)
-        except:
-            # Fallback routing
+        except Exception:
             routing_info = {
-                "primary_agents": ["DataInterpreter"],
+                "primary_agents": ["DataInterpreter", "DocumentIntelligence"],
                 "query_type": "data_analysis",
                 "complexity": "medium",
                 "user_type": "citizen",
-                "data_needs": ["csv_data"]
+                "data_needs": ["csv_data", "pdf_reports"]
             }
-            
+        # Apply heuristic rules to refine routing
+        try:
+            q = (query or "").lower()
+            primary = set(routing_info.get("primary_agents", []))
+            doc_keywords = [
+                "what is", "define", "definition", "explain", "methodology", "assumption", "assumptions",
+                "source", "citation", "cite", "page", "figure", "table", "where does", "according to"
+            ]
+            if any(k in q for k in doc_keywords) or (len(q.split()) <= 6):
+                primary.add("DocumentIntelligence")
+            comparison_keywords = ["compare", "versus", "vs ", "vs.", "difference", "differences"]
+            if any(k in q for k in comparison_keywords):
+                primary.add("ScenarioAnalyst")
+            routing_info["primary_agents"] = list(primary)
+        except Exception:
+            pass
         return routing_info
     
     async def _route_to_agents(self, query: str, routing_decision: Dict[str, Any], 
@@ -158,7 +177,8 @@ Adapt your communication style based on user type:
                 confidence=response.confidence,
                 data_sources=response.data_sources,
                 reasoning=f"Routed to {agent_name}: {response.reasoning}",
-                suggestions=response.suggestions
+                suggestions=response.suggestions,
+                agents_involved=[agent_name],
             )
         
         # Synthesize multiple responses
@@ -207,5 +227,6 @@ Adapt your communication style based on user type:
             confidence=avg_confidence,
             data_sources=list(set(all_sources)),
             reasoning=f"Synthesized from {', '.join(agent_responses.keys())}",
-            suggestions=list(set(suggestions))[:3]  # Limit to 3 suggestions
+            suggestions=list(set(suggestions))[:3],  # Limit to 3 suggestions
+            agents_involved=list(agent_responses.keys()),
         )

@@ -13,12 +13,17 @@ import pandas as pd
 # Add src to Python path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
 
-from utils.config import config
-from agents.orchestrator_agent import OrchestratorAgent
-from agents.data_interpreter_agent import DataInterpreterAgent
-from agents.scenario_analyst_agent import ScenarioAnalystAgent
-from agents.document_intelligence_agent import DocumentIntelligenceAgent
-from agents.policy_context_agent import PolicyContextAgent
+from src.utils.config import config
+from src.agents.orchestrator_agent import OrchestratorAgent
+from src.agents.data_interpreter_agent import DataInterpreterAgent
+from src.agents.scenario_analyst_agent import ScenarioAnalystAgent
+from src.agents.document_intelligence_agent import DocumentIntelligenceAgent
+from src.agents.policy_context_agent import PolicyContextAgent
+from src.retrieval.retriever import Retriever
+import json
+import base64
+import requests
+PLOT_TOOL_URL = os.environ.get("PLOT_TOOL_URL", "http://127.0.0.1:9000")
 
 # Configure Streamlit page
 st.set_page_config(
@@ -28,15 +33,24 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+
+@st.cache_resource
+def get_retriever():
+    """Create and cache the Retriever instance."""
+    return Retriever(persist_dir="data/chroma")
+
 @st.cache_resource
 def initialize_agents():
     """Initialize all agents - cached for performance."""
     config.validate()
     
+    # Shared retriever to avoid duplicate heavy model loads
+    retriever = get_retriever()
+
     # Initialize specialist agents
-    data_interpreter = DataInterpreterAgent(config.openai_api_key, config.data_path)
+    data_interpreter = DataInterpreterAgent(config.openai_api_key, config.data_path, retriever=retriever)
     scenario_analyst = ScenarioAnalystAgent(config.openai_api_key, config.data_path)
-    document_intelligence = DocumentIntelligenceAgent(config.openai_api_key, config.reports_path)
+    document_intelligence = DocumentIntelligenceAgent(config.openai_api_key, config.reports_path, retriever=retriever)
     policy_context = PolicyContextAgent(config.openai_api_key)
     
     # Initialize orchestrator
@@ -132,14 +146,61 @@ def main():
                     if sample_file:
                         df = data_agent.csv_processor.load_csv(sample_file)
                         if 'year' in df.columns:
-                            year_range = f"{int(df['year'].min())} - {int(df['year'].max())}"
-                            st.metric("Data Range", year_range)
-                except:
+                            y = pd.to_numeric(df['year'], errors='coerce').dropna()
+                            if not y.empty:
+                                year_range = f"{int(y.min())} - {int(y.max())}"
+                                st.metric("Data Range", year_range)
+                except Exception:
                     pass
                     
         except Exception as e:
             st.error(f"Error loading system info: {str(e)}")
-    
+        # Always check plot tool health, ensure 'healthy' is set
+        healthy = False
+        try:
+            r = requests.get(f"{PLOT_TOOL_URL}/healthz", timeout=1.5)
+            healthy = (r.status_code == 200 and r.json().get("ok"))
+        except Exception:
+            healthy = False
+        st.caption(f"Plot tool: {'Online' if healthy else 'Offline'} ({PLOT_TOOL_URL})")
+        last_response = st.session_state.get("last_response", {})
+        ds_sources = [s for s in last_response.get("data_sources", []) if isinstance(s, str) and (s.endswith('.csv') or '/' in s)]
+        if ds_sources:
+            first_ds = ds_sources[0]
+            dataset_id = first_ds.split('/')[-1]
+            default_spec = {
+                "dataset_id": dataset_id,
+                "filters": {},
+                "transforms": {"groupby": ["year", "scenario"], "agg": "sum"},
+                "chart": {"type": "line", "x": "year", "y": "value", "color": "scenario"}
+            }
+            spec_json = st.text_area("Plot spec (POST to /plot)",
+                                      value=json.dumps(default_spec, indent=2), height=220, key="plot_spec_last")
+            c1, c2 = st.columns([1,1])
+            with c1:
+                if st.button("Render via plot_tool", disabled=not healthy, key="render_plot_last"):
+                    try:
+                        payload = json.loads(spec_json)
+                        if not isinstance(payload, dict):
+                            raise ValueError("Plot spec must be a JSON object")
+                        with st.spinner("Contacting plot tool..."):
+                            resp = requests.post(f"{PLOT_TOOL_URL}/plot", json=payload, timeout=30)
+                        if resp.status_code != 200:
+                            raise RuntimeError(f"plot_tool error {resp.status_code}: {resp.text}")
+                        out = resp.json()
+                        if out.get("ok") and out.get("png_base64"):
+                            img_bytes = base64.b64decode(out["png_base64"])
+                            st.session_state["last_plot"] = {"img": img_bytes, "csv": out.get("csv", "")}
+                            st.toast("Figure rendered.")
+                        else:
+                            st.warning("Plot tool responded without image data.")
+                    except Exception as e:
+                        st.error(f"Could not render: {e}")
+            if st.session_state.get("last_plot"):
+                st.image(st.session_state["last_plot"]["img"], caption="Rendered by plot_tool", use_column_width=True)
+                with st.expander("Derived CSV"):
+                    st.code(st.session_state["last_plot"]["csv"])
+
     # Conversation history
     if "conversation_history" in st.session_state and st.session_state.conversation_history:
         st.header("📝 Conversation History")
@@ -195,6 +256,17 @@ def process_query(query: str, user_type: str):
             # Main response
             st.subheader("🎯 Answer")
             st.write(response.content)
+            # Agents involved badges
+            if getattr(response, 'agents_involved', None):
+                emoji = {
+                    "DataInterpreter": "📊",
+                    "DocumentIntelligence": "📄",
+                    "ScenarioAnalyst": "🔮",
+                    "PolicyContext": "🏛️",
+                    "Orchestrator": "🧭",
+                }
+                badges = " ".join([f"{emoji.get(a, '🤖')} {a}" for a in response.agents_involved])
+                st.caption(f"Agents: {badges}")
             
             # Metadata in columns
             col1, col2, col3 = st.columns(3)
@@ -227,6 +299,30 @@ def process_query(query: str, user_type: str):
             if response.reasoning:
                 with st.expander("🧠 Analysis Details"):
                     st.write(response.reasoning)
+
+            # Source cards
+            if response.data_sources:
+                st.subheader("📚 Source Cards")
+                for i, src in enumerate(response.data_sources[:4]):
+                        if isinstance(src, str) and (src.endswith('.png') or src.endswith('.jpg')) and os.path.exists(src):
+                            # Validate path is within expected directories
+                            abs_path = os.path.abspath(src)
+                            if not (abs_path.startswith(os.path.abspath(config.data_path)) or 
+                                    abs_path.startswith(os.path.abspath(config.reports_path))):
+                                st.write(f"Source {i+1}: {src}")
+                            else:
+                                st.image(src, caption=f"Source {i+1}: figure", use_column_width=True)
+                        else:
+                            st.write(f"Source {i+1}: {src}")
+                        # Best-effort page extraction if present in '#p<page>'
+                        page = None
+                        if isinstance(src, str) and "#p" in src:
+                            try:
+                                page = int(src.split("#p")[-1])
+                            except Exception:
+                                page = None
+                        if page:
+                            st.caption(f"Page {page}")
             
             # Store in history
             st.session_state.conversation_history.append({
@@ -236,9 +332,19 @@ def process_query(query: str, user_type: str):
                     "content": response.content,
                     "confidence": response.confidence,
                     "data_sources": response.data_sources or [],
-                    "suggestions": response.suggestions or []
+                    "suggestions": response.suggestions or [],
+                    "agents_involved": getattr(response, 'agents_involved', [])
                 }
             })
+            # Persist last response for UI panels on rerun
+            st.session_state["last_response"] = {
+                "content": response.content,
+                "confidence": response.confidence,
+                "data_sources": response.data_sources or [],
+                "suggestions": response.suggestions or [],
+                "reasoning": response.reasoning or "",
+                "agents_involved": getattr(response, 'agents_involved', [])
+            }
             
         except Exception as e:
             st.error(f"❌ Error processing query: {str(e)}")

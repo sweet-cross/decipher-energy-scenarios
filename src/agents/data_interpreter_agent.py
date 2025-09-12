@@ -1,19 +1,24 @@
 import pandas as pd
 import numpy as np
 from typing import Dict, Any, List, Optional
+from src.retrieval.retriever import Retriever
 import os
 import json
 from agents.base_agent import BaseAgent, AgentResponse
 from data_processors.csv_processor import CSVProcessor
+from retrieval.retriever import Retriever
+from data_processors.dataset_catalog import DatasetCatalog
 
 class DataInterpreterAgent(BaseAgent):
-    def __init__(self, openai_api_key: str, data_path: str):
+    def __init__(self, openai_api_key: str, data_path: str, retriever: Optional[Retriever] = None):
         super().__init__(
             name="DataInterpreter",
             description="Analyzes energy data from CSV files, provides statistics and trends",
             openai_api_key=openai_api_key
         )
         self.csv_processor = CSVProcessor(data_path)
+        self.retriever = retriever or Retriever(persist_dir="data/chroma")
+        self.dataset_catalog = DatasetCatalog(data_path)
         self.data_catalog = self._build_data_catalog()
         
     def _build_system_prompt(self) -> str:
@@ -86,8 +91,33 @@ Response format:
     
     async def process_query(self, query: str, context: Optional[Dict[str, Any]] = None) -> AgentResponse:
         """Process data analysis query."""
-        # Identify relevant data files
-        relevant_files = self._identify_relevant_data(query)
+        # Try semantic mapping from query -> dataset cards
+        relevant_files = []
+        try:
+            ds_hits = self.retriever.search_datasets(query, k=5)
+        except Exception as e:
+            print(f"Warning: Retriever search failed: {e}")
+            ds_hits = []
+
+        if ds_hits:
+            # Build file descriptors from dataset_id
+            listed = self.dataset_catalog.list_csvs()
+            for h in ds_hits:
+                did = h.get("dataset_id")
+                cat = "synthesis" if did in listed.get("synthesis", []) else (
+                    "transformation" if did in listed.get("transformation", []) else None
+                )
+                if cat:
+                    relevant_files.append({
+                        'filename': did,
+                        'category': cat,
+                        'relevance': h.get('score', 0),
+                        'summary': self.csv_processor.get_data_summary(did, cat)
+                    })
+
+        if not relevant_files:
+            # Fallback heuristic
+            relevant_files = self._identify_relevant_data(query)
         
         if not relevant_files:
             return AgentResponse(
@@ -173,27 +203,39 @@ Response format:
                 df = self.csv_processor.load_csv(filename, category)
                 
                 # Basic statistics
+                if 'year' in df.columns:
+                    y = pd.to_numeric(df['year'], errors='coerce').dropna()
+                    years = [int(y.min()), int(y.max())] if not y.empty else None
+                else:
+                    years = None
                 analysis_results['data_summary'][filename] = {
                     'shape': df.shape,
-                    'years': [int(df['year'].min()), int(df['year'].max())] if 'year' in df.columns else None,
-                    'scenarios': df['scenario'].unique().tolist() if 'scenario' in df.columns else [],
-                    'variables': df['variable'].unique().tolist() if 'variable' in df.columns else []
+                    'years': years,
+                    'scenarios': df['scenario'].dropna().unique().tolist() if 'scenario' in df.columns else [],
+                    'variables': df['variable'].dropna().unique().tolist() if 'variable' in df.columns else []
                 }
                 
                 # Calculate key statistics
                 if 'value' in df.columns and 'year' in df.columns:
-                    stats = {
-                        'latest_value': float(df[df['year'] == df['year'].max()]['value'].iloc[0]) if len(df) > 0 else None,
-                        'earliest_value': float(df[df['year'] == df['year'].min()]['value'].iloc[0]) if len(df) > 0 else None,
-                        'mean_value': float(df['value'].mean()),
-                        'growth_rate': None
-                    }
-                    
-                    # Calculate growth rate if enough data
-                    if stats['latest_value'] and stats['earliest_value'] and stats['earliest_value'] != 0:
-                        years_span = df['year'].max() - df['year'].min()
-                        if years_span > 0:
-                            stats['growth_rate'] = ((stats['latest_value'] / stats['earliest_value']) ** (1/years_span) - 1) * 100
+                    y = pd.to_numeric(df['year'], errors='coerce')
+                    v = pd.to_numeric(df['value'], errors='coerce')
+                    df2 = df.copy()
+                    df2['year'] = y
+                    df2['value'] = v
+                    df2 = df2.dropna(subset=['year', 'value'])
+                    stats = {'latest_value': None, 'earliest_value': None, 'mean_value': None, 'growth_rate': None}
+                    if not df2.empty:
+                        y_min = df2['year'].min()
+                        y_max = df2['year'].max()
+                        latest_series = df2.loc[df2['year'] == y_max, 'value'].dropna()
+                        earliest_series = df2.loc[df2['year'] == y_min, 'value'].dropna()
+                        stats['latest_value'] = float(latest_series.iloc[0]) if not latest_series.empty else None
+                        stats['earliest_value'] = float(earliest_series.iloc[0]) if not earliest_series.empty else None
+                        stats['mean_value'] = float(df2['value'].mean()) if not df2['value'].dropna().empty else None
+                        if stats['latest_value'] is not None and stats['earliest_value'] is not None and stats['earliest_value'] != 0:
+                            years_span = y_max - y_min
+                            if years_span and years_span > 0:
+                                stats['growth_rate'] = ((stats['latest_value'] / stats['earliest_value']) ** (1/years_span) - 1) * 100
                     
                     analysis_results['key_statistics'][filename] = stats
                 

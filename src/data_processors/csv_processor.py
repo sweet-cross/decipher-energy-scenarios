@@ -10,6 +10,14 @@ class CSVProcessor:
         self.synthesis_path = os.path.join(data_path, "extracted", "synthesis")
         self.transformation_path = os.path.join(data_path, "extracted", "transformation")
         self._cache = {}
+    
+    def _standardize_df(self, df: pd.DataFrame) -> pd.DataFrame:
+        """Coerce common columns to numeric types and clean obvious issues."""
+        if 'year' in df.columns:
+            df['year'] = pd.to_numeric(df['year'], errors='coerce')
+        if 'value' in df.columns:
+            df['value'] = pd.to_numeric(df['value'], errors='coerce')
+        return df
         
     def get_available_files(self) -> Dict[str, List[str]]:
         """Get list of available CSV files organized by category."""
@@ -44,6 +52,7 @@ class CSVProcessor:
             raise FileNotFoundError(f"File {filename} not found in {category} category")
             
         df = pd.read_csv(file_path)
+        df = self._standardize_df(df)
         self._cache[cache_key] = df
         return df
     
@@ -95,14 +104,20 @@ class CSVProcessor:
         """Get summary statistics for a data file."""
         df = self.load_csv(filename, category)
         
+        if 'year' in df.columns:
+            y = pd.to_numeric(df['year'], errors='coerce').dropna()
+            year_range = [int(y.min()), int(y.max())] if not y.empty else None
+        else:
+            year_range = None
+
         summary = {
             "shape": df.shape,
             "columns": df.columns.tolist(),
-            "scenarios": df['scenario'].unique().tolist() if 'scenario' in df.columns else [],
-            "variants": df['variant'].unique().tolist() if 'variant' in df.columns else [],
-            "year_range": [int(df['year'].min()), int(df['year'].max())] if 'year' in df.columns else None,
-            "variables": df['variable'].unique().tolist() if 'variable' in df.columns else [],
-            "units": df['unit'].unique().tolist() if 'unit' in df.columns else []
+            "scenarios": df['scenario'].dropna().unique().tolist() if 'scenario' in df.columns else [],
+            "variants": df['variant'].dropna().unique().tolist() if 'variant' in df.columns else [],
+            "year_range": year_range,
+            "variables": df['variable'].dropna().unique().tolist() if 'variable' in df.columns else [],
+            "units": df['unit'].dropna().unique().tolist() if 'unit' in df.columns else []
         }
         
         return summary

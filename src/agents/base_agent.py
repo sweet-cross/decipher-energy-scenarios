@@ -23,6 +23,7 @@ class AgentResponse:
     reasoning: Optional[str] = None
     suggestions: List[str] = None
     agents_involved: List[str] = None
+    retrieval_method: Optional[str] = None
 
 class BaseAgent(ABC):
     def __init__(self, name: str, description: str, openai_api_key: str,
@@ -118,6 +119,34 @@ class BaseAgent(ABC):
                 # Exponential backoff
                 await asyncio.sleep(2 ** attempt)
         raise Exception(f"OpenAI API error in {self.name}: {str(last_err)}") from last_err
+
+    async def _stream_openai(self, messages: List[Dict[str, str]]):
+        """Async generator yielding streamed text tokens for the final synthesis step."""
+        try:
+            async with self.client.chat.completions.stream(
+                model=self.model,
+                messages=messages,
+                temperature=self.temperature,
+                max_tokens=self.max_tokens,
+            ) as stream:
+                async for event in stream:
+                    # Try multiple shapes to extract token text robustly across SDK versions
+                    token = None
+                    try:
+                        # New SDK event type
+                        token = getattr(event, "token", None)
+                    except Exception:
+                        token = None
+                    if not token:
+                        try:
+                            # Fallback to delta content shape
+                            token = event.choices[0].delta.content  # type: ignore[attr-defined]
+                        except Exception:
+                            token = None
+                    if token:
+                        yield token
+        except Exception as e:
+            yield f"\n[stream error: {e}]\n"
     
     def _extract_confidence(self, response_text: str) -> float:
         """Extract confidence level from response text."""

@@ -4,10 +4,9 @@ from typing import Dict, Any, List, Optional
 from src.retrieval.retriever import Retriever
 import os
 import json
-from agents.base_agent import BaseAgent, AgentResponse
-from data_processors.csv_processor import CSVProcessor
-from retrieval.retriever import Retriever
-from data_processors.dataset_catalog import DatasetCatalog
+from src.agents.base_agent import BaseAgent, AgentResponse
+from src.data_processors.csv_processor import CSVProcessor
+from src.data_processors.dataset_catalog import DatasetCatalog
 
 class DataInterpreterAgent(BaseAgent):
     def __init__(self, openai_api_key: str, data_path: str, retriever: Optional[Retriever] = None):

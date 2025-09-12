@@ -213,6 +213,7 @@ Response format:
                     "Ask to view specific pages for verification",
                     "Request underlying datasets or methodology",
                 ],
+                    retrieval_method="vector_index"
             )
 
         # Fallback: identify relevant documents via heuristics
@@ -223,7 +224,8 @@ Response format:
             return AgentResponse(
                 content="I couldn't find relevant documents for your query. The available reports focus on Swiss Energy Perspectives 2050+ scenarios, technical methodologies, and policy analysis.",
                 confidence=0.2,
-                suggestions=["Ask about specific topics like methodology, scenarios, or sector analysis"]
+                suggestions=["Ask about specific topics like methodology, scenarios, or sector analysis"],
+                retrieval_method="direct_search"
             )
         
         # Extract relevant information from documents

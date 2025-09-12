@@ -1,7 +1,7 @@
 import asyncio
 from typing import Dict, Any, List, Optional
 import re
-from agents.base_agent import BaseAgent, AgentResponse
+from src.agents.base_agent import BaseAgent, AgentResponse
 
 class OrchestratorAgent(BaseAgent):
     def __init__(self, openai_api_key: str, agents_registry: Dict[str, BaseAgent] = None):
@@ -210,11 +210,17 @@ Adapt your communication style based on user type:
         # Calculate average confidence
         avg_confidence = sum(r.confidence for r in agent_responses.values()) / len(agent_responses)
         
-        # Combine data sources
+        # Combine data sources (preserve order, de-dup)
         all_sources = []
         for response in agent_responses.values():
             if response.data_sources:
                 all_sources.extend(response.data_sources)
+        seen = set()
+        ordered_sources = []
+        for s in all_sources:
+            if s not in seen:
+                seen.add(s)
+                ordered_sources.append(s)
         
         # Generate suggestions
         suggestions = []
@@ -225,8 +231,61 @@ Adapt your communication style based on user type:
         return AgentResponse(
             content=synthesized_content,
             confidence=avg_confidence,
-            data_sources=list(set(all_sources)),
+            data_sources=ordered_sources,
             reasoning=f"Synthesized from {', '.join(agent_responses.keys())}",
             suggestions=list(set(suggestions))[:3],  # Limit to 3 suggestions
             agents_involved=list(agent_responses.keys()),
         )
+
+    async def prepare_streaming_synthesis(self, query: str, context: Optional[Dict[str, Any]] = None):
+        """Prepare messages for streaming the final synthesis and return (messages, meta).
+        Meta contains avg_confidence, data_sources, suggestions, agents list.
+        """
+        routing_decision = await self._analyze_query_routing(query, context)
+        agent_responses = await self._route_to_agents(query, routing_decision, context)
+
+        if not agent_responses:
+            messages = self._prepare_messages("Return a brief apology; no agents available.")
+            meta = {"avg_confidence": 0.1, "data_sources": [], "suggestions": ["Try rephrasing the question"], "agents": []}
+            return messages, meta
+
+        synthesis_prompt = f"""
+        Synthesize these specialist responses into a coherent answer for the user query: "{query}"
+        
+        User type: {routing_decision.get('user_type', 'citizen')}
+        Query complexity: {routing_decision.get('complexity', 'medium')}
+        
+        Specialist Responses:
+        """
+        for agent_name, response in agent_responses.items():
+            synthesis_prompt += f"\n{agent_name}:\n{response.content}\n"
+        synthesis_prompt += """
+        Provide a synthesized response that:
+        1. Directly answers the user's question
+        2. Integrates insights from multiple specialists
+        3. Maintains appropriate complexity level for the user type
+        4. Includes confidence assessment
+        5. Suggests relevant follow-up questions
+        """
+        messages = self._prepare_messages(synthesis_prompt)
+
+        avg_confidence = sum(r.confidence for r in agent_responses.values()) / max(len(agent_responses), 1)
+        all_sources = []
+        suggestions = []
+        for response in agent_responses.values():
+            if response.data_sources:
+                all_sources.extend(response.data_sources)
+            if response.suggestions:
+                suggestions.extend(response.suggestions)
+        meta = {
+            "avg_confidence": avg_confidence,
+            "data_sources": list(set(all_sources)),
+            "suggestions": list(set(suggestions))[:3],
+            "agents": list(agent_responses.keys()),
+        }
+        return messages, meta
+
+    async def stream_synthesis(self, messages):
+        """Proxy for BaseAgent streaming to keep API cohesive."""
+        async for token in self._stream_openai(messages):
+            yield token

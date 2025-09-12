@@ -1,16 +1,20 @@
 from typing import Dict, Any, List, Optional
 import json
+import os
 from agents.base_agent import BaseAgent, AgentResponse
 from data_processors.pdf_processor import PDFProcessor
+from retrieval.retriever import Retriever
 
 class DocumentIntelligenceAgent(BaseAgent):
-    def __init__(self, openai_api_key: str, reports_path: str):
+    def __init__(self, openai_api_key: str, reports_path: str, retriever: Optional[object] = None):
         super().__init__(
             name="DocumentIntelligence", 
             description="Processes PDF reports and extracts knowledge from technical documents",
             openai_api_key=openai_api_key
         )
         self.pdf_processor = PDFProcessor(reports_path)
+        # Hybrid RAG retriever (multimodal within PDFs)
+        self.retriever = retriever or Retriever(persist_dir="data/chroma")
         self.document_catalog = self._build_document_catalog()
         
     def _build_system_prompt(self) -> str:
@@ -125,6 +129,93 @@ Response format:
     
     async def process_query(self, query: str, context: Optional[Dict[str, Any]] = None) -> AgentResponse:
         """Process document intelligence query."""
+        # First try semantic retrieval over PDFs (chunks, figures, tables)
+        hits = []
+        try:
+            hits = self.retriever.search_pdf(query, k=6)
+        except Exception as e:
+            print(f"Retrieval error for query '{query}': {e}")
+            hits = []
+
+        if hits:
+            # Use hits as grounded context
+            context_snippets = [
+                {
+                    "type": h.get("type"),
+                    "text": h.get("text"),
+                    "citation": h.get("citation"),
+                    "score": round(float(h.get("score", 0.0)), 4),
+                }
+                for h in hits
+            ]
+
+            prompt = (
+                "You are analyzing Swiss energy reports. Answer the query using only the provided excerpts.\n"
+                "Cite each claim with (doc, page). If multiple sources disagree, explain.\n"
+                f"Query: {query}\n\nExcerpts:\n" +
+                "\n\n".join(
+                    [
+                        f"- [{i+1}] ({s['citation'].get('doc')}, p{s['citation'].get('page')}) {s['text'][:800]}"
+                        for i, s in enumerate(context_snippets)
+                        if s.get('text')
+                    ]
+                )
+            )
+
+            messages = self._prepare_messages(prompt)
+            response_content = await self._call_openai(messages)
+
+            data_sources = []
+            for h in hits:
+                cit = h.get('citation')
+                if isinstance(cit, dict):
+                    doc = cit.get('doc')
+                    page = cit.get('page')
+                    if doc and isinstance(doc, str) and doc.strip():
+                        # Accept int, str, or convertible page
+                        if page is not None and (isinstance(page, (int, str)) or hasattr(page, '__str__')):
+                            try:
+                                page_str = str(page)
+                                data_sources.append(f"{doc}#p{page_str}")
+                            except Exception:
+                                print(f"Warning: Could not format page in citation: {cit}")
+                        else:
+                            print(f"Warning: Malformed page in citation: {cit}")
+                    else:
+                        print(f"Warning: Malformed doc in citation: {cit}")
+                else:
+                    print(f"Warning: Citation is not a dict: {cit}")
+                # Attach figure thumbnail if available
+                if h.get('type') == 'figure_captions':
+                    img_path = (h.get('metadata') or {}).get('image_path')
+                    # Validate image path
+                    if isinstance(img_path, str) and img_path.strip():
+                        abs_img_path = os.path.abspath(img_path)
+                        # Define allowed root directories (customize as needed)
+                        allowed_roots = [os.path.abspath('data/ingest/figures'), os.path.abspath('data/chroma'), os.path.abspath('data/reports')]
+                        if any(abs_img_path.startswith(root) for root in allowed_roots):
+                            if os.path.exists(abs_img_path) and os.path.isfile(abs_img_path):
+                                data_sources.append(abs_img_path)
+                            else:
+                                print(f"Warning: Image path does not exist or is not a file: {img_path}")
+                        else:
+                            print(f"Warning: Image path not in allowed directories: {img_path}")
+                    else:
+                        # No image path available; skip without warning to reduce noise
+                        pass
+
+            return AgentResponse(
+                content=response_content,
+                confidence=min(0.85, 0.5 + 0.05 * len(hits)),
+                data_sources=data_sources,
+                reasoning=f"Used {len(hits)} retrieval hits as grounding context",
+                suggestions=[
+                    "Ask to view specific pages for verification",
+                    "Request underlying datasets or methodology",
+                ],
+            )
+
+        # Fallback: identify relevant documents via heuristics
         # Identify relevant documents
         relevant_docs = self._identify_relevant_documents(query)
         
